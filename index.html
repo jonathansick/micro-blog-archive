@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+	<meta name="generator" content="Hugo 0.91.2" />
+
+  <title>
+      
+      Jonathan Sick’s Timeline
+      
+  </title>
+
+</head>
+
+
+  <body>
+
+    
+
+	
+<div class="h-feed">
+
+	
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://www.jonathansick.blog/2022/07/19/the-fact-is.html" class="u-url"><time class="dt-published" datetime="2022-07-19 07:32:08 -0400">Jul 19, 2022</time></a>
+
+		<div class="e-content">
+			 <blockquote>
+<p>The fact is that one of America’s two major political parties appears to be viscerally opposed to any policy that seems to serve the public good.</p>
+</blockquote>
+<p><a href="https://www.nytimes.com/2022/07/18/opinion/climate-politics-manchin.html">Paul Krugman</a></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://www.jonathansick.blog/2022/07/18/embracing-the-pyprojecttoml.html">Embracing the pyproject.toml future of packaging Python projects with setuptools</a></h1>
+		
+
+		<a href="https://www.jonathansick.blog/2022/07/18/embracing-the-pyprojecttoml.html" class="u-url"><time class="dt-published" datetime="2022-07-18 10:15:01 -0400">Jul 18, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Last week I worked on <a href="https://github.com/lsst/templates/tree/main/project_templates/square_pypi_package">a new template for PyPI python projects</a> for SQuaRE, my team at Rubin Observatory.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> One of the banner features in this new template is that we did away with <code>setup.cfg</code> and went all-in with <code>pyproject.toml</code> for defining our projects' packaging.</p>
+<h2 id="peps-517-518-and-621">PEPs 517, 518 and 621</h2>
+<p>First, a reminder of what&rsquo;s going on with Python packaging. <a href="https://peps.python.org/pep-0517/">PEP 517</a> and <a href="https://peps.python.org/pep-0518/">PEP 518</a> introduced the idea of a &ldquo;build-system independent format for source trees.&rdquo; Up to that point, the assumption was that all Python projects would be built with setuptools.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> A build-system independent format lets you specify an alternative build backend, but in a standardized way, so that a front-end like <code>pip</code> can build and install the package regardless. In the SQuaRE team, though we use setuptools, we embraced PEP 517 and added <code>pyroject.toml</code> files containing a <code>[build-system]</code> table. However, our project metadata remained in <code>setup.cfg</code>, where setuptools expects it.</p>
+<p>Then in <a href="https://peps.python.org/pep-0621/">PEP 621</a>, Python introduced a standardized schema for storing a project&rsquo;s metadata (everything from its name to its dependencies) in a <code>[project]</code> table of <code>project.toml</code> files. At this point, it seemed as if we could finally drop <code>setup.cfg</code> files from our projects entirely.</p>
+<p>Well, almost. The last straw was for setuptools itself to support <code>pyproject.toml</code> configurations for aspects of the build that are specific to setuptools, like package discovery. Currently, the support for a <code>[tool.setuptools]</code> table in pyproject.toml is in beta, but it exists and that was good enough for our team to start supporting it.</p>
+<p>And with that, we can now package our Python projects with only a <code>pyproject.toml</code> file, dropping <code>setup.cfg</code> and (almost) <code>setup.py</code> (more on this later).</p>
+<h2 id="our-template-pyprojecttoml">Our template pyproject.toml</h2>
+<p>This is the example pyproject.toml from our template (and here&rsquo;s the related <a href="https://github.com/lsst/templates/blob/main/project_templates/square_pypi_package/%7B%7Bcookiecutter.pypi_name%7D%7D/pyproject.toml">Jinja2/cookiecutter template</a> for it). You can also <a href="https://github.com/lsst-sqre/kafkit/blob/main/pyproject.toml">see it in action with Kafkit</a>, one of our Python packages for Kafka.</p>
+<pre><code>[project]
+# https://packaging.python.org/en/latest/specifications/declaring-project-metadata/
+name = &quot;example&quot;
+description = &quot;Short one-sentence description of the package&quot;
+license = {file = &quot;LICENSE&quot;}
+readme= &quot;README.md&quot;
+keywords = [
+    &quot;rubin&quot;,
+    &quot;lsst&quot;,
+]
+# https://pypi.org/classifiers/
+classifiers = [
+    &quot;Development Status :: 4 - Beta&quot;,
+    &quot;License :: OSI Approved :: MIT License&quot;,
+    &quot;Programming Language :: Python&quot;,
+    &quot;Programming Language :: Python :: 3&quot;,
+    &quot;Programming Language :: Python :: 3.8&quot;,
+    &quot;Programming Language :: Python :: 3.9&quot;,
+    &quot;Programming Language :: Python :: 3.10&quot;,
+    &quot;Intended Audience :: Developers&quot;,
+    &quot;Natural Language :: English&quot;,
+    &quot;Operating System :: POSIX&quot;,
+    &quot;Typing :: Typed&quot;,
+]
+requires-python = &quot;&gt;=3.8&quot;
+dependencies = []
+dynamic = [&quot;version&quot;]
+
+[project.optional-dependencies]
+dev = [
+    # Testing
+    &quot;coverage[toml]&quot;,
+    &quot;pytest&quot;,
+    &quot;pytest-asyncio&quot;,
+    &quot;pre-commit&quot;,
+    &quot;mypy&quot;,
+    # Documentation
+    &quot;sphinx&quot;,
+    &quot;documenteer&quot;,
+    &quot;lsst-sphinx-bootstrap-theme&quot;,
+    &quot;sphinx-prompt&quot;,
+    &quot;sphinx-automodapi&quot;,
+    &quot;myst-parser&quot;,
+    &quot;markdown-it-py[linkify]&quot;,
+]
+
+[project.urls]
+# Homepage = &quot;https://example.lsst.io&quot;
+Source = &quot;https://github.com/lsst-sqre/example&quot;
+
+[build-system]
+requires = [
+    &quot;setuptools&gt;=61&quot;,
+    &quot;wheel&quot;,
+    &quot;setuptools_scm[toml]&gt;=6.2&quot;
+]
+build-backend = &quot;setuptools.build_meta&quot;
+
+[tool.setuptools_scm]
+
+[tool.setuptools.packages.find]
+# https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html
+where = [&quot;src&quot;]
+include = [&quot;example*&quot;]
+
+[tool.coverage.run]
+parallel = true
+branch = true
+source = [&quot;example&quot;]
+
+[tool.coverage.paths]
+source = [&quot;src&quot;, &quot;.tox/*/site-packages&quot;]
+
+[tool.coverage.report]
+show_missing = true
+exclude_lines = [
+    &quot;pragma: no cover&quot;,
+    &quot;def __repr__&quot;,
+    &quot;if self.debug:&quot;,
+    &quot;if settings.DEBUG&quot;,
+    &quot;raise AssertionError&quot;,
+    &quot;raise NotImplementedError&quot;,
+    &quot;if 0:&quot;,
+    &quot;if __name__ == .__main__.:&quot;,
+    &quot;if TYPE_CHECKING:&quot;
+]
+
+[tool.black]
+line-length = 79
+target-version = [&quot;py38&quot;]
+exclude = '''
+/(
+    \.eggs
+  | \.git
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | _build
+  | build
+  | dist
+)/
+'
+# Use single-quoted strings so TOML treats the string like a Python r-string
+#  Multi-line strings are implicitly treated by black as regular expressions
+
+[tool.pydocstyle]
+# Reference: http://www.pydocstyle.org/en/stable/error_codes.html
+convention = &quot;numpy&quot;
+add_select = [
+    &quot;D212&quot; # Multi-line docstring summary should start at the first line
+]
+add-ignore = [
+    &quot;D105&quot;, # Missing docstring in magic method
+    &quot;D102&quot;, # Missing docstring in public method (needed for docstring inheritance)
+    &quot;D100&quot;, # Missing docstring in public module
+    # Below are required to allow multi-line summaries.
+    &quot;D200&quot;, # One-line docstring should fit on one line with quotes
+    &quot;D205&quot;, # 1 blank line required between summary line and description
+    &quot;D400&quot;, # First line should end with a period
+    # Properties shouldn't be written in imperative mode. This will be fixed
+    # post 6.1.1, see https://github.com/PyCQA/pydocstyle/pull/546
+    &quot;D401&quot;,
+]
+
+[tool.isort]
+profile = &quot;black&quot;
+line_length = 79
+known_first_party = [&quot;example&quot;, &quot;tests&quot;]
+skip = [&quot;docs/conf.py&quot;]
+
+[tool.pytest.ini_options]
+asyncio_mode = &quot;strict&quot;
+python_files = [
+    &quot;tests/*.py&quot;,
+    &quot;tests/*/*.py&quot;
+]
+
+[tool.mypy]
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+ignore_missing_imports = true
+strict_equality = true
+warn_redundant_casts = true
+warn_unreachable = true
+warn_unused_ignores = true
+# plugins =
+</code></pre>
+<p>This <code>pyproject.toml</code> is built for a &ldquo;src/&rdquo; Python package layout. The <code>[tool.setuptools.packages.find]</code> table is where we configure this.</p>
+<h2 id="setuppy-is-still-necessary-for-now">setup.py is still necessary, for now</h2>
+<p>Our original goal with this new template was to do away with the &ldquo;legacy&rdquo; packaging files: <code>setup.cfg</code> and <code>setup.py</code>. We did succeed in doing away with <code>setup.cfg</code> since not only has <code>setuptools</code> moved to <code>pyproject.toml</code>, but nearly every other tool using <code>setup.cfg</code> has moved their configurations as well.<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup></p>
+<p>It might seem like <code>setup.py</code> is also obsolete. However, in our experience, some projects still require it for editable installs <code>pip install -e .</code>. We often use editable installs during development to rapidly test and prototype, so this is a useful feature for us. For that reason, we&rsquo;ve had to re-add a basic <code>setup.py</code> file to our projects:</p>
+<pre><code>from setuptools import setup
+
+setup()
+</code></pre>
+<p>What&rsquo;s surprising is that, anecdotally, not all setuptools-based projects seem to need a <code>setup.py</code> for their editable installs.</p>
+<p>Regardless, <a href="https://github.com/pypa/setuptools/issues/2816">setuptools issue 2816</a> is worth a subscription to learn when this has changed.</p>
+<h2 id="concatenated-readmes-with-markdown-may-not-work">Concatenated READMEs with Markdown may not work</h2>
+<p>With the new <code>[project]</code> table in <code>pyproject.toml</code>, you can set a <code>readme</code> field that links to your project&rsquo;s README file. This effectively replaces the old &ldquo;long description&rdquo; field, where, back in the <code>setup.py</code> days, we&rsquo;d write a small function to open and insert text from the README file. This is a nice, clean way of standardizing that practice.</p>
+<p>Something I liked to do in our <code>setup.cfg</code> files was to actually concatenated multiple files into the long description:</p>
+<pre><code>[metadata]
+name = documenteer
+long_description = file: README.rst, CHANGELOG.rst, LICENSE
+long_description_content_type = text/x-rst
+</code></pre>
+<p>This way, the project&rsquo;s page on PyPI would include not only the README but also the change log, followed by the license. Nice.</p>
+<p>In <code>pyproject.toml</code>, the same can be accomplished by making the README <em>dynamic</em>:</p>
+<pre><code>[project]
+dynamic = [&quot;readme&quot;]
+
+[tool.setuptools.dynamic]
+readme = {file = [&quot;README.rst&quot;, &quot;CHANGELOG.rst&quot;]}
+</code></pre>
+<p>And this works. Where things went wrong for me is using Markdown for the README and CHANGELOG:</p>
+<pre><code>[project]
+dynamic = [&quot;readme&quot;]
+
+[tool.setuptools.dynamic]
+readme = {file = [&quot;README.md&quot;, &quot;CHANGELOG.md&quot;]}
+</code></pre>
+<p>When I looked inside the built wheel&rsquo;s <code>METADATA</code> file, the <code>Description-Content-Type</code> would be <code>text/re-structured-text</code> instead of <code>text/markdown</code>. Normally, the tooling successfully detects the content type for the description, but this may not be working for dynamic READMEs. Something to be aware of, as setuptools' <code>pyproject.toml</code> support is being developed.</p>
+<h2 id="further-reading">Further reading</h2>
+<ul>
+<li><a href="https://packaging.python.org/en/latest/specifications/declaring-project-metadata/">PyPA&rsquo;s documentation for declaring project metadata in pyproject.toml</a></li>
+<li><a href="https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html">setuptools' documentation for pyproject.toml configuration</a></li>
+</ul>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p><a href="https://github.com/lsst/templates">We love to create templates</a> because they enable us to standardize on technologies and workflows. Even though we have tens/hundreds of GitHub repositories at Rubin (depending on the organizational scope), working in these projects is familiar because they all share the same structure and technologies.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>Like distutils and packaging — remember thee?&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3" role="doc-endnote">
+<p>Except flake8 — so we&rsquo;ve booted flake8 to its own <code>.flake8</code> configuration file.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://www.jonathansick.blog/2022/07/18/the-penetanguishene-outer.html" class="u-url"><time class="dt-published" datetime="2022-07-18 08:12:16 -0400">Jul 18, 2022</time></a>
+
+		<div class="e-content">
+			 <p>The Penetanguishene outer harbour last night, dressed up in the setting light.</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://www.jonathansick.blog/2022/07/14/onboarding-into-a.html" class="u-url"><time class="dt-published" datetime="2022-07-14 12:05:38 -0400">Jul 14, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Onboarding into a public cloud project: enter your email and credit card info (or have your team lead click an invite button).</p>
+<p>Onboarding into a gov &ldquo;cloud&rdquo; project: send us your detailed CV, passport scan, visa, and other personal info.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://www.jonathansick.blog/2022/07/13/finished-reading-the.html" class="u-url"><time class="dt-published" datetime="2022-07-13 21:17:06 -0400">Jul 13, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Finished reading: <a href="https://micro.blog/books/9780062910691">The Cartographers: A Novel</a> by Peng Shepherd 📚</p>
+<p>I loved this book so much, and am glad I learned about it by chance from <a href="https://micro.blog/manton">@manton</a>&rsquo;s feed. It&rsquo;s an academic thriller — what can I say! I won&rsquo;t think about maps the same again.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://www.jonathansick.blog/2022/07/05/jira-can-be.html" class="u-url"><time class="dt-published" datetime="2022-07-05 10:58:20 -0400">Jul 5, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Jira can be rough compared to GitHub issues; but it’s the backbone of Rubin work tracking. I’ve discovered how to use @draftsapp for Mac/iPad/iOS to submit issues for me: it converts Markdown to Jira, creates the issue in my current epic, and then prepends a link to my draft 🥳</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://www.jonathansick.blog/2021/08/02/ive-been-reading.html" class="u-url"><time class="dt-published" datetime="2021-08-02 13:42:43 -0400">Aug 2, 2021</time></a>
+
+		<div class="e-content">
+			 <p>I’ve been reading <a href="https://www.cosmicpython.com">Architecture Patterns with Python</a>. Every chapter they introduce a new issue, and I’m like “yes, that’s an architectural problem I’ve had in my code” and then they show to solve it. Highly approachable. I recommend it to anyone building applications or services.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://www.jonathansick.blog/2021/07/22/ive-been-using.html" class="u-url"><time class="dt-published" datetime="2021-07-22 10:38:59 -0400">Jul 22, 2021</time></a>
+
+		<div class="e-content">
+			 <p>I&rsquo;ve been using Pydantic and FastAPI a lot lately and I&rsquo;m struck at their lack of API docs (compared to most Python package docs). Its as if these modern libraries are built for the era of IntelleSense and autocomplete to bring docs into the editor.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://www.jonathansick.blog/2021/07/20/rethinking-the-social.html">Rethinking the social web in 2021</a></h1>
+		
+
+		<a href="https://www.jonathansick.blog/2021/07/20/rethinking-the-social.html" class="u-url"><time class="dt-published" datetime="2021-07-20 18:51:11 -0400">Jul 20, 2021</time></a>
+
+		<div class="e-content">
+			 <p>Facebook was fantastic as a college kid: it was just an exclusive club for your an your dorm mates. Then everyone got on Facebook and the content became less and less relevant. Twitter was fantastic as a way to connect with techy astronomy colleagues. It felt like our own little back channel. Then Twitter became a political battle ground, and although the conversations were powerful, they were also overwhelming. Instagram was an oasis where there was no politics, just photos of your day. A way to connect with faraway friends. Now <a href="https://debugger.medium.com/instagram-has-become-skymall-68b9f2fbbc30">Instagram has become Skymall</a>. Does the utility of all social media platforms self-implode at some point under the weight of growth and ad sales?</p>
+<p>I feel like I&rsquo;ve lost the tune with social media. I haven&rsquo;t used Facebook or kept up with my Twitter timeline in years. I keep feeling bad whenever I open Instagram. And that&rsquo;s fine. I have more time for meaningful work. But I also feel like I&rsquo;m disappearing off the face of the internet by no longer engaging with social media.</p>
+<p>So here we are in 2021. What should my social existence on the web look like?</p>
+<p>I&rsquo;m going to try going back to the basics. I&rsquo;m going to resolve to own my own corner of the web with <a href="https://jonathansick.ca">jonathansick.ca</a> and no longer rent space from social media companies. I&rsquo;m also going to see how this micro.blog site fits in. I initially signed up in 2017. The concept of the indie web didn&rsquo;t fully connect with me back then, but now its clear that building my own site and paying directly for services and apps is the way that I want to exist on the web going forward.</p>
+
+		</div>
+	  </div>
+	
+
+</div>
+
+
+    
+    
+
+  </body>
+
+</html>
