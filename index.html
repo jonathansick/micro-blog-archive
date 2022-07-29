@@ -24,6 +24,77 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://www.jonathansick.blog/2022/07/29/strimzi-registry-operator.html">Strimzi Registry Operator 0.5.0 released for Kafka</a></h1>
+		
+
+		<a href="https://www.jonathansick.blog/2022/07/29/strimzi-registry-operator.html" class="u-url"><time class="dt-published" datetime="2022-07-29 12:51:35 -0400">Jul 29, 2022</time></a>
+
+		<div class="e-content">
+			 <p>We just released version 0.5.0 of the <a href="https://github.com/lsst-sqre/strimzi-registry-operator">Strimzi Registry Operator</a> (see <a href="https://github.com/lsst-sqre/strimzi-registry-operator/releases/tag/0.5.0">release notes</a>). Strimzi Registry Operator helps you run a <a href="https://docs.confluent.io/platform/current/schema-registry/index.html">Confluent Schema Registry</a> for a <a href="https://kafka.apache.org/">Kafka</a> cluster that&rsquo;s managed by the fabulous <a href="https://strimzi.io">Strimzi operator</a> for Kubernetes. The Schema Registry allows you to efficiently encode your Kafka messages in <a href="https://avro.apache.org">Avro</a>, while centrally managing their schemas in the registry.</p>
+<p>With the Strimzi Registry Operator, you deploy a Kubernetes resources like this:</p>
+<pre><code>apiVersion: roundtable.lsst.codes/v1beta1
+kind: StrimziSchemaRegistry
+metadata:
+  name: confluent-schema-registry
+spec:
+  listener: tls
+  securityProtocol: tls
+  compatibilityLevel: forward
+</code></pre>
+<p>The operator deploys a Schema Registry server based on that <code>StrimziSchemaRegistry</code> resource and takes care of details like mapping the Kafka listener and converting the mutual TLS certificates into the JKS formatted keystore and truststore required by the Schema Registry.</p>
+<p>We at Rubin Observatory&rsquo;s <a href="https://github.com/lsst-sqre">SQuaRE</a> team created the Strimzi Registry Operator back in 2019 to help us deploy an internal Kafka to power our ChatOps. Since then, this technology has become critical for other Rubin applications like the alert broker and the engineering facilities database (telemetry from the telescope facility). We&rsquo;ve also gotten hints that the operator has been adopted by other Strimzi users, which we&rsquo;re thrilled to hear of. Open source in action! ✨</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://www.jonathansick.blog/2022/07/27/a-little-fatherdaughter.html" class="u-url"><time class="dt-published" datetime="2022-07-27 09:36:43 -0400">Jul 27, 2022</time></a>
+
+		<div class="e-content">
+			 <p>A little father-daughter woodworking moment. 🐱🪚 Emma likes shavings&hellip; especially the long stringy ones from rounding off edges.</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://www.jonathansick.blog/2022/07/26/til-you-can.html" class="u-url"><time class="dt-published" datetime="2022-07-26 14:25:44 -0400">Jul 26, 2022</time></a>
+
+		<div class="e-content">
+			 <p>TIL you can create Note and warning admonitions in GitHub Flavored Markdown</p>
+<p><a href="https://github.com/community/community/discussions/16925">github.com/community&hellip;</a></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://www.jonathansick.blog/2022/07/25/httpie-and-github.html">httpie and GitHub Actions</a></h1>
+		
+
+		<a href="https://www.jonathansick.blog/2022/07/25/httpie-and-github.html" class="u-url"><time class="dt-published" datetime="2022-07-25 15:29:20 -0400">Jul 25, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I love <a href="https://httpie.io">httpie</a> as an alternative to <code>curl</code>. It feels fresher, and is built for working with today&rsquo;s HTTP APIs.</p>
+<p>Anyways, I was using httpie&rsquo;s <code>@=</code> <a href="https://httpie.io/docs/cli/non-string-json-fields">feature for embedding file content in a JSON field</a> within a GitHub Actions workflow and got an error:</p>
+<blockquote>
+<p>Request body (from stdin, &ndash;raw or a file) and request data (key=value) cannot be mixed. Pass &ndash;ignore-stdin to let key/value take priority. See <a href="https://httpie.io/docs#scripting">https://httpie.io/docs#scripting</a> for details.</p>
+</blockquote>
+<p>I didn&rsquo;t <em>think</em> I was doing anything with passing standard input, and the command was running just fine locally, so I spent a good while finding possible solutions. Turns out I should have taken the error at face value. Somehow GitHub Actions runs commands in a way that triggers this stdin behaviour and need <code>--ignore-stdin</code>:</p>
+<pre><code>http --ignore-stdin --json post $REGISTRY_URL/subjects/testsubject/versions \
+    schema=@testsubject.json \
+    Accept:application/vnd.schemaregistry.v1+json
+</code></pre>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 
 		<a href="https://www.jonathansick.blog/2022/07/19/the-fact-is.html" class="u-url"><time class="dt-published" datetime="2022-07-19 07:32:08 -0400">Jul 19, 2022</time></a>
 
