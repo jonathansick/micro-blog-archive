@@ -24,6 +24,41 @@
 	
 	  <div class="h-entry">
 		
+
+		<a href="https://www.jonathansick.blog/2022/08/05/finished-reading-the.html" class="u-url"><time class="dt-published" datetime="2022-08-05 18:36:11 -0400">Aug 5, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Finished reading: <a href="https://micro.blog/books/9780140154351">The Hard-boiled Wonderland and the End of the World (Penguin International Writers)</a> by Haruki Murakami. Found this book from a Carly Rae Jepson insta post (yes!) and glad I dove in to this sci-fi mediation on the mind. 📚</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://www.jonathansick.blog/2022/08/01/july-in-review.html">July 2022 in review</a></h1>
+		
+
+		<a href="https://www.jonathansick.blog/2022/08/01/july-in-review.html" class="u-url"><time class="dt-published" datetime="2022-08-01 07:33:01 -0400">Aug 1, 2022</time></a>
+
+		<div class="e-content">
+			 <p>This is the first edition of what I intend to be a monthly round-up of the month. I&rsquo;m doing this a bit for you — to keep tabs on what I&rsquo;m up to — and also a bit for me to reflect on where my focus and effort are.<a href="The%20idea%20of%20a%20weekly%20review%20comes%20from%20David%20Sparks,%20who%20talks%20about%20it%20frequently%20on%20his%20%5BMacSparky%20blog%5D(https://www.macsparky.com)%20and%20in%20training%20courses.%20Reviews%20are%20also%20a%20bit%20part%20of%20productivity%20methodolgies%20taught%20by%20%5BThe%20Focus%20Course%5D(https://thefocuscourse.com)%20and%20%5BGetting%20Things%20done%5D(https://gettingthingsdone.com).">FN</a></p>
+<h2 id="doing-the-work">Doing the work</h2>
+<p>I started the month wrapping up basic <a href="https://github.com/lsst-sqre/times-square/pull/41">GitHub Checks integration</a> for Times Square, a dynamic Jupyter notebook publishing service for the Rubin Science Platform. Times Square is in semi-stealth mode (they&rsquo;re both currently public open source), but I can&rsquo;t wait to see how they get used by Rubin teams.</p>
+<p>Next, I spent some time working on a new Cookiecutter template for <a href="https://github.com/lsst/templates/tree/main/project_templates/square_pypi_package">&ldquo;SQuaRE-style&rdquo; Python packages that are published to PyPI</a>. We&rsquo;ve been informally copying the same patterns between our major libraries like <a href="https://github.com/lsst-sqre/safir">Safir</a> and <a href="https://github.com/lsst-sqre/documenteer">Documenteer</a>, but this template formalizes the basic structure for a SQuaRE package. It also provided us a chance to update our best practices. For instance, we&rsquo;ve <a href="https://www.jonathansick.blog">switched to pyproject.toml entirely for project metadata, as I wrote about on this blog.</a> Second, I wanted to find a way to make our common GitHub Actions workflows more maintainable. It turns out that composite GitHub Actions are a low-overhead way of grouping sequences of actions together. The result is that the &ldquo;user&rdquo; workflows are both shorter and have less code to maintain since all the logic is now maintained in centralized actions. So far I&rsquo;ve made three composite actions: <a href="https://github.com/lsst-sqre/run-tox">lsst-sqre/run-tox</a>, <a href="https://github.com/lsst-sqre/ltd-upload">lsst-sqre/ltd-upload</a>, and <a href="https://github.com/lsst-sqre/build-and-publish-to-pypi">lsst-sqre/build-and-publish-to-pypi</a>.</p>
+<p>I refreshed some of the Kafka infrastructure that SQuaRE uses internally and provides to the rest of Rubin Observatory. First, I updated the packaging for <a href="https://kafkit.lsst.io">Kafkit</a>, our Python package for encoding Kafka messages in conjunction with the Confluent Schema Registry. Kafkit is also available on conda-forge now at <a href="https://github.com/conda-forge/kafkit-feedstock">conda-forge/kafkit-feedstock</a>. I also overhauled Strimzi Registry Operator, our Kubernetes operator for deploying the Confluence Schema Registry on a Strimzi-deployed Kafka cluster. One bit of that refresh I&rsquo;m really happy with is <a href="https://github.com/lsst-sqre/strimzi-registry-operator/pull/57">a PR that deploys Kafka, the operator, and a Schema Registry in minikube within GitHub Actions</a>. This technique for building an application within minikube has a lot of potential as way of running integration tests for a lot of our microservices.</p>
+<p>Lastly, I&rsquo;ve also been thinking more about my online presence, including the viability of Instagram and my years-long absence from Twitter. I&rsquo;ve started to invest effort into <a href="https://micro.blog">Micro.blog</a> as a way of owning my content and cross-posting to Twitter and Instagram where it makes sense. Social media was really important for launching my career, but while working Rubin I&rsquo;ve let it all drop off. It feel like it&rsquo;s time to re-emerge, but on my own terms. I feel like we&rsquo;re doing a lot of cool stuff at Rubin, and it&rsquo;s time to share it with the world now that we&rsquo;re getting closer to first light.</p>
+<h2 id="pursuits">Pursuits</h2>
+<p>I got a DJI Mini 3 micro drone. The technology is astounding. I&rsquo;ve been steadily learning its flying functionality and just barely digging into its camera functionality. I&rsquo;m also playing around with editing the drone footage on my iPad with LumaFusion. It really feels like the future.</p>
+<h2 id="reading">Reading</h2>
+<p>Finished <em>The Cartographers</em> by Peng Shepherd and <em>Tongues of Serpents</em> by Naomi Novik (with Amanda). Started reading <em>Hard-Boiled Wonderland and the End of the World</em> by Haruki Murakami.</p>
+<h2 id="heavy-rotation">Heavy rotation</h2>
+<p><em>The Garden</em> by Basia Bulat (we&rsquo;ve been playing this on vinyl at dinner), <em>Formentera</em> by Metric, and <em>graves</em> by Purity Ring.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 			<h1><a href="https://www.jonathansick.blog/2022/07/29/strimzi-registry-operator.html">Strimzi Registry Operator 0.5.0 released for Kafka</a></h1>
 		
 
@@ -43,6 +78,7 @@ spec:
 </code></pre>
 <p>The operator deploys a Schema Registry server based on that <code>StrimziSchemaRegistry</code> resource and takes care of details like mapping the Kafka listener and converting the mutual TLS certificates into the JKS formatted keystore and truststore required by the Schema Registry.</p>
 <p>We at Rubin Observatory&rsquo;s <a href="https://github.com/lsst-sqre">SQuaRE</a> team created the Strimzi Registry Operator back in 2019 to help us deploy an internal Kafka to power our ChatOps. Since then, this technology has become critical for other Rubin applications like the alert broker and the engineering facilities database (telemetry from the telescope facility). We&rsquo;ve also gotten hints that the operator has been adopted by other Strimzi users, which we&rsquo;re thrilled to hear of. Open source in action! ✨</p>
+<p>To learn more, take a look at the <a href="https://github.com/lsst-sqre/strimzi-registry-operator">Strimzi Registry Operator repository on GitHub</a>.</p>
 
 		</div>
 	  </div>
