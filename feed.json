@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://jonathansick.micro.blog/2022/08/23/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780008225629\">The Book Of M</a> by Peng Shepherd 📚 It felt coincidental to read this right after <a href=\"https://micro.blog/books/9780140154351\">The Hard-boiled Wonderland and the End of the World</a>, with both speculating on the ideas of one’s shadow holding one’s soul/memories. A really lovely book with a similar slow slide into magic as Peng’s other book, <a href=\"https://micro.blog/books/9780062910691\">The Cartographers</a>.</p>\n",
+				"content_text": "Finished reading: [The Book Of M](https://micro.blog/books/9780008225629) by Peng Shepherd 📚 It felt coincidental to read this right after [The Hard-boiled Wonderland and the End of the World](https://micro.blog/books/9780140154351), with both speculating on the ideas of one’s shadow holding one’s soul/memories. A really lovely book with a similar slow slide into magic as Peng’s other book, [The Cartographers](https://micro.blog/books/9780062910691).\n",
+				"date_published": "2022-08-23T12:41:07-04:00",
+				"url": "https://www.jonathansick.blog/2022/08/23/finished-reading-the.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/08/16/a-sunrise-from.html",
+				
+				"content_html": "<p>A sunrise from a couple weeks ago that I got around to HDR stacking.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A sunrise from a couple weeks ago that I got around to HDR stacking.\n\n<img src=\"uploads/2022/bba6897575.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-08-16T09:18:01-04:00",
+				"url": "https://www.jonathansick.blog/2022/08/16/a-sunrise-from.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/08/15/im-kicking-the.html",
+				
+				"content_html": "<p>I&rsquo;m kicking the tires on VS Code for web dev (vim+tmux user since&hellip; gosh, when did TextMate start to fall apart?). This tip for navigating splits with the keyboard is clutch → <a href=\"https://www.ryanchapin.com/vscode-keyboard-shortcut-to-navigate-between-split-panes/\">www.ryanchapin.com/vscode-ke&hellip;</a></p>\n",
+				"content_text": "I'm kicking the tires on VS Code for web dev (vim+tmux user since... gosh, when did TextMate start to fall apart?). This tip for navigating splits with the keyboard is clutch → [www.ryanchapin.com/vscode-ke...](https://www.ryanchapin.com/vscode-keyboard-shortcut-to-navigate-between-split-panes/)\n",
+				"date_published": "2022-08-15T11:13:22-04:00",
+				"url": "https://www.jonathansick.blog/2022/08/15/im-kicking-the.html"
+			},
+			{
 				"id": "http://jonathansick.micro.blog/2022/08/14/penetanguishene.html",
 				
 				"content_html": "<p>Penetanguishene</p>\n<!-- raw HTML omitted -->\n",
@@ -76,7 +100,7 @@
 				"id": "http://jonathansick.micro.blog/2022/07/27/a-little-fatherdaughter.html",
 				
 				"content_html": "<p>A little father-daughter woodworking moment. 🐱🪚 Emma likes shavings&hellip; especially the long stringy ones from rounding off edges.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A little father-daughter woodworking moment. 🐱🪚 Emma likes shavings... especially the long stringy ones from rounding off edges.\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/f2b0aeaa4d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "A little father-daughter woodworking moment. 🐱🪚 Emma likes shavings... especially the long stringy ones from rounding off edges.\n\n<img src=\"uploads/2022/f2b0aeaa4d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-27T09:36:43-04:00",
 				"url": "https://www.jonathansick.blog/2022/07/27/a-little-fatherdaughter.html"
 			},
@@ -117,7 +141,7 @@
 				"id": "http://jonathansick.micro.blog/2022/07/18/the-penetanguishene-outer.html",
 				
 				"content_html": "<p>The Penetanguishene outer harbour last night, dressed up in the setting light.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Penetanguishene outer harbour last night, dressed up in the setting light.\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/0209ca2e9b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "The Penetanguishene outer harbour last night, dressed up in the setting light.\n\n<img src=\"uploads/2022/0209ca2e9b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-18T08:12:16-04:00",
 				"url": "https://www.jonathansick.blog/2022/07/18/the-penetanguishene-outer.html"
 			},
@@ -142,7 +166,7 @@
 				"id": "http://jonathansick.micro.blog/2022/07/05/jira-can-be.html",
 				
 				"content_html": "<p>Jira can be rough compared to GitHub issues; but it’s the backbone of Rubin work tracking. I’ve discovered how to use @draftsapp for Mac/iPad/iOS to submit issues for me: it converts Markdown to Jira, creates the issue in my current epic, and then prepends a link to my draft 🥳</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Jira can be rough compared to GitHub issues; but it’s the backbone of Rubin work tracking. I’ve discovered how to use @draftsapp for Mac/iPad/iOS to submit issues for me: it converts Markdown to Jira, creates the issue in my current epic, and then prepends a link to my draft 🥳\n\n<img src=\"https://jonathansick.micro.blog/uploads/2022/1514705550.png\" width=\"600\" height=\"447\" alt=\"\" />\n",
+				"content_text": "Jira can be rough compared to GitHub issues; but it’s the backbone of Rubin work tracking. I’ve discovered how to use @draftsapp for Mac/iPad/iOS to submit issues for me: it converts Markdown to Jira, creates the issue in my current epic, and then prepends a link to my draft 🥳\n\n<img src=\"uploads/2022/1514705550.png\" width=\"600\" height=\"447\" alt=\"\" />\n",
 				"date_published": "2022-07-05T10:58:20-04:00",
 				"url": "https://www.jonathansick.blog/2022/07/05/jira-can-be.html"
 			},
