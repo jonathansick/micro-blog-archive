@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://jonathansick.micro.blog/2022/09/08/203547.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2022/87ff0fc52f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-09-08T20:35:47-04:00",
+				"url": "https://www.jonathansick.blog/2022/09/08/203547.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/09/02/in-retrospect-i.html",
+				
+				"content_html": "<p>In retrospect I should have paid more attention to knots when I was roughing out the feet for these saw horses 🙃 The Wood Owl bits didn’t care though, but paring the mortise with a chisel was a little tricky. 🪚</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "In retrospect I should have paid more attention to knots when I was roughing out the feet for these saw horses 🙃 The Wood Owl bits didn’t care though, but paring the mortise with a chisel was a little tricky. 🪚\n\n<img src=\"uploads/2022/ae89e2fe70.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-09-02T13:29:59-04:00",
+				"url": "https://www.jonathansick.blog/2022/09/02/in-retrospect-i.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/09/01/ive-started-to.html",
+				
+				"content_html": "<p>I&rsquo;ve started to use the <a href=\"https://pydata-sphinx-theme.readthedocs.io/en/stable/\">pydata-sphinx-theme</a> for our next generation of <a href=\"https://www.lsst.org\">Rubin Observatory</a> documentation sites. Still needs more tweaks, but it&rsquo;s a great foundation 😍</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I've started to use the [pydata-sphinx-theme](https://pydata-sphinx-theme.readthedocs.io/en/stable/) for our next generation of [Rubin Observatory](https://www.lsst.org) documentation sites. Still needs more tweaks, but it's a great foundation 😍\n\n<img src=\"uploads/2022/a606aa9a4c.jpg\" width=\"600\" height=\"410\" alt=\"Screenshot of the Rubin Observatory Documenteer documentation website using the &quot;light&quot; version of the pydata-sphinx-theme.\" /><img src=\"uploads/2022/31fbdf28bd.jpg\" width=\"600\" height=\"415\" alt=\"\" />\n",
+				"date_published": "2022-09-01T11:21:49-04:00",
+				"url": "https://www.jonathansick.blog/2022/09/01/ive-started-to.html"
+			},
+			{
 				"id": "http://jonathansick.micro.blog/2022/09/01/august-in-review.html",
 				"title": "August 2022 in review",
 				"content_html": "<p>August is an odd month. It&rsquo;s both the height of summer while also feeling like the end of summer up here.</p>\n<h2 id=\"doing-the-work\">Doing the work</h2>\n<p>This month, I got back into the user interface for <a href=\"https://github.com/lsst-sqre/times-square\">Times Square</a> on the Rubin Science Platform (<a href=\"https://github.com/lsst-sqre/squareone\">Squareone</a>). Now when you pull request changes to a notebook repository, Times Square will not only verify that notebooks execute cleanly, but it will also give you a link to view the rendered notebooks (<a href=\"https://github.com/lsst-sqre/squareone/pull/84\" title=\"Add page for viewing PR-preview pages\">lsst-sqre/squareone#84</a>. I think this feature will make publishing notebooks to the Times Square platform easier for Rubin staff, and will promote a pull request-based workflow.</p>\n<p>On YouTube, I stumbled upon a video by Chantastic (of React podcast fame) about <a href=\"https://youtu.be/i5tvZ9f7gJw\">setting up Storybook with Next.js</a>. <a href=\"https://storybook.js.org\">Storybook</a> is an app for developing and documenting components (such as React components) in isolated contexts. I&rsquo;ve known of Storybook for a while in the context of learning about design systems (hat tip to <a href=\"https://atomicdesign.bradfrost.com\"><em>Atomic Design</em> by Brad Frost</a>), but I&rsquo;d always considered it to be something for big teams that had the resources to set up design documentation infrastructures for their web projects. Well, it turns out that not only is Storybook amazingly easy to drop into an existing React application, but it also solves some glaring problems in my web development workflow. React components can have behaviours that depend on state. Working with state while developing components can be, quite frankly, a pain. With Storybook, I can now inject state into &ldquo;stories&rdquo; about my components, and even adjust that state in real time to see how the component adapts. You can see this initial Storybook related work in <a href=\"https://github.com/lsst-sqre/squareone/pull/87\" title=\"Initial integration with Storybook\">lsst-sqre/squareone#87</a> and <a href=\"https://github.com/lsst-sqre/squareone/pull/93\" title=\"Develop Times Square UI with storybook\">lsst-sqre/squareone#93</a>.</p>\n<p>Towards the end of the month, I moved on to another Rubin web project: theming Rubin&rsquo;s Sphinx documentation sites. We&rsquo;re trying out <a href=\"https://pydata-sphinx-theme.readthedocs.io/en/stable/\">pydata-sphinx-theme</a>, which features a three column design (navigation — content — content headers) and a novel top navigation bar. Because that top navigation bar is populated from the root-level <code>toctree</code> elements of a Sphinx site, adopting <a href=\"https://pydata-sphinx-theme.readthedocs.io/en/stable/\">pydata-sphinx-theme</a> can take some content re-organization. I&rsquo;ve implemented the theme in <a href=\"https://documenteer.lsst.io\">Documenteer</a>, and I really like the result. My pull request to set up a Rubin configuration for Sphinx documentation is <a href=\"https://github.com/lsst-sqre/documenteer/pull/129\" title=\"Adopt pydata-sphinx-theme\">lsst-sqre/documenteer#129</a></p>\n<h2 id=\"pursuits\">Pursuits</h2>\n<p>Down in the wood shop (I can&rsquo;t decide whether I want to call it a <em>wood shop</em> or <em>workshop</em> or even a <em>studio</em>) I made solid progress on my tool chest, based on the boarded chest in the <a href=\"https://lostartpress.com/products/the-anarchists-design-book\"><em>Anarchist&rsquo;s Design Book</em></a> by Schwarz. I used my combination plane to make rabbets and nailed the chest walls together with fantastically-strong 2&quot; cut nails. Then I used the combination plane to make tongue-and-groove joints for the bottom boards and nailed each board on, again with the 2&quot; cut nails. I slightly mis-aligned one board while nailing it, and after failing to pull out the nails, realized that these cut nails have fantastic holding strength. I&rsquo;m not worried about the chest bottom falling out. Now I&rsquo;ve pivoted to making a set of low Krenovian saw horses to temporarily hold the chest at a workable height before I make a permanent stand (which could be months, years, or decades down the road).</p>\n<p>Amanda and I got out for a bit more kayaking, and I shot and edited together <a href=\"https://youtu.be/vSK9JYTC_Mc\">a short video of us paddling around</a>. It&rsquo;s kind of dorky, but it&rsquo;s also astonishing to think that we now have consumer-grade flying cameras that can follow people around perfectly.</p>\n<h2 id=\"reading\">Reading</h2>\n<p>Finished reading <em>Hard-Boiled Wonderland and the End of the World</em> by Haruki Murakami, <em>The Book of M</em> by Peng Shepard, and <em>Boyfriend Material</em> by Alexis Hall. Resumed the Gabriel Allon series with Amanda: we&rsquo;re on <em>The Rembrandt Affair</em> by Daniel Silva.</p>\n<h2 id=\"heavy-rotation\">Heavy rotation</h2>\n<p>The tracking on my U-Turn Orbit turntable went for a (literal) loop this month. Something about the anti-skip being a bit too strong, I think? But I really enjoyed listening to records of She &amp; Him&rsquo;s <em>Melt Away: A Tribute to Brian Wilson</em> and Lizzo&rsquo;s <em>Special.</em> I must have had Sylvan Esso&rsquo;s <em>No Rules Sandy</em> on repeat through most work days. And after watching Dua Lipa&rsquo;s episode on <em>Song Exploder,</em> I dug a bit into her <em>Future Nostalgia</em> album.</p>\n",
@@ -19,7 +43,7 @@
 				"id": "http://jonathansick.micro.blog/2022/08/26/seven-bees-in.html",
 				
 				"content_html": "<p>Seven bees in this one sneeze weed. Our rewilding is working!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Seven bees in this one sneeze weed. Our rewilding is working!\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/7090ed6e0e.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Seven bees in this one sneeze weed. Our rewilding is working!\n\n<img src=\"uploads/2022/7090ed6e0e.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-26T20:36:24-04:00",
 				"url": "https://www.jonathansick.blog/2022/08/26/seven-bees-in.html"
 			},
@@ -51,7 +75,7 @@
 				"id": "http://jonathansick.micro.blog/2022/08/14/penetanguishene.html",
 				
 				"content_html": "<p>Penetanguishene</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Penetanguishene\n\n<img src=\"uploads/2022/386891e867.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Penetanguishene\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/386891e867.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-08-14T20:50:19-04:00",
 				"url": "https://www.jonathansick.blog/2022/08/14/penetanguishene.html"
 			},
@@ -59,7 +83,7 @@
 				"id": "http://jonathansick.micro.blog/2022/08/11/i-nailed-together.html",
 				
 				"content_html": "<p>I nailed together the sides of my tool chest. Used 6d (2 inch) cut nails with 2 mm pilot holes. Lots of clamping helped keep things aligned and prevented the nails from splitting the boards. 🪚</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I nailed together the sides of my tool chest. Used 6d (2 inch) cut nails with 2 mm pilot holes. Lots of clamping helped keep things aligned and prevented the nails from splitting the boards. 🪚\n\n<img src=\"uploads/2022/82f3079c15.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/832e290591.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I nailed together the sides of my tool chest. Used 6d (2 inch) cut nails with 2 mm pilot holes. Lots of clamping helped keep things aligned and prevented the nails from splitting the boards. 🪚\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/82f3079c15.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.jonathansick.blog/uploads/2022/832e290591.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-11T19:30:45-04:00",
 				"url": "https://www.jonathansick.blog/2022/08/11/i-nailed-together.html"
 			},
@@ -76,7 +100,7 @@
 				"id": "http://jonathansick.micro.blog/2022/08/06/amandas-purple-coneflowers.html",
 				
 				"content_html": "<p>Amanda’s purple coneflowers are a hit with the bees.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Amanda’s purple coneflowers are a hit with the bees.\n\n<img src=\"uploads/2022/f674c10bbf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Amanda’s purple coneflowers are a hit with the bees.\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/f674c10bbf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-06T22:10:51-04:00",
 				"url": "https://www.jonathansick.blog/2022/08/06/amandas-purple-coneflowers.html"
 			},
@@ -84,7 +108,7 @@
 				"id": "http://jonathansick.micro.blog/2022/08/05/shopping-in-the.html",
 				
 				"content_html": "<p>Shopping in the lettuce aisle.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Shopping in the lettuce aisle.\n\n<img src=\"uploads/2022/ea5f4c2037.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Shopping in the lettuce aisle.\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/ea5f4c2037.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-05T18:47:09-04:00",
 				"url": "https://www.jonathansick.blog/2022/08/05/shopping-in-the.html"
 			},
@@ -117,7 +141,7 @@
 				"id": "http://jonathansick.micro.blog/2022/07/27/a-little-fatherdaughter.html",
 				
 				"content_html": "<p>A little father-daughter woodworking moment. 🐱🪚 Emma likes shavings&hellip; especially the long stringy ones from rounding off edges.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A little father-daughter woodworking moment. 🐱🪚 Emma likes shavings... especially the long stringy ones from rounding off edges.\n\n<img src=\"uploads/2022/f2b0aeaa4d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "A little father-daughter woodworking moment. 🐱🪚 Emma likes shavings... especially the long stringy ones from rounding off edges.\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/f2b0aeaa4d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-27T09:36:43-04:00",
 				"url": "https://www.jonathansick.blog/2022/07/27/a-little-fatherdaughter.html"
 			},
@@ -158,7 +182,7 @@
 				"id": "http://jonathansick.micro.blog/2022/07/18/the-penetanguishene-outer.html",
 				
 				"content_html": "<p>The Penetanguishene outer harbour last night, dressed up in the setting light.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Penetanguishene outer harbour last night, dressed up in the setting light.\n\n<img src=\"uploads/2022/0209ca2e9b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "The Penetanguishene outer harbour last night, dressed up in the setting light.\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/0209ca2e9b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-18T08:12:16-04:00",
 				"url": "https://www.jonathansick.blog/2022/07/18/the-penetanguishene-outer.html"
 			},
@@ -183,7 +207,7 @@
 				"id": "http://jonathansick.micro.blog/2022/07/05/jira-can-be.html",
 				
 				"content_html": "<p>Jira can be rough compared to GitHub issues; but it’s the backbone of Rubin work tracking. I’ve discovered how to use @draftsapp for Mac/iPad/iOS to submit issues for me: it converts Markdown to Jira, creates the issue in my current epic, and then prepends a link to my draft 🥳</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Jira can be rough compared to GitHub issues; but it’s the backbone of Rubin work tracking. I’ve discovered how to use @draftsapp for Mac/iPad/iOS to submit issues for me: it converts Markdown to Jira, creates the issue in my current epic, and then prepends a link to my draft 🥳\n\n<img src=\"uploads/2022/1514705550.png\" width=\"600\" height=\"447\" alt=\"\" />\n",
+				"content_text": "Jira can be rough compared to GitHub issues; but it’s the backbone of Rubin work tracking. I’ve discovered how to use @draftsapp for Mac/iPad/iOS to submit issues for me: it converts Markdown to Jira, creates the issue in my current epic, and then prepends a link to my draft 🥳\n\n<img src=\"https://jonathansick.micro.blog/uploads/2022/1514705550.png\" width=\"600\" height=\"447\" alt=\"\" />\n",
 				"date_published": "2022-07-05T10:58:20-04:00",
 				"url": "https://www.jonathansick.blog/2022/07/05/jira-can-be.html"
 			},
