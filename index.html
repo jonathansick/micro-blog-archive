@@ -24,6 +24,57 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://www.jonathansick.blog/2022/10/05/september-in-review.html">September 2022 in review</a></h1>
+		
+
+		<a href="https://www.jonathansick.blog/2022/10/05/september-in-review.html" class="u-url"><time class="dt-published" datetime="2022-10-05 20:47:13 -0400">Oct 5, 2022</time></a>
+
+		<div class="e-content">
+			 <h2 id="doing-the-work">Doing the work</h2>
+<p>September was all about shipping the new system for <a href="https://www.lsst.org">Rubin Observatory</a> user guides in <a href="https://documenteer.lsst.io">Documenteer</a>. When I first started working on documentation for Rubin back in 2015, I always struggled with getting <a href="https://www.sphinx-doc.org/en/master/">Sphinx</a> documentation themes to do exactly what we wanted. For years I told my colleagues we&rsquo;d fix all the issues — from typography to navigation to branding and more&hellip; eventually. Now I think we&rsquo;ve finally got to a point where we are shipping polished documentation sites we can really be proud of. And the best part is I didn&rsquo;t have to do the ground-up production of a custom Sphinx theme. Instead, we used the new and awesome <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/">PyData Sphinx Theme</a> as an open source foundation. I really appreciate how the PyData folks have thought through the customization and branding use cases. For example, CSS custom properties make it a snap to apply Rubin&rsquo;s brand colours in both light and dark themes. In the past this would have been a fraught task that yielded rather fragile CSS overrides.</p>
+<p>What I spend most of the month though was <em>productizing</em> the user guide theme and configuration for the Rubin organization. Sphinx documentation projects use a Python module, called <code>conf.py</code> for configuration. To help Rubin projects use the same core configuration (and therefore benefit from consistent features and branding), we provide a configuration module in Documenteer that each project can import into its <code>conf.py</code> file:</p>
+<pre><code>from documenteer.conf.guide import *
+</code></pre>
+<p>Each project still needs to customize its Sphinx configuration in many ways. The technically simple way to do this is to have each project extend the core configuration in its <code>conf.py</code> file. But in some cases this is tricky because you need to customize existing lists and dictionary provided by the core configuration. It&rsquo;s just awkward and error prone.</p>
+<p>What we&rsquo;ve done instead is introduced a file, called <code>documenteer.toml</code>, where a user can configure their project. The <code>documenteer.conf.guide</code> configuration merges this information with the Sphinx <code>conf.py</code> file for you. This lets us also do smart and semi-automated configuration. For instance, if a project is a Python package, the configuration can automatically pull out the project&rsquo;s name, version, and repository URL.</p>
+<pre><code>[project]
+title = &quot;Documenteer&quot;
+copyright = &quot;2015-2022 Association of Universities for Research in Astronomy, Inc. (AURA)&quot;
+
+[project.python]
+package = &quot;documenteer&quot;
+</code></pre>
+<p>Overall, the <code>documenteer.toml</code> file means we can document and support a well defined set of configuration that each Rubin documentation project can manipulate.</p>
+<p>Within Rubin Observatory, this is the sort or work that I find both satisfying and also really powerful from an organizational perspective. We&rsquo;re able to take together elements of the open source ecosystem, edit and mix them together, and then provide and document a simple interface that other members and teams in the observatory can use in their own work. Rather than personally running all the documentation sites for the entire observatory, I can help the entire observatory create their own documentation. That&rsquo;s how a small team like ours can have an outsized influence on an organization.</p>
+<h2 id="pursuits">Pursuits</h2>
+<p>Amanda and I joined our friend couple on a hike to McCrae Lake Conservation Reserve, a popular site just north of us that&rsquo;s the beginning of the Canadian shield country. The purpose of the trip was to take some wedding anniversary shots for our friends, and they turned out adorably cute. I also flew the drone and managed to capture a glimpse of a beaver near it&rsquo;s lodge. <a href="https://youtu.be/SmSpYLl2q8U" title="The Beaver Pond at McCrae Lake">I put the video up on YouTube.</a></p>
+<p>&lt;iframe width=&ldquo;560&rdquo; height=&ldquo;315&rdquo; src=&ldquo;<a href="https://www.youtube.com/embed/hFYrgfIc66Y%22">https://www.youtube.com/embed/hFYrgfIc66Y&quot;</a> title=&ldquo;YouTube video player&rdquo; frameborder=&ldquo;0&rdquo; allow=&ldquo;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&rdquo; allowfullscreen&gt;&lt;/iframe&gt;</p>
+<p>I&rsquo;m getting the hang of Lumafusion and even had some fun mixing some nature sounds and atmospheric sound tracks from the Audiio library. Video editing gets easier the more you do it, and I could see this being something I want to keep doing more.</p>
+<p>Down in the workshop I&rsquo;ve been slowly getting the sliding trays for the tool chest project. I got the tray slides in (made from white oak) and milled the pine stock for the trays themselves.</p>
+<h2 id="reading">Reading</h2>
+<p>Finished reading <em>The Thursday Murder Club</em> by Richard Osman, <em>After Dark</em> by Haruki Murakami, and <em>Make Time</em> by Jake Knapp and John Zeratsky. <em>Make Time</em> is a quick book with loads of strategies to experiment with for getting better at focusing. Amanda and I started reading <em>Husband Material</em> by Alexis Hall together, which is the sequel to <em>Boyfriend Material.</em></p>
+<h2 id="heavy-rotation">Heavy rotation</h2>
+<p>Amanda and I went to see Carly Rae Jepson play in Ontario Park in Toronto for her <em>So Good</em> tour. And it was <em>so good.</em> Every song of hers is a hit and she sounded amazing with her band. Bleachers opened for her and it was really cool to see Jack Antonoff for the first time.</p>
+<h2 id="on-screen">On screen</h2>
+<p>We&rsquo;ve been watching <em>Only Murders in the Building</em>, a hilarious take on the true crime podcast phenomenon with Steve Martin, Martin Short, and Selena Gomez. Enough said!</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://www.jonathansick.blog/2022/09/30/embracing-the-last.html" class="u-url"><time class="dt-published" datetime="2022-09-30 16:02:14 -0400">Sep 30, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Embracing the last bits of summer up here.</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 
 		<a href="https://www.jonathansick.blog/2022/09/28/ive-been-working.html" class="u-url"><time class="dt-published" datetime="2022-09-28 21:47:07 -0400">Sep 28, 2022</time></a>
 
