@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://jonathansick.micro.blog/2022/11/30/so-why-do.html",
+				
+				"content_html": "<p>So why do my colleagues often pray whenever I answer their question on Slack? 🙏</p>\n",
+				"content_text": "So why do my colleagues often pray whenever I answer their question on Slack? 🙏\n",
+				"date_published": "2022-11-30T18:30:32-05:00",
+				"url": "https://www.jonathansick.blog/2022/11/30/so-why-do.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/11/27/people-who-write.html",
+				
+				"content_html": "<blockquote>\n<p>People who write extensively about note-writing rarely have a serious context of use</p>\n</blockquote>\n<p>— <a href=\"https://notes.andymatuschak.org/zUMFE66dxeweppDvgbNAb5hukXzXQu8ErVNv\">Andy Matuschak</a> via <a href=\"https://maggieappleton.com/basb\">Maggie Appleton</a>. 💬</p>\n<p>i.e. what works for productivity writers probably needs to be re-engineered for a software developer or woodworker.</p>\n",
+				"content_text": "> People who write extensively about note-writing rarely have a serious context of use\n\n— [Andy Matuschak](https://notes.andymatuschak.org/zUMFE66dxeweppDvgbNAb5hukXzXQu8ErVNv) via [Maggie Appleton](https://maggieappleton.com/basb). 💬\n\ni.e. what works for productivity writers probably needs to be re-engineered for a software developer or woodworker.\n",
+				"date_published": "2022-11-27T08:32:47-05:00",
+				"url": "https://www.jonathansick.blog/2022/11/27/people-who-write.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/11/26/on-the-pkm.html",
+				
+				"content_html": "<p>On the PKM beat, it seems like Apple Books in iOS 16 doesn’t permit exporting a book’s notes and highlights anymore (you can only share one highlight/note at a time). And on top of that, the delightful page turn effect is gone. Time to go to Kindle? 🤷‍♂️</p>\n",
+				"content_text": "On the PKM beat, it seems like Apple Books in iOS 16 doesn’t permit exporting a book’s notes and highlights anymore (you can only share one highlight/note at a time). And on top of that, the delightful page turn effect is gone. Time to go to Kindle? 🤷‍♂️\n",
+				"date_published": "2022-11-26T20:10:40-05:00",
+				"url": "https://www.jonathansick.blog/2022/11/26/on-the-pkm.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/11/25/this-new-interactive.html",
+				
+				"content_html": "<p>This new <a href=\"https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/\">Interactive guide to flexbox</a> by Josh Comeau is so good. Hopefully it&rsquo;ll click in my head now&hellip; I&rsquo;ve been using flexbox for <em>years</em> and I still look up CSS Tricks' <a href=\"https://css-tricks.com/snippets/css/a-guide-to-flexbox/\">guide</a> every time.</p>\n",
+				"content_text": "This new [Interactive guide to flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) by Josh Comeau is so good. Hopefully it'll click in my head now... I've been using flexbox for *years* and I still look up CSS Tricks' [guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) every time.\n",
+				"date_published": "2022-11-25T16:49:30-05:00",
+				"url": "https://www.jonathansick.blog/2022/11/25/this-new-interactive.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/11/24/currently-reading-building.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781982167400\">Building a Second Brain</a> by Tiago Forte 📚 I’ve slowly been adopting DEVONthink for project notes and reference material for work, home, and even woodworking. I’m hoping to refine my system with Tiago’s book.</p>\n",
+				"content_text": "Currently reading: [Building a Second Brain](https://micro.blog/books/9781982167400) by Tiago Forte 📚 I’ve slowly been adopting DEVONthink for project notes and reference material for work, home, and even woodworking. I’m hoping to refine my system with Tiago’s book.\n",
+				"date_published": "2022-11-24T18:51:33-05:00",
+				"url": "https://www.jonathansick.blog/2022/11/24/currently-reading-building.html"
+			},
+			{
 				"id": "http://jonathansick.micro.blog/2022/11/09/its-really-cool.html",
 				
 				"content_html": "<p>It&rsquo;s really cool to see how GitHub Codespaces and science platforms like Rubin&rsquo;s are all working towards the same goals of reducing set up time and eliminating computing resource bottlenecks by providing cloud-based containerized environments.</p>\n",
@@ -26,7 +66,7 @@
 				"id": "http://jonathansick.micro.blog/2022/11/04/another-newish-gem.html",
 				
 				"content_html": "<p>Another new-ish gem in the Sphinx ecosystem, <a href=\"https://github.com/mgaitan/sphinxcontrib-mermaid\">sphinxcontrib-mermaid</a> makes it easy to drop Mermaid diagrams-as-code into docs, even Python docstrings.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Another new-ish gem in the Sphinx ecosystem, [sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid) makes it easy to drop Mermaid diagrams-as-code into docs, even Python docstrings.\n\n<img src=\"uploads/2022/d217a7fc91.jpg\" width=\"600\" height=\"268\" alt=\"\">\n",
+				"content_text": "Another new-ish gem in the Sphinx ecosystem, [sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid) makes it easy to drop Mermaid diagrams-as-code into docs, even Python docstrings.\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/d217a7fc91.jpg\" width=\"600\" height=\"268\" alt=\"\">\n",
 				"date_published": "2022-11-04T11:58:02-05:00",
 				"url": "https://www.jonathansick.blog/2022/11/04/another-newish-gem.html"
 			},
@@ -34,7 +74,7 @@
 				"id": "http://jonathansick.micro.blog/2022/11/04/the-sphinx-documentation.html",
 				
 				"content_html": "<p>The Sphinx documentation ecosystem is getting better and better. Latest example: <a href=\"https://autodoc-pydantic.readthedocs.io/en/stable/\">autodoc_pydantic</a> drops in for documenting Pydantic schemas. 🥳</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Sphinx documentation ecosystem is getting better and better. Latest example: [autodoc_pydantic](https://autodoc-pydantic.readthedocs.io/en/stable/) drops in for documenting Pydantic schemas. 🥳\n\n\n\n<img src=\"uploads/2022/b86778fde2.jpg\" width=\"600\" height=\"516\" alt=\"\">\n",
+				"content_text": "The Sphinx documentation ecosystem is getting better and better. Latest example: [autodoc_pydantic](https://autodoc-pydantic.readthedocs.io/en/stable/) drops in for documenting Pydantic schemas. 🥳\n\n\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/b86778fde2.jpg\" width=\"600\" height=\"516\" alt=\"\">\n",
 				"date_published": "2022-11-04T11:44:44-05:00",
 				"url": "https://www.jonathansick.blog/2022/11/04/the-sphinx-documentation.html"
 			},
@@ -59,7 +99,7 @@
 				"id": "http://jonathansick.micro.blog/2022/09/30/embracing-the-last.html",
 				
 				"content_html": "<p>Embracing the last bits of summer up here.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Embracing the last bits of summer up here.\n\n<img src=\"uploads/2022/f0a6a69a15.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Embracing the last bits of summer up here.\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/f0a6a69a15.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-09-30T15:02:14-05:00",
 				"url": "https://www.jonathansick.blog/2022/09/30/embracing-the-last.html"
 			},
@@ -67,7 +107,7 @@
 				"id": "http://jonathansick.micro.blog/2022/09/28/ive-been-working.html",
 				
 				"content_html": "<p>I’ve been working on my tool chest this week and installed these two tier tray runners in white oak.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I’ve been working on my tool chest this week and installed these two tier tray runners in white oak.\n\n<img src=\"uploads/2022/55197a7b21.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/4c11a02a10.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "I’ve been working on my tool chest this week and installed these two tier tray runners in white oak.\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/55197a7b21.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.jonathansick.blog/uploads/2022/4c11a02a10.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-09-28T20:47:07-05:00",
 				"url": "https://www.jonathansick.blog/2022/09/28/ive-been-working.html"
 			},
@@ -75,7 +115,7 @@
 				"id": "http://jonathansick.micro.blog/2022/09/08/203547.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/87ff0fc52f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/87ff0fc52f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-09-08T19:35:47-05:00",
 				"url": "https://www.jonathansick.blog/2022/09/08/203547.html"
 			},
@@ -83,7 +123,7 @@
 				"id": "http://jonathansick.micro.blog/2022/09/02/in-retrospect-i.html",
 				
 				"content_html": "<p>In retrospect I should have paid more attention to knots when I was roughing out the feet for these saw horses 🙃 The Wood Owl bits didn’t care though, but paring the mortise with a chisel was a little tricky. 🪚</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In retrospect I should have paid more attention to knots when I was roughing out the feet for these saw horses 🙃 The Wood Owl bits didn’t care though, but paring the mortise with a chisel was a little tricky. 🪚\n\n<img src=\"uploads/2022/ae89e2fe70.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "In retrospect I should have paid more attention to knots when I was roughing out the feet for these saw horses 🙃 The Wood Owl bits didn’t care though, but paring the mortise with a chisel was a little tricky. 🪚\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/ae89e2fe70.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-09-02T12:29:59-05:00",
 				"url": "https://www.jonathansick.blog/2022/09/02/in-retrospect-i.html"
 			},
@@ -91,7 +131,7 @@
 				"id": "http://jonathansick.micro.blog/2022/09/01/ive-started-to.html",
 				
 				"content_html": "<p>I&rsquo;ve started to use the <a href=\"https://pydata-sphinx-theme.readthedocs.io/en/stable/\">pydata-sphinx-theme</a> for our next generation of <a href=\"https://www.lsst.org\">Rubin Observatory</a> documentation sites. Still needs more tweaks, but it&rsquo;s a great foundation 😍</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I've started to use the [pydata-sphinx-theme](https://pydata-sphinx-theme.readthedocs.io/en/stable/) for our next generation of [Rubin Observatory](https://www.lsst.org) documentation sites. Still needs more tweaks, but it's a great foundation 😍\n\n<img src=\"uploads/2022/a606aa9a4c.jpg\" width=\"600\" height=\"410\" alt=\"Screenshot of the Rubin Observatory Documenteer documentation website using the &quot;light&quot; version of the pydata-sphinx-theme.\" /><img src=\"uploads/2022/31fbdf28bd.jpg\" width=\"600\" height=\"415\" alt=\"\" />\n",
+				"content_text": "I've started to use the [pydata-sphinx-theme](https://pydata-sphinx-theme.readthedocs.io/en/stable/) for our next generation of [Rubin Observatory](https://www.lsst.org) documentation sites. Still needs more tweaks, but it's a great foundation 😍\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/a606aa9a4c.jpg\" width=\"600\" height=\"410\" alt=\"Screenshot of the Rubin Observatory Documenteer documentation website using the &quot;light&quot; version of the pydata-sphinx-theme.\" /><img src=\"https://www.jonathansick.blog/uploads/2022/31fbdf28bd.jpg\" width=\"600\" height=\"415\" alt=\"\" />\n",
 				"date_published": "2022-09-01T10:21:49-05:00",
 				"url": "https://www.jonathansick.blog/2022/09/01/ive-started-to.html"
 			},
@@ -108,7 +148,7 @@
 				"id": "http://jonathansick.micro.blog/2022/08/26/seven-bees-in.html",
 				
 				"content_html": "<p>Seven bees in this one sneeze weed. Our rewilding is working!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Seven bees in this one sneeze weed. Our rewilding is working!\n\n<img src=\"uploads/2022/7090ed6e0e.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Seven bees in this one sneeze weed. Our rewilding is working!\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/7090ed6e0e.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-26T19:36:24-05:00",
 				"url": "https://www.jonathansick.blog/2022/08/26/seven-bees-in.html"
 			},
@@ -124,7 +164,7 @@
 				"id": "http://jonathansick.micro.blog/2022/08/16/a-sunrise-from.html",
 				
 				"content_html": "<p>A sunrise from a couple weeks ago that I got around to HDR stacking.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A sunrise from a couple weeks ago that I got around to HDR stacking.\n\n<img src=\"uploads/2022/bba6897575.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "A sunrise from a couple weeks ago that I got around to HDR stacking.\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/bba6897575.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-08-16T08:18:01-05:00",
 				"url": "https://www.jonathansick.blog/2022/08/16/a-sunrise-from.html"
 			},
@@ -140,7 +180,7 @@
 				"id": "http://jonathansick.micro.blog/2022/08/14/penetanguishene.html",
 				
 				"content_html": "<p>Penetanguishene</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Penetanguishene\n\n<img src=\"uploads/2022/386891e867.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Penetanguishene\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/386891e867.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-08-14T19:50:19-05:00",
 				"url": "https://www.jonathansick.blog/2022/08/14/penetanguishene.html"
 			},
@@ -148,7 +188,7 @@
 				"id": "http://jonathansick.micro.blog/2022/08/11/i-nailed-together.html",
 				
 				"content_html": "<p>I nailed together the sides of my tool chest. Used 6d (2 inch) cut nails with 2 mm pilot holes. Lots of clamping helped keep things aligned and prevented the nails from splitting the boards. 🪚</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I nailed together the sides of my tool chest. Used 6d (2 inch) cut nails with 2 mm pilot holes. Lots of clamping helped keep things aligned and prevented the nails from splitting the boards. 🪚\n\n<img src=\"uploads/2022/82f3079c15.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/832e290591.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I nailed together the sides of my tool chest. Used 6d (2 inch) cut nails with 2 mm pilot holes. Lots of clamping helped keep things aligned and prevented the nails from splitting the boards. 🪚\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/82f3079c15.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.jonathansick.blog/uploads/2022/832e290591.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-11T18:30:45-05:00",
 				"url": "https://www.jonathansick.blog/2022/08/11/i-nailed-together.html"
 			},
@@ -165,7 +205,7 @@
 				"id": "http://jonathansick.micro.blog/2022/08/06/amandas-purple-coneflowers.html",
 				
 				"content_html": "<p>Amanda’s purple coneflowers are a hit with the bees.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Amanda’s purple coneflowers are a hit with the bees.\n\n<img src=\"uploads/2022/f674c10bbf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Amanda’s purple coneflowers are a hit with the bees.\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/f674c10bbf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-06T21:10:51-05:00",
 				"url": "https://www.jonathansick.blog/2022/08/06/amandas-purple-coneflowers.html"
 			},
@@ -173,7 +213,7 @@
 				"id": "http://jonathansick.micro.blog/2022/08/05/shopping-in-the.html",
 				
 				"content_html": "<p>Shopping in the lettuce aisle.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Shopping in the lettuce aisle.\n\n<img src=\"uploads/2022/ea5f4c2037.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Shopping in the lettuce aisle.\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/ea5f4c2037.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-05T17:47:09-05:00",
 				"url": "https://www.jonathansick.blog/2022/08/05/shopping-in-the.html"
 			},
@@ -207,7 +247,7 @@
 				"id": "http://jonathansick.micro.blog/2022/07/27/a-little-fatherdaughter.html",
 				
 				"content_html": "<p>A little father-daughter woodworking moment. 🐱🪚 Emma likes shavings&hellip; especially the long stringy ones from rounding off edges.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A little father-daughter woodworking moment. 🐱🪚 Emma likes shavings... especially the long stringy ones from rounding off edges.\n\n<img src=\"uploads/2022/f2b0aeaa4d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "A little father-daughter woodworking moment. 🐱🪚 Emma likes shavings... especially the long stringy ones from rounding off edges.\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/f2b0aeaa4d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-27T08:36:43-05:00",
 				"url": "https://www.jonathansick.blog/2022/07/27/a-little-fatherdaughter.html"
 			},
@@ -248,7 +288,7 @@
 				"id": "http://jonathansick.micro.blog/2022/07/18/the-penetanguishene-outer.html",
 				
 				"content_html": "<p>The Penetanguishene outer harbour last night, dressed up in the setting light.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Penetanguishene outer harbour last night, dressed up in the setting light.\n\n<img src=\"uploads/2022/0209ca2e9b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "The Penetanguishene outer harbour last night, dressed up in the setting light.\n\n<img src=\"https://www.jonathansick.blog/uploads/2022/0209ca2e9b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-18T07:12:16-05:00",
 				"url": "https://www.jonathansick.blog/2022/07/18/the-penetanguishene-outer.html"
 			},
@@ -273,7 +313,7 @@
 				"id": "http://jonathansick.micro.blog/2022/07/05/jira-can-be.html",
 				
 				"content_html": "<p>Jira can be rough compared to GitHub issues; but it’s the backbone of Rubin work tracking. I’ve discovered how to use @draftsapp for Mac/iPad/iOS to submit issues for me: it converts Markdown to Jira, creates the issue in my current epic, and then prepends a link to my draft 🥳</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Jira can be rough compared to GitHub issues; but it’s the backbone of Rubin work tracking. I’ve discovered how to use @draftsapp for Mac/iPad/iOS to submit issues for me: it converts Markdown to Jira, creates the issue in my current epic, and then prepends a link to my draft 🥳\n\n<img src=\"uploads/2022/1514705550.png\" width=\"600\" height=\"447\" alt=\"\" />\n",
+				"content_text": "Jira can be rough compared to GitHub issues; but it’s the backbone of Rubin work tracking. I’ve discovered how to use @draftsapp for Mac/iPad/iOS to submit issues for me: it converts Markdown to Jira, creates the issue in my current epic, and then prepends a link to my draft 🥳\n\n<img src=\"https://jonathansick.micro.blog/uploads/2022/1514705550.png\" width=\"600\" height=\"447\" alt=\"\" />\n",
 				"date_published": "2022-07-05T09:58:20-05:00",
 				"url": "https://www.jonathansick.blog/2022/07/05/jira-can-be.html"
 			},
