@@ -25,6 +25,62 @@
 	  <div class="h-entry">
 		
 
+		<a href="https://www.jonathansick.blog/2022/12/05/finished-reading-the.html" class="u-url"><time class="dt-published" datetime="2022-12-05 22:02:14 -0500">Dec 5, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Finished reading: <a href="https://micro.blog/books/9780593158364">The Golden Enclaves: A Novel (The Scholomance Book 3)</a> by Naomi Novik 📚 We really enjoyed the series, and I loved how the third book veered into an allegory for human suffering inflicted by the greed and environmental destruction of an elite class.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://www.jonathansick.blog/2022/12/01/via-mac-power.html" class="u-url"><time class="dt-published" datetime="2022-12-01 22:19:18 -0500">Dec 1, 2022</time></a>
+
+		<div class="e-content">
+			 <p>Via <a href="https://www.relay.fm/mpu/668">Mac Power Users #668</a> I found out you can follow YouTube channels in most RSS services. I’ve always wanted a distraction-free way to follow channels and sort them into categories and I think this is it.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://www.jonathansick.blog/2022/12/01/november-in-review.html">November 2022 in review</a></h1>
+		
+
+		<a href="https://www.jonathansick.blog/2022/12/01/november-in-review.html" class="u-url"><time class="dt-published" datetime="2022-12-01 12:00:00 -0500">Dec 1, 2022</time></a>
+
+		<div class="e-content">
+			 <p>I missed the review for October, but I&rsquo;m getting back on track. I&rsquo;m finding these reviews, even if I&rsquo;m the only person who interacts with them, are a useful for gauging progress. <a href="https://www.jonathansick.blog/categories/reviews/" title="Reviews category">You can find my past monthly reviews here on the micro blog.</a></p>
+<h2 id="doing-the-work">Doing the work</h2>
+<h3 id="documentation-engineering-for-phalanx">Documentation engineering for Phalanx</h3>
+<p>My highlight for October at <a href="https://www.lsst.org">Rubin Observatory</a> was overhauling the <a href="https://phalanx.lsst.io">documentation for Phalanx</a>. Phalanx is how we deploy the Rubin Science Platform across different environments, whether it&rsquo;s in Google Cloud or at institutional data facilities. The first phase of that work was to re-organize (and in many cases, edit and augment) the content into core categories (Overview, Application Developers, and Environment Administrators). I think the <a href="https://documenteer.lsst.io/guides/index.html">new theme</a> is really working well for this purpose, with the top-level sections clearly defining different domains in the documentation.</p>
+<p>On top of that narrative documentation, I built out two reference categories for applications and environments. These pages are intended to provide quick access to information about apps and environments. You can get a link to an application in an environment&rsquo;s Argo CD, or see what environments an application runs in, or see what groups are configured with different authorization scopes, and so on. All of this information is already embedded within the Phalanx repository (an Argo CD GitOps repo, <a href="https://github.com/lsst-sqre/phalanx">lsst-sqre/phalanx</a>), so I engineered the Sphinx documentation build to pull the necessary information automatically. Essentially, in the Sphinx <code>conf.py</code> file I fire off a Python service that crawls the Phalanx repository&rsquo;s Helm charts to collect datasets for each app and service. These get loaded in Jinja templating environments for <a href="https://pypi.org/project/sphinx-jinja/">sphinx-jinja</a>, which I use to render out templated reStructuredText content, such as tables, just in time for the Sphinx documentation build. These are the things I really love about docs-like-code and a system like Sphinx — there are lots of entry points for creating very custom documentation tooling that enable us to document things accurately and efficiently.</p>
+<h3 id="technote">Technote</h3>
+<p>In November, I started working on a brand-new project called <em>Technote</em>. It&rsquo;s on GitHub at <a href="https://github.com/lsst-sqre/technote">lsst-sqre/technote</a>. At Rubin, we&rsquo;ve been using technical notes or &ldquo;technotes&rdquo; since 2015 when we introduced them. You can read in <a href="https://sqr-000.lsst.io">SQR-000</a> why we created the technote format, and how we use it. The gist is that technotes are a lightweight documentation format for communicating within and across teams that is built on GitHub as the core platform for collaboration, and static web servers as the presentation platform (in our case, <a href="https://sqr-006.lsst.io"><em>LSST the Docs</em></a>, but you could use GitHub Pages or Read the Docs effectively too).</p>
+<p>Initially, we created technotes just for ourselves in SQuaRE, but over time the format was organically adopted by more and more teams throughout the observatory. There are several hundred technotes already at Rubin (you can find them at <a href="https://www.lsst.io">www.lsst.io</a>). Although the format took off, the Rubin technote platform stayed on the original Sphinx prototype theme I created in 2015 — a hacked version of the Read the Docs theme. And yes, you can now write technotes in LaTeX, but HTML-native technotes are still at the heart of the platform.</p>
+<p>This month, at last, I carved out work time to start properly engineering the technote document format. At its core, the <a href="https://github.com/lsst-sqre/technote">Technote</a> package provides a Sphinx theme that&rsquo;s geared towards single page articles (i.e., technotes) that have a title, document identifier, abstract, and other metadata like author lists and versioning information. <a href="https://github.com/lsst-sqre/technote">Technote</a> is a base layer, so organizations like Rubin and others can customize the branding and design of their documents. The long-term goal is to enable team members to write technotes in reStructuredText, Markdown, or Jupyter Notebooks, and render technotes in HTML, EPUB, and PDF (for archives). It&rsquo;s early days, but I think there&rsquo;s considerable potential in enabling teams to write documents on GitHub that are shared on the web.</p>
+<h2 id="pursuits">Pursuits</h2>
+<p>It doesn&rsquo;t feel like I&rsquo;ve been making a lot of progress down in the woodshop, but my current goal is to organize the shop space into something that&rsquo;s functional for both woodworking / making and also home storage.</p>
+<p>Currently, I&rsquo;m panelling a small section of wall under the stairs in maple plywood. I&rsquo;ve ship lapped the panels and painted the rabbets with a splash of mint green. That wall will become the future home for my tool chest and a network cabinet.</p>
+<h2 id="reading">Reading</h2>
+<p>Amanda and I have been reading <em>The Golden Enclaves</em>, the third book in Naomi Novak&rsquo;s Scholomance series. They&rsquo;ve made it out of the Scholomance — now they&rsquo;re facing the &ldquo;real&rdquo; world of wizards.</p>
+<p>I&rsquo;ve also been on a personal knowledge management kick, trying to figure out how to build a system for gathering information and making it accessible to me. I read Tiago Forte&rsquo;s <em>Building a Second Brain</em>, which I think is a system that has a lot of good ideas. I&rsquo;ve also been re-reading <em>How to take smart notes</em> by Sonke Ahrens, who teaches the <a href="https://en.wikipedia.org/wiki/Zettelkasten">Zettlekasten</a> system of literature notes and atomic permanent notes — and leaves project management aside. In some ways Ahrens' approach is more appealing because I can see it scaling more easily than Forte&rsquo;s approach of literally moving notes from one bucket to another. I&rsquo;m working out how all of these ideas can become a personal knowledge management system for myself, centred around DEVONthink.</p>
+<h2 id="heavy-rotation">Heavy rotation</h2>
+<p>Carly Rae Jepson and Taylor Swift both released albums on the same day, so apologies to other artists but these are all I&rsquo;ve been listening to lately.</p>
+<p>I&rsquo;m in love with CRJ&rsquo;s <em>The Loneliest Time</em>, and the title track with Rufus Wainright is my personal hit for the year. I also especially love <em>Surrender My Heart</em>, <em>So Nice</em>, and <em>Shooting Star</em>. Actually, every song is a banger. Full stop.</p>
+<h2 id="on-screen">On screen</h2>
+<p>Season 6 of the <em>Great Canadian Baking Show</em> was a fantastic display of diversity. Don&rsquo;t pay any attention to the dribble that the <em>Walrus</em> publishes about it.</p>
+<p><em>Sort of</em> season 2 on CBC Gem started and it&rsquo;s a brilliant masterpiece.</p>
+<p>We&rsquo;ve also started watching <em>Orphan Black</em>, which I missed out on when it originally aired. Tatiana Maslany&rsquo;s acting is astonishing.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
 		<a href="https://www.jonathansick.blog/2022/11/30/so-why-do.html" class="u-url"><time class="dt-published" datetime="2022-11-30 18:30:32 -0500">Nov 30, 2022</time></a>
 
 		<div class="e-content">
