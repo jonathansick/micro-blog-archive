@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jonathansick.micro.blog/2023/03/01/github-is-killing.html",
+				
+				"content_html": "<p>GitHub is killing it with the new new code view and search. The confluence of GitHub and VS Code is amazing. Colour me surprised, but Microsoft buying GitHub was such a good thing.</p>\n<p><a href=\"https://docs.github.com/en/repositories/working-with-files/managing-files/navigating-files-with-the-new-code-view\">https://docs.github.com/en/repositories/working-with-files/managing-files/navigating-files-with-the-new-code-view</a></p>\n",
+				"content_text": "GitHub is killing it with the new new code view and search. The confluence of GitHub and VS Code is amazing. Colour me surprised, but Microsoft buying GitHub was such a good thing.\n\n[https://docs.github.com/en/repositories/working-with-files/managing-files/navigating-files-with-the-new-code-view](https://docs.github.com/en/repositories/working-with-files/managing-files/navigating-files-with-the-new-code-view)\n\n",
+				"date_published": "2023-03-01T10:32:18-05:00",
+				"url": "https://www.jonathansick.blog/2023/03/01/github-is-killing.html",
+				"tags": ["Developer"]
+			},
+			{
 				"id": "http://jonathansick.micro.blog/2023/01/23/i-finally-used.html",
 				
 				"content_html": "<p>I <em>finally</em> used Python’s Walrus := operator to clean up a hacky situation. Maybe I could be more proactively finding uses, but it was fun to have an obvious one appear finally!</p>\n<!-- raw HTML omitted -->\n",
