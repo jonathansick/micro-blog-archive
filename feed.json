@@ -7,12 +7,21 @@
 	"items": [
 		
 			{
+				"id": "http://jonathansick.micro.blog/2023/06/05/i-have-visions.html",
+				
+				"content_html": "<p>I have visions of coding and taking Zoom calls from the lakeside. Sign me up!</p>\n",
+				"content_text": "I have visions of coding and taking Zoom calls from the lakeside. Sign me up!\n",
+				"date_published": "2023-06-05T15:06:40-04:00",
+				"url": "https://www.jonathansick.blog/2023/06/05/i-have-visions.html"
+			},
+			{
 				"id": "http://jonathansick.micro.blog/2023/06/02/did-anyone-else.html",
 				
-				"content_html": "<p>Did anyone else get the <a href=\"https://ulysses.app\">Ulysses app</a> newsletter on May 31st? I hope it&rsquo;s a prank because yuck! gross! In the meantime, I&rsquo;ve pulled my App Store renewal for it. If you care, maybe let your friends know about this too.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Did anyone else get the [Ulysses app](https://ulysses.app) newsletter on May 31st? I hope it's a prank because yuck! gross! In the meantime, I've pulled my App Store renewal for it. If you care, maybe let your friends know about this too.\n\n<img src=\"uploads/2023/dd75de23d5.png\" width=\"600\" height=\"467\" alt=\"Email screenshot from Marcus, Ulysses app co-founder saying &quot;I love Elon Musk. [..] He’s a great innovator, probably a fantastic lover and an overall nice guy.&quot;\">\n",
+				"content_html": "<p>Did anyone else get the <a href=\"https://ulysses.app\">Ulysses app</a> newsletter on May 31st? I hope it&rsquo;s a prank because yuck! gross! In the meantime, I&rsquo;ve pulled my App Store renewal for it. If you care, maybe let your friends know about this too. [Update: apparently it was a &ldquo;joke,&rdquo; but I&rsquo;m still moving away from Ulysses]</p>\n<p>&lt;img src=&ldquo;uploads/2023/dd75de23d5.png&rdquo; width=&ldquo;600&rdquo; height=&ldquo;467&rdquo; alt=&ldquo;Email screenshot from Marcus, Ulysses app co-founder saying &ldquo;I love Elon Musk. [..] He’s a great innovator, probably a fantastic lover and an overall nice guy.&quot;&quot;&gt;</p>\n",
+				"content_text": "Did anyone else get the [Ulysses app](https://ulysses.app) newsletter on May 31st? I hope it's a prank because yuck! gross! In the meantime, I've pulled my App Store renewal for it. If you care, maybe let your friends know about this too. \\[Update: apparently it was a \"joke,\" but I'm still moving away from Ulysses\\]\n\n<img src=\"uploads/2023/dd75de23d5.png\" width=\"600\" height=\"467\" alt=\"Email screenshot from Marcus, Ulysses app co-founder saying \"I love Elon Musk. [..] He’s a great innovator, probably a fantastic lover and an overall nice guy.\"\">\n",
 				"date_published": "2023-06-02T10:57:31-04:00",
-				"url": "https://www.jonathansick.blog/2023/06/02/did-anyone-else.html"
+				"url": "https://www.jonathansick.blog/2023/06/02/did-anyone-else.html",
+				"tags": ["Computing"]
 			},
 			{
 				"id": "http://jonathansick.micro.blog/2023/03/28/im-writing-a.html",
@@ -43,7 +52,7 @@
 				"id": "http://jonathansick.micro.blog/2023/01/23/i-finally-used.html",
 				
 				"content_html": "<p>I <em>finally</em> used Python’s Walrus := operator to clean up a hacky situation. Maybe I could be more proactively finding uses, but it was fun to have an obvious one appear finally!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I _finally_ used Python’s Walrus := operator to clean up a hacky situation. Maybe I could be more proactively finding uses, but it was fun to have an obvious one appear finally!\n\n<img src=\"uploads/2023/9a09cb9edf.png\" width=\"600\" height=\"185\" alt=\"\">\n",
+				"content_text": "I _finally_ used Python’s Walrus := operator to clean up a hacky situation. Maybe I could be more proactively finding uses, but it was fun to have an obvious one appear finally!\n\n<img src=\"https://cdn.uploads.micro.blog/907/2023/9a09cb9edf.png\" width=\"600\" height=\"185\" alt=\"\">\n",
 				"date_published": "2023-01-23T18:59:48-04:00",
 				"url": "https://www.jonathansick.blog/2023/01/23/i-finally-used.html",
 				"tags": ["Developer"]
