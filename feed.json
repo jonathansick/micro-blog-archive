@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://jonathansick.micro.blog/2023/06/14/a-consistent-problem.html",
+				
+				"content_html": "<p>A consistent problem I have with my development workflow is knowing that I did something before, but not exactly where. <em>What repo did I do that in? What GitHub org even?</em> Perhaps the answer is &ldquo;Zettelkasten&rdquo; but where do I find the time for that?</p>\n",
+				"content_text": "A consistent problem I have with my development workflow is knowing that I did something before, but not exactly where. *What repo did I do that in? What GitHub org even?* Perhaps the answer is \"Zettelkasten\" but where do I find the time for that?\n",
+				"date_published": "2023-06-14T12:40:55-04:00",
+				"url": "https://www.jonathansick.blog/2023/06/14/a-consistent-problem.html",
+				"tags": ["Developer"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/06/13/heres-what-im.html",
+				
+				"content_html": "<p>Here&rsquo;s what I&rsquo;m going with: Mac Studio M2 Max (12 core, 38 core GPU) with 2TB storage and 96GB RAM. I hate closing windows and quitting apps for anything remotely in-flight, so 96GB it is. Overkill? Maybe? Will it last four more years? Hopefully. 🤞</p>\n",
+				"content_text": "Here's what I'm going with: Mac Studio M2 Max (12 core, 38 core GPU) with 2TB storage and 96GB RAM. I hate closing windows and quitting apps for anything remotely in-flight, so 96GB it is. Overkill? Maybe? Will it last four more years? Hopefully. 🤞\n",
+				"date_published": "2023-06-13T10:56:42-04:00",
+				"url": "https://www.jonathansick.blog/2023/06/13/heres-what-im.html",
+				"tags": ["Computing"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/06/12/between-going-fulltime.html",
+				
+				"content_html": "<p>Between going 100% indie with my software company, my MacBook Pro 2019&rsquo;s fan&rsquo;s screaming incessantly, and Apple dropping the M2 Mac Studio, it looks like I&rsquo;m in the computer market again. Oh, and <a href=\"https://youtu.be/XK7cIgCYskE\">Chris Lawley says they fixed the fan noise</a>. The question is, what spec?</p>\n",
+				"content_text": "Between going 100% indie with my software company, my MacBook Pro 2019's fan's screaming incessantly, and Apple dropping the M2 Mac Studio, it looks like I'm in the computer market again. Oh, and [Chris Lawley says they fixed the fan noise](https://youtu.be/XK7cIgCYskE). The question is, what spec?\n",
+				"date_published": "2023-06-12T15:08:23-04:00",
+				"url": "https://www.jonathansick.blog/2023/06/12/between-going-fulltime.html",
+				"tags": ["Computing","Developer"]
+			},
+			{
 				"id": "http://jonathansick.micro.blog/2023/06/05/i-have-visions.html",
 				
 				"content_html": "<p>I have visions of coding and taking Zoom calls from the lakeside. Sign me up!</p>\n",
