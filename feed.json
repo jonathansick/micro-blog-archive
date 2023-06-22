@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://jonathansick.micro.blog/2023/06/22/hacking-push-notifications.html",
+				"title": "Hacking push notifications for deliveries on the iPhone",
+				"content_html": "<p>My Mac Studio is arriving soon 🎉 and I need to sign for it. The problem is I&rsquo;m usually working in the basement with headphones. My house didn&rsquo;t have a door bell either. The result is I never hear when a delivery person knocks. So I solved it:</p>\n<ol>\n<li>I got a cheap (CA$25) bluetooth doorbell chime and plugged the receiver in at my office.</li>\n<li>Turned on Settings → Accessibility → Sound Recognition → Sounds → Doorbell on my iPhone.</li>\n</ol>\n<p>Now when the door bell rings I get a time-sensitive push notification on my phone.</p>\n<p>As the saying goes, accessibility technology is for everyone.</p>\n",
+				"content_text": "My Mac Studio is arriving soon 🎉 and I need to sign for it. The problem is I'm usually working in the basement with headphones. My house didn't have a door bell either. The result is I never hear when a delivery person knocks. So I solved it:\n\n1. I got a cheap (CA$25) bluetooth doorbell chime and plugged the receiver in at my office.\n2. Turned on Settings → Accessibility → Sound Recognition → Sounds → Doorbell on my iPhone.\n\nNow when the door bell rings I get a time-sensitive push notification on my phone.\n\nAs the saying goes, accessibility technology is for everyone.\n",
+				"date_published": "2023-06-22T12:16:00-04:00",
+				"url": "https://www.jonathansick.blog/2023/06/22/hacking-push-notifications.html",
+				"tags": ["Computing"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/06/20/treenathanfriendio-is-a.html",
+				
+				"content_html": "<p><a href=\"https://tree.nathanfriend.io\">tree.nathanfriend.io</a> is a little website/app that generates an ASCII file tree from indented text (like a mock of the <code>tree</code> CLI). I make these diagrams all the time for docs, and this tool will speed that up a bunch. Via <a href=\"https://blog.codepen.io/2023/06/19/chris-corner-little-useful-websites/\">Chris Coyier</a>.</p>\n",
+				"content_text": "[tree.nathanfriend.io](https://tree.nathanfriend.io) is a little website/app that generates an ASCII file tree from indented text (like a mock of the `tree` CLI). I make these diagrams all the time for docs, and this tool will speed that up a bunch. Via [Chris Coyier](https://blog.codepen.io/2023/06/19/chris-corner-little-useful-websites/).\n",
+				"date_published": "2023-06-20T13:13:44-04:00",
+				"url": "https://www.jonathansick.blog/2023/06/20/treenathanfriendio-is-a.html",
+				"tags": ["Developer"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/06/19/i-ordered-a.html",
+				
+				"content_html": "<p>I ordered a shed today from a website. It’ll be built to my specifications and installed by skilled humans in a few weeks. We truly live in an age of wonder!</p>\n",
+				"content_text": "I ordered a shed today from a website. It’ll be built to my specifications and installed by skilled humans in a few weeks. We truly live in an age of wonder!\n",
+				"date_published": "2023-06-19T19:40:51-04:00",
+				"url": "https://www.jonathansick.blog/2023/06/19/i-ordered-a.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/06/19/the-rainbow-pride.html",
+				
+				"content_html": "<p>The rainbow pride waffles from Planted in Hamilton Ontario are pretty awesome 🌈</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The rainbow pride waffles from Planted in Hamilton Ontario are pretty awesome 🌈\n\n<img src=\"uploads/2023/6a50b0e27ec74e93a90b031b0078726d.jpg\" width=\"450\" height=\"600\" alt=\"Two big waffles in take our containers that are coloured in a rainbow of red, yellow, green, and purple like a pride flag. Drizzled with delicious maple syrup.\">\n",
+				"date_published": "2023-06-19T19:32:12-04:00",
+				"url": "https://www.jonathansick.blog/2023/06/19/the-rainbow-pride.html"
+			},
+			{
 				"id": "http://jonathansick.micro.blog/2023/06/14/a-consistent-problem.html",
 				
 				"content_html": "<p>A consistent problem I have with my development workflow is knowing that I did something before, but not exactly where. <em>What repo did I do that in? What GitHub org even?</em> Perhaps the answer is &ldquo;Zettelkasten&rdquo; but where do I find the time for that?</p>\n",
