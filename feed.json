@@ -7,12 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://jonathansick.micro.blog/2023/07/22/so-happy-for.html",
+				
+				"content_html": "<p>So happy for Lewis Hamilton to snag that pole position today. Never give up!</p>\n",
+				"content_text": "So happy for Lewis Hamilton to snag that pole position today. Never give up!\n",
+				"date_published": "2023-07-22T13:31:09-04:00",
+				"url": "https://www.jonathansick.blog/2023/07/22/so-happy-for.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/07/09/based-on-in.html",
+				
+				"content_html": "<p>Based on <a href=\"https://micro.blog/books/9781250217424\">In the Lives of Puppets</a> I named my Mac Studio “Rambo.”</p>\n",
+				"content_text": "Based on [In the Lives of Puppets](https://micro.blog/books/9781250217424) I named my Mac Studio “Rambo.”\n",
+				"date_published": "2023-07-09T21:49:45-04:00",
+				"url": "https://www.jonathansick.blog/2023/07/09/based-on-in.html",
+				"tags": ["Books"]
+			},
+			{
 				"id": "http://jonathansick.micro.blog/2023/07/09/finished-reading-in.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250217424\">In the Lives of Puppets</a> by TJ Klune 📚 TJ is a master of creating deeply moving stories that have adorable quirky characters.</p>\n",
 				"content_text": "Finished reading: [In the Lives of Puppets](https://micro.blog/books/9781250217424) by TJ Klune 📚 TJ is a master of creating deeply moving stories that have adorable quirky characters.\n",
 				"date_published": "2023-07-09T21:48:43-04:00",
-				"url": "https://www.jonathansick.blog/2023/07/09/finished-reading-in.html"
+				"url": "https://www.jonathansick.blog/2023/07/09/finished-reading-in.html",
+				"tags": ["Books"]
 			},
 			{
 				"id": "http://jonathansick.micro.blog/2023/07/07/no-smoke-suns.html",
@@ -34,7 +52,7 @@
 				"id": "http://jonathansick.micro.blog/2023/06/29/this-is-what.html",
 				
 				"content_html": "<p>This is what a snow day looks like if you&rsquo;re a developer.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is what a snow day looks like if you're a developer.\n\n<img src=\"uploads/2023/cleanshot-2023-06-29-at-14.21.272x.png\" alt=\"GitHub Status page saying &quot;We are currently experiencing an outage of GitHub products and are investigating.&quot;\" title=\"CleanShot 2023-06-29 at 14.21.27@2x.png\" border=\"0\" width=\"599\" height=\"375\" />\n",
+				"content_text": "This is what a snow day looks like if you're a developer.\n\n<img src=\"https://cdn.uploads.micro.blog/907/2023/cleanshot-2023-06-29-at-14.21.272x.png\" alt=\"GitHub Status page saying &quot;We are currently experiencing an outage of GitHub products and are investigating.&quot;\" title=\"CleanShot 2023-06-29 at 14.21.27@2x.png\" border=\"0\" width=\"599\" height=\"375\" />\n",
 				"date_published": "2023-06-29T14:24:41-04:00",
 				"url": "https://www.jonathansick.blog/2023/06/29/this-is-what.html",
 				"tags": ["Developer"]
@@ -87,7 +105,7 @@
 				"id": "http://jonathansick.micro.blog/2023/06/19/the-rainbow-pride.html",
 				
 				"content_html": "<p>The rainbow pride waffles from Planted in Hamilton Ontario are pretty awesome 🌈</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The rainbow pride waffles from Planted in Hamilton Ontario are pretty awesome 🌈\n\n<img src=\"uploads/2023/6a50b0e27ec74e93a90b031b0078726d.jpg\" width=\"450\" height=\"600\" alt=\"Two big waffles in take our containers that are coloured in a rainbow of red, yellow, green, and purple like a pride flag. Drizzled with delicious maple syrup.\">\n",
+				"content_text": "The rainbow pride waffles from Planted in Hamilton Ontario are pretty awesome 🌈\n\n<img src=\"https://cdn.uploads.micro.blog/907/2023/6a50b0e27ec74e93a90b031b0078726d.jpg\" width=\"450\" height=\"600\" alt=\"Two big waffles in take our containers that are coloured in a rainbow of red, yellow, green, and purple like a pride flag. Drizzled with delicious maple syrup.\">\n",
 				"date_published": "2023-06-19T19:32:12-04:00",
 				"url": "https://www.jonathansick.blog/2023/06/19/the-rainbow-pride.html"
 			},
