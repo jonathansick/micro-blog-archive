@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jonathansick.micro.blog/2023/11/03/at-rubin-observatory.html",
+				
+				"content_html": "<p>At Rubin Observatory, I’ve been building a documentation platform that has enabled hundreds of scientists and engineers to communicate their knowledge. I’m pleased to get the opportunity at <a href=\"https://adass2023.lpl.arizona.edu\">ADASS 2023</a> to show how our docs-like-code platform works.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "At Rubin Observatory, I’ve been building a documentation platform that has enabled hundreds of scientists and engineers to communicate their knowledge. I’m pleased to get the opportunity at [ADASS 2023](https://adass2023.lpl.arizona.edu) to show how our docs-like-code platform works.\n\n<img src=\"uploads/2023/2023-11-07-adass-jsick.001.jpeg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2023-11-03T09:50:20-04:00",
+				"url": "https://www.jonathansick.blog/2023/11/03/at-rubin-observatory.html"
+			},
+			{
 				"id": "http://jonathansick.micro.blog/2023/09/13/heres-a-great.html",
 				
 				"content_html": "<p>Here’s a great video primer on heat pumps. Using CO2 as a refrigerant and integrating a heat pump with a water heater as a thermal battery is brilliant.</p>\n<p><a href=\"https://youtu.be/npqzHpeIvhM?si=TdJGNK4IfSNYz9z8\">youtu.be/npqzHpeIv&hellip;</a></p>\n",
