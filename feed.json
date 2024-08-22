@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jonathansick.micro.blog/2024/08/22/ive-been-kayaking.html",
+				
+				"content_html": "<p>I’ve been kayaking this summer and dreaming of building my own light and nimble skin-on-frame kayak. <a href=\"https://youtu.be/hSmqVsMsIF0\"><em>A thousand hands ago</em></a>, a lovely little documentary on YouTube, captures the whole vibe of it.</p>\n",
+				"content_text": "I’ve been kayaking this summer and dreaming of building my own light and nimble skin-on-frame kayak. [_A thousand hands ago_](https://youtu.be/hSmqVsMsIF0), a lovely little documentary on YouTube, captures the whole vibe of it.\n",
+				"date_published": "2024-08-22T19:55:51-04:00",
+				"url": "https://www.jonathansick.blog/2024/08/22/ive-been-kayaking.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/08/19/ben-strano-has.html",
+				
+				"content_html": "<p><a href=\"https://youtu.be/fbvXVW7KGZc\">Ben Strano has a great video</a> about <em>parametric modelling</em> in Fusion 360 and using a 3D printer to make mortise templates of different sizes. I’ve been only modelling with Sketchup so far, but this shows just how approachable adding a bit of algebra to a 3D model is. 🪚</p>\n",
+				"content_text": "[Ben Strano has a great video](https://youtu.be/fbvXVW7KGZc) about _parametric modelling_ in Fusion 360 and using a 3D printer to make mortise templates of different sizes. I’ve been only modelling with Sketchup so far, but this shows just how approachable adding a bit of algebra to a 3D model is. 🪚\n",
+				"date_published": "2024-08-19T12:53:24-04:00",
+				"url": "https://www.jonathansick.blog/2024/08/19/ben-strano-has.html"
+			},
+			{
 				"id": "http://jonathansick.micro.blog/2024/07/29/after-a-long.html",
 				
 				"content_html": "<p>After a long time away, I had my first kayak outing of 2024 in Georgian Bay this morning. First I spotted a little mink scurrying on the shore while checking out a patch of invasive glossy buckthorn. Then several turtles, followed by a bald eagle fly-over. So rewarding to be back on the water.</p>\n",
