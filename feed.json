@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jonathansick.micro.blog/2024/09/13/todays-a-very.html",
+				
+				"content_html": "<p>Today’s a very expensive day. iPhone preorder, then off to Hunter Douglas to get better and safer blinds for the nursery. Adulting.</p>\n",
+				"content_text": "Today’s a very expensive day. iPhone preorder, then off to Hunter Douglas to get better and safer blinds for the nursery. Adulting.\n",
+				"date_published": "2024-09-13T08:31:51-04:00",
+				"url": "https://www.jonathansick.blog/2024/09/13/todays-a-very.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/09/13/after-some-paper.html",
+				
+				"content_html": "<p>After some paper prototyping I chickened out and didn’t get the Max size <a href=\"https://www.jonathansick.blog/2024/09/12/i-think-ill.html\">as discussed</a>. The size of the 12 Pro I’m\nused to is too good. And there’s a ton of MagSafe power banks out there. So anyways, if all goes well, I’ll get pictures of our newborn with a 16 Pro!</p>\n",
+				"content_text": "After some paper prototyping I chickened out and didn’t get the Max size [as discussed](https://www.jonathansick.blog/2024/09/12/i-think-ill.html). The size of the 12 Pro I’m\nused to is too good. And there’s a ton of MagSafe power banks out there. So anyways, if all goes well, I’ll get pictures of our newborn with a 16 Pro!\n",
+				"date_published": "2024-09-13T08:29:49-04:00",
+				"url": "https://www.jonathansick.blog/2024/09/13/after-some-paper.html"
+			},
+			{
 				"id": "http://jonathansick.micro.blog/2024/09/12/i-think-ill.html",
 				
 				"content_html": "<p>I think I’ll order an iPhone 16 Pro <strong>Max</strong> oddly enough after realizing that my 12 Pro does most of what I want <strong>except</strong> for the battery life. Go all-in on battery and maybe another 3 or 4 year service life will be reasonable?</p>\n",
