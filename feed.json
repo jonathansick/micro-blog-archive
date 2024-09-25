@@ -7,6 +7,48 @@
 	"items": [
 		
 			{
+				"id": "http://jonathansick.micro.blog/2024/09/25/quick-update-on.html",
+				
+				"content_html": "<p>Quick update on the iPhone <a href=\"https://www.jonathansick.blog/2024/09/21/the-initial-upgrade.html\">transfer saga</a>. The iPhone 16 Pro still crashed and behaved oddly. I ended up doing a clean restore, this time transferring directly from the old iPhone 12. Everything seems super happy since. That the original\niCloud restore was buggy is concerning, but 🤷</p>\n",
+				"content_text": "Quick update on the iPhone [transfer saga](https://www.jonathansick.blog/2024/09/21/the-initial-upgrade.html). The iPhone 16 Pro still crashed and behaved oddly. I ended up doing a clean restore, this time transferring directly from the old iPhone 12. Everything seems super happy since. That the original\niCloud restore was buggy is concerning, but 🤷\n",
+				"date_published": "2024-09-25T13:31:12-04:00",
+				"url": "https://www.jonathansick.blog/2024/09/25/quick-update-on.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/09/21/the-camera-control.html",
+				
+				"content_html": "<p>The camera control “button” is interesting. I don’t feel at all fast using it yet, like I do with the physical controls on a Canon, so I assume I need to practice and build muscle memory for switching between settings.</p>\n",
+				"content_text": "The camera control “button” is interesting. I don’t feel at all fast using it yet, like I do with the physical controls on a Canon, so I assume I need to practice and build muscle memory for switching between settings.\n",
+				"date_published": "2024-09-21T15:00:19-04:00",
+				"url": "https://www.jonathansick.blog/2024/09/21/the-camera-control.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/09/21/the-initial-upgrade.html",
+				
+				"content_html": "<p>The initial upgrade process to the iPhone 16 was weirdly buggy. After iCloud transfer from the old phone, it’d freeze up randomly. It turns out there was an iOS 18 update specifically for the iPhones 16 and everything has been perfect since. It’s still labeled as iOS 18.0 though.</p>\n",
+				"content_text": "The initial upgrade process to the iPhone 16 was weirdly buggy. After iCloud transfer from the old phone, it’d freeze up randomly. It turns out there was an iOS 18 update specifically for the iPhones 16 and everything has been perfect since. It’s still labeled as iOS 18.0 though.\n",
+				"date_published": "2024-09-21T14:56:08-04:00",
+				"url": "https://www.jonathansick.blog/2024/09/21/the-initial-upgrade.html",
+				"tags": ["Computing"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/09/18/finished-reading-how.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593086612\">How Infrastructure Works</a> by Deb Chachra 📚 It starts out nerdy, but grows into a profound message about the social role of public infrastructure. Highly recommended.</p>\n",
+				"content_text": "Finished reading: [How Infrastructure Works](https://micro.blog/books/9780593086612) by Deb Chachra 📚 It starts out nerdy, but grows into a profound message about the social role of public infrastructure. Highly recommended.\n",
+				"date_published": "2024-09-18T13:14:49-04:00",
+				"url": "https://www.jonathansick.blog/2024/09/18/finished-reading-how.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/09/18/im-starting-to.html",
+				
+				"content_html": "<p>I&rsquo;m starting to dig in on the new OS features. One peculiarity of Sonoma is that my cursor won&rsquo;t be visible on wake or sometimes when switching spaces. But once I do something like an exposé gesture it&rsquo;ll show. 🤷‍♂️</p>\n",
+				"content_text": "I'm starting to dig in on the new OS features. One peculiarity of Sonoma is that my cursor won't be visible on wake or sometimes when switching spaces. But once I do something like an exposé gesture it'll show. 🤷‍♂️\n",
+				"date_published": "2024-09-18T12:00:00-04:00",
+				"url": "https://www.jonathansick.blog/2024/09/18/im-starting-to.html",
+				"tags": ["Computing"]
+			},
+			{
 				"id": "http://jonathansick.micro.blog/2024/09/13/todays-a-very.html",
 				
 				"content_html": "<p>Today’s a very expensive day. iPhone preorder, then off to Hunter Douglas to get better and safer blinds for the nursery. Adulting.</p>\n",
