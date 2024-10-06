@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://jonathansick.micro.blog/2024/10/06/finished-reading-i.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781443470261\">I Hope This Finds You Well</a> by Natalie Sue 📚 A lovely office rom-com about finding empathy for yourself and others. Set in Calgary. ❤️</p>\n",
+				"content_text": "Finished reading: [I Hope This Finds You Well](https://micro.blog/books/9781443470261) by Natalie Sue 📚 A lovely office rom-com about finding empathy for yourself and others. Set in Calgary. ❤️\n",
+				"date_published": "2024-10-06T11:35:49-04:00",
+				"url": "https://www.jonathansick.blog/2024/10/06/finished-reading-i.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/10/01/161153.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2024/1632c52e03fe4c33a9bbcff46ebc2050.jpg\" width=\"450\" height=\"600\" alt=\"A rainbow over a lake, seen out a window and through a small forest of maple, birch and cedar trees. \">\n",
+				"date_published": "2024-10-01T16:11:53-04:00",
+				"url": "https://www.jonathansick.blog/2024/10/01/161153.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/10/01/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780593653425\">The Creative Act</a> by Rick Rubin 📚 🐈☕️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Currently reading: [The Creative Act](https://micro.blog/books/9780593653425) by Rick Rubin 📚 🐈☕️\n\n<img src=\"uploads/2024/203a247785594682ae1c0c7f9875a074.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-01T08:00:18-04:00",
+				"url": "https://www.jonathansick.blog/2024/10/01/currently-reading-the.html"
+			},
+			{
 				"id": "http://jonathansick.micro.blog/2024/09/26/finished-reading-cointelligence.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593716724\">Co-Intelligence</a> by Ethan Mollick 📚 I thought this was a great primer on where we’re at with AI and what it can do for us. For the last year I’ve been using AI as a super-charged code completion with GitHub Copilot and a web documentation librarian with my MDN subscription.  I’ve just scratched the surface of what I can do and I haven’t yet delved into the more conversational modes of AI. Mollick gave some interesting tips on prompt engineering — like giving the AI a persona for more insightful responses. Huh. Overall I like how Mollick encourages us to keep probing the frontiers of AI in our daily work and adopting it intentionally — much better than using it blindly or even ignoring it altogether.</p>\n",
@@ -27,7 +51,7 @@
 				"id": "http://jonathansick.micro.blog/2024/09/25/im-loving-the.html",
 				
 				"content_html": "<p>I’m loving the upgrade from the 12 Pro camera to the iPhone 16 Pro. Portrait mode-ing all the things. I’ve been using the “Natural” photo styling a lot too.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’m loving the upgrade from the 12 Pro camera to the iPhone 16 Pro. Portrait mode-ing all the things. I’ve been using the “Natural” photo styling a lot too.\n\n<img src=\"uploads/2024/6da06152f0504db88b4c75d3fc8b66ac.jpg\" width=\"449\" height=\"600\" alt=\"A tabby cat sitting in profile, yawning with a wide open mouth in a sunbeam.\">\n",
+				"content_text": "I’m loving the upgrade from the 12 Pro camera to the iPhone 16 Pro. Portrait mode-ing all the things. I’ve been using the “Natural” photo styling a lot too.\n\n<img src=\"https://cdn.uploads.micro.blog/907/2024/6da06152f0504db88b4c75d3fc8b66ac.jpg\" width=\"449\" height=\"600\" alt=\"A tabby cat sitting in profile, yawning with a wide open mouth in a sunbeam.\">\n",
 				"date_published": "2024-09-25T13:35:01-04:00",
 				"url": "https://www.jonathansick.blog/2024/09/25/im-loving-the.html"
 			},
