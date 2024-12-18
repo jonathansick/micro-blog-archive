@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jonathansick.micro.blog/2024/12/18/i-enjoyed-this.html",
+				
+				"content_html": "<p>I enjoyed <a href=\"https://youtube.com/watch?v=3oIeLGkSCMA\">this video by Stewart Hicks </a> on how the joining plate led to cheap trusses and ultimately the proliferation of McMansions in suburbia. So often a good idea ends up being perverted by capitalist players and the market goes along with it.</p>\n",
+				"content_text": "I enjoyed [this video by Stewart Hicks ](https://youtube.com/watch?v=3oIeLGkSCMA) on how the joining plate led to cheap trusses and ultimately the proliferation of McMansions in suburbia. So often a good idea ends up being perverted by capitalist players and the market goes along with it.\n",
+				"date_published": "2024-12-18T13:20:31-05:00",
+				"url": "https://www.jonathansick.blog/2024/12/18/i-enjoyed-this.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/12/14/the-first-sunny.html",
+				
+				"content_html": "<p>The first sunny day after two weeks of snow ❄️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The first sunny day after two weeks of snow ❄️\n\n<img src=\"uploads/2024/4b2a3ba4e0dd44da84e968a73e72a579.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-12-14T09:30:01-05:00",
+				"url": "https://www.jonathansick.blog/2024/12/14/the-first-sunny.html"
+			},
+			{
 				"id": "http://jonathansick.micro.blog/2024/11/26/you-cant-tell.html",
 				
 				"content_html": "<blockquote>\n<p>You can’t tell your own stories if you’re too busy refuting the terrible stories told by others. You have to give yourself both the space—and the silence—to dream.</p>\n</blockquote>\n<p>— <a href=\"https://aworkinglibrary.com/writing/storytelling-as-practice\">Mandy Brown, <em>Storytelling as practice</em></a></p>\n",
@@ -42,7 +58,7 @@
 				"id": "http://jonathansick.micro.blog/2024/10/16/breakfast-with-nikki.html",
 				
 				"content_html": "<p>Breakfast with Nikki</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Breakfast with Nikki\n\n<img src=\"uploads/2024/d5f338c2d6954c96877112e7b00ff95e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Breakfast with Nikki\n\n<img src=\"https://cdn.uploads.micro.blog/907/2024/d5f338c2d6954c96877112e7b00ff95e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-16T15:46:49-05:00",
 				"url": "https://www.jonathansick.blog/2024/10/16/breakfast-with-nikki.html"
 			},
