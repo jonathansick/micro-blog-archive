@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jonathansick.micro.blog/2025/02/15/finished-reading-values-by-mark.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781541768710\">Value(s)</a> by Mark Carney. 📚 After a 20 hour read, <em>I love this book.</em> In fact, I bought the hardcover that I&rsquo;m going to reread and take notes on. It&rsquo;s given me an appreciation for economics and a realistic (hopeful?) roadmap for how we&rsquo;ll transition to a sustainable economy.</p>\n",
+				"content_text": "Finished reading: [Value(s)](https://micro.blog/books/9781541768710) by Mark Carney. 📚 After a 20 hour read, *I love this book.* In fact, I bought the hardcover that I'm going to reread and take notes on. It's given me an appreciation for economics and a realistic (hopeful?) roadmap for how we'll transition to a sustainable economy.\n",
+				"date_published": "2025-02-15T14:34:43-05:00",
+				"url": "https://www.jonathansick.blog/2025/02/15/finished-reading-values-by-mark.html"
+			},
+			{
 				"id": "http://jonathansick.micro.blog/2025/02/04/judging-from-media-email-fliers.html",
 				
 				"content_html": "<p>Judging from media, email fliers, and friends, it seems like we (Canadians) are just going ahead with a boycott of American brands — tariffs or not.</p>\n",
@@ -91,7 +99,7 @@
 				"id": "http://jonathansick.micro.blog/2025/01/24/the-snow-banks-are-starting.html",
 				
 				"content_html": "<p>The snow banks are starting to get out of hand.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The snow banks are starting to get out of hand.\n\n<img src=\"https://cdn.uploads.micro.blog/907/2025/f9fca8859dca4df4b6c594eb819bfc7a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The snow banks are starting to get out of hand.\n\n<img src=\"uploads/2025/f9fca8859dca4df4b6c594eb819bfc7a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-01-24T17:08:41-05:00",
 				"url": "https://www.jonathansick.blog/2025/01/24/the-snow-banks-are-starting.html"
 			},
@@ -102,6 +110,1046 @@
 				"content_text": "-21˚C and the furnace gave up last night. Thankfully we have some redundant forms of heating and some friends dropped off extra space heaters so we should be able to keep things going until a tech arrives.\n",
 				"date_published": "2025-01-24T08:26:43-05:00",
 				"url": "https://www.jonathansick.blog/2025/01/24/c-and-the-furnace-gave.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2025/01/20/speaking-of-krugman-going-indie.html",
+				
+				"content_html": "<p>Speaking of Krugman going indie, I find it curious that even established writers are offloading platform ownership to Substack in return for the benefit of its network and (I guess?) simple technical set up. What happens when Substack stops being cool or culturally palatable?</p>\n",
+				"content_text": "Speaking of Krugman going indie, I find it curious that even established writers are offloading platform ownership to Substack in return for the benefit of its network and (I guess?) simple technical set up. What happens when Substack stops being cool or culturally palatable?\n",
+				"date_published": "2025-01-20T07:54:39-05:00",
+				"url": "https://www.jonathansick.blog/2025/01/20/speaking-of-krugman-going-indie.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2025/01/20/i-was-let-down-when.html",
+				
+				"content_html": "<p>I was let down when I heard that Paul Krugman was retiring from the New York Times — this is until I found that he&rsquo;s got a new <a href=\"https://open.substack.com/pub/paulkrugman\">home on Substack</a> and is commenting with ever more frequency on economics and (of course) politics. Highly recommended and paywall free (for now?)</p>\n",
+				"content_text": "I was let down when I heard that Paul Krugman was retiring from the New York Times — this is until I found that he's got a new [home on Substack](https://open.substack.com/pub/paulkrugman) and is commenting with ever more frequency on economics and (of course) politics. Highly recommended and paywall free (for now?)\n",
+				"date_published": "2025-01-20T07:38:54-05:00",
+				"url": "https://www.jonathansick.blog/2025/01/20/i-was-let-down-when.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2025/01/19/we-watched-wild-robot-last.html",
+				
+				"content_html": "<p>We watched <em>Wild Robot</em> last night 🍿 As new parents, the story line hit hard in a good way.</p>\n<p>I appreciated the dystopian undertones of the movie — like the Golden Gate Bridge being underwater.</p>\n<p>And if you’re an ecologist, just try to suspend belief for about an hour for best effect.</p>\n",
+				"content_text": "We watched *Wild Robot* last night 🍿 As new parents, the story line hit hard in a good way.\n\nI appreciated the dystopian undertones of the movie — like the Golden Gate Bridge being underwater.\n\nAnd if you’re an ecologist, just try to suspend belief for about an hour for best effect.\n",
+				"date_published": "2025-01-19T20:35:22-05:00",
+				"url": "https://www.jonathansick.blog/2025/01/19/we-watched-wild-robot-last.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2025/01/19/finished-reading-boom-by-byrne.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781953953483\">Boom</a> by Byrne Hobart and Tobias Huber 📚</p>\n<p>The book’s idea is that useful bubbles — characterized by irrational exuberance, shared optimism, and overinvestment — are important drivers of innovation (think of bubbles as things like the Apollo program and development of the microchip rather than purely financial delusions like the 2008 financial crisis). In that sense, the current AI bubble can be seen as useful because it’s concentrating huge amounts of R&amp;D on a shared vision of the future. And just like the dot-com bubble popped but left behind the network infrastructure necessary for the Internet we rely upon today, the AI bubble may leave behind important software and computing paradigms even if Nvidia&rsquo;s stock crashes.</p>\n<p><em>Boom</em> also has its weird and sometimes eye-roll-worthy moments. The first part of the book tries to explain that we&rsquo;re currently mired in a Great Stagnation compared to the rapid developments of the mid-century. One of the things it blames for stagnation is the monoculture of university campuses — as if wokeness is to blame for a lack of innovation. The book ends with a philosophical and somewhat theological discussion of bubbles and progress that frankly didn&rsquo;t land with me at all in audiobook format.</p>\n<p>The middle stretch of the book is quite nice, though, as a survey of key technological developments in the last century and how a bubble-type environment brought them about.</p>\n",
+				"content_text": "Finished reading: [Boom](https://micro.blog/books/9781953953483) by Byrne Hobart and Tobias Huber 📚\n\nThe book’s idea is that useful bubbles — characterized by irrational exuberance, shared optimism, and overinvestment — are important drivers of innovation (think of bubbles as things like the Apollo program and development of the microchip rather than purely financial delusions like the 2008 financial crisis). In that sense, the current AI bubble can be seen as useful because it’s concentrating huge amounts of R&D on a shared vision of the future. And just like the dot-com bubble popped but left behind the network infrastructure necessary for the Internet we rely upon today, the AI bubble may leave behind important software and computing paradigms even if Nvidia's stock crashes.\n\n*Boom* also has its weird and sometimes eye-roll-worthy moments. The first part of the book tries to explain that we're currently mired in a Great Stagnation compared to the rapid developments of the mid-century. One of the things it blames for stagnation is the monoculture of university campuses — as if wokeness is to blame for a lack of innovation. The book ends with a philosophical and somewhat theological discussion of bubbles and progress that frankly didn't land with me at all in audiobook format.\n\nThe middle stretch of the book is quite nice, though, as a survey of key technological developments in the last century and how a bubble-type environment brought them about.\n",
+				"date_published": "2025-01-19T20:27:12-05:00",
+				"url": "https://www.jonathansick.blog/2025/01/19/finished-reading-boom-by-byrne.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2025/01/13/finished-reading-somewhere-beyond-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781035055234\">Somewhere Beyond the Sea</a> by Tj Klune 📚 This was our night time read for a while because we kept falling asleep early as new parents. I love Daniel Henning’s narration and find myself using David-the-Yeti’s voice with my son too often. I think it’s interesting how the first book concluded we can win over conservatives with love, but this book swung to towards silencing authoritarians with [magical] force and a little bit of land-back movement for good measure. Enough is enough, eh?</p>\n",
+				"content_text": "Finished reading: [Somewhere Beyond the Sea](https://micro.blog/books/9781035055234) by Tj Klune 📚 This was our night time read for a while because we kept falling asleep early as new parents. I love Daniel Henning’s narration and find myself using David-the-Yeti’s voice with my son too often. I think it’s interesting how the first book concluded we can win over conservatives with love, but this book swung to towards silencing authoritarians with [magical] force and a little bit of land-back movement for good measure. Enough is enough, eh?\n",
+				"date_published": "2025-01-13T21:16:39-05:00",
+				"url": "https://www.jonathansick.blog/2025/01/13/finished-reading-somewhere-beyond-the.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2025/01/13/finished-reading-the-comeback-by.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781728242668\">The Comeback</a> by Lily Chu 📚A book about accidentally getting into a relationship with a K-pop idol and becoming a hashtag. I like the cross-overs with the Stand In and The Takedown.</p>\n",
+				"content_text": "Finished reading: [The Comeback](https://micro.blog/books/9781728242668) by Lily Chu 📚A book about accidentally getting into a relationship with a K-pop idol and becoming a hashtag. I like the cross-overs with the Stand In and The Takedown.\n",
+				"date_published": "2025-01-13T21:09:41-05:00",
+				"url": "https://www.jonathansick.blog/2025/01/13/finished-reading-the-comeback-by.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2025/01/13/finished-reading-the-standin-by.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781728242637\">The Stand-In</a> by Lily Chu 📚 A rom-com where the main character finds her life’s work in becoming a productivity app developer/mogul? Oh yes!</p>\n",
+				"content_text": "Finished reading: [The Stand-In](https://micro.blog/books/9781728242637) by Lily Chu 📚 A rom-com where the main character finds her life’s work in becoming a productivity app developer/mogul? Oh yes!\n",
+				"date_published": "2025-01-13T21:05:26-05:00",
+				"url": "https://www.jonathansick.blog/2025/01/13/finished-reading-the-standin-by.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2025/01/13/finished-reading-the-takedown-by.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781728242699\">The Takedown</a> by Lily Chu. 📚 Lovely characters and I loved how the book poked at the cult of blind positivity. I also nerded out over how the friend Hanna is a callback to her book The Comeback.</p>\n",
+				"content_text": "Finished reading: [The Takedown](https://micro.blog/books/9781728242699) by Lily Chu. 📚 Lovely characters and I loved how the book poked at the cult of blind positivity. I also nerded out over how the friend Hanna is a callback to her book The Comeback.\n",
+				"date_published": "2025-01-13T21:02:17-05:00",
+				"url": "https://www.jonathansick.blog/2025/01/13/finished-reading-the-takedown-by.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2025/01/13/finished-reading-drop-dead-by.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781728291031\">Drop Dead</a> by Lily Chu. 📚 A cute rom-com with a delightful narration duet from Phillipa Soo and John Cho. I wonder if Chu had Margaret Atwood in mind when writing Dot Voline?</p>\n",
+				"content_text": "Finished reading: [Drop Dead](https://micro.blog/books/9781728291031) by Lily Chu. 📚 A cute rom-com with a delightful narration duet from Phillipa Soo and John Cho. I wonder if Chu had Margaret Atwood in mind when writing Dot Voline?\n",
+				"date_published": "2025-01-13T20:50:33-05:00",
+				"url": "https://www.jonathansick.blog/2025/01/13/finished-reading-drop-dead-by.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2025/01/13/over-paternity-leave-i-crushed.html",
+				
+				"content_html": "<p>Over paternity leave I crushed through the whole catalogue of <a href=\"https://lilychuauthor.com\">Lily Chu</a> audiobooks and I loved her whole mood board of Toronto / lady takes on the world / falls in love in the most implausible way / finds her purpose in life. Here’s some catch-up posts on each read… ✌️</p>\n",
+				"content_text": "Over paternity leave I crushed through the whole catalogue of [Lily Chu](https://lilychuauthor.com) audiobooks and I loved her whole mood board of Toronto / lady takes on the world / falls in love in the most implausible way / finds her purpose in life. Here’s some catch-up posts on each read… ✌️\n",
+				"date_published": "2025-01-13T20:49:46-05:00",
+				"url": "https://www.jonathansick.blog/2025/01/13/over-paternity-leave-i-crushed.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2025/01/02/my-podcast-listening-stats-for.html",
+				
+				"content_html": "<p>My podcast listening stats for 2024 show just how much I have <a href=\"https://micro.blog/macsparky\">@macsparky</a> in my ear! I’m sad to see Automators go (the second <a href=\"https://micro.blog/rosemaryorchard\">@rosemaryorchard</a> podcast I’ve had sunset on me) but it’s given me the push to try  improvements to my tech life and I thank them for that. 💜</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My podcast listening stats for 2024 show just how much I have [@macsparky](https://micro.blog/macsparky) in my ear! I’m sad to see Automators go (the second [@rosemaryorchard](https://micro.blog/rosemaryorchard) podcast I’ve had sunset on me) but it’s given me the push to try  improvements to my tech life and I thank them for that. 💜\n\n<img src=\"uploads/2025/cdae909683f04ebfa53d725c4d080c3b.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-01-02T12:49:50-05:00",
+				"url": "https://www.jonathansick.blog/2025/01/02/my-podcast-listening-stats-for.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/12/22/overcastfm-aaooyuaia.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://overcast.fm/+AAOOYU6aI9A/40:27\">This wonk podcast episode is primarily about whether passive investing is good for markets (and investors)</a>, but an idea that caught my ear is that we <em>should</em> have a means to invest in our local communities, but we don’t.</p>\n\n<p>Right now, my biggest investment is in the US equity market. This is great for long-term returns, but it means my money has left the country where I live and isn’t making any tangible difference in my life. Why can’t I also make my local community better by investing in its businesses? In other words, why isn’t there an ETF for small businesses in Penetanguishene, Ontario?</p>\n",
+				"date_published": "2024-12-22T10:14:28-05:00",
+				"url": "https://www.jonathansick.blog/2024/12/22/overcastfm-aaooyuaia.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/12/22/and-just-like.html",
+				
+				"content_html": "<p>And just like that, a night dipping to -20°, and Penetanguishene is iced in by Georgian Bay.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "And just like that, a night dipping to -20°, and Penetanguishene is iced in by Georgian Bay.\n\n<img src=\"uploads/2024/ff1b0a8cc9184dd597d58c7a17bbaa64.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-12-22T09:12:39-05:00",
+				"url": "https://www.jonathansick.blog/2024/12/22/and-just-like.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/12/21/the-first-big.html",
+				
+				"content_html": "<p>The first big ice formations of the season.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The first big ice formations of the season.\n\n<img src=\"uploads/2024/d72529c778a14c4d80372de79245169e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-12-21T16:14:52-05:00",
+				"url": "https://www.jonathansick.blog/2024/12/21/the-first-big.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/12/18/i-enjoyed-this.html",
+				
+				"content_html": "<p>I enjoyed <a href=\"https://youtube.com/watch?v=3oIeLGkSCMA\">this video by Stewart Hicks </a> on how the joining plate led to cheap trusses and ultimately the proliferation of McMansions in suburbia. So often a good idea ends up being perverted by capitalist players and the market goes along with it.</p>\n",
+				"content_text": "I enjoyed [this video by Stewart Hicks ](https://youtube.com/watch?v=3oIeLGkSCMA) on how the joining plate led to cheap trusses and ultimately the proliferation of McMansions in suburbia. So often a good idea ends up being perverted by capitalist players and the market goes along with it.\n",
+				"date_published": "2024-12-18T13:20:31-05:00",
+				"url": "https://www.jonathansick.blog/2024/12/18/i-enjoyed-this.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/12/14/the-first-sunny.html",
+				
+				"content_html": "<p>The first sunny day after two weeks of snow ❄️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The first sunny day after two weeks of snow ❄️\n\n<img src=\"uploads/2024/4b2a3ba4e0dd44da84e968a73e72a579.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-12-14T09:30:01-05:00",
+				"url": "https://www.jonathansick.blog/2024/12/14/the-first-sunny.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/11/26/you-cant-tell.html",
+				
+				"content_html": "<blockquote>\n<p>You can’t tell your own stories if you’re too busy refuting the terrible stories told by others. You have to give yourself both the space—and the silence—to dream.</p>\n</blockquote>\n<p>— <a href=\"https://aworkinglibrary.com/writing/storytelling-as-practice\">Mandy Brown, <em>Storytelling as practice</em></a></p>\n",
+				"content_text": "> You can’t tell your own stories if you’re too busy refuting the terrible stories told by others. You have to give yourself both the space—and the silence—to dream.\n\n— [Mandy Brown, *Storytelling as practice*](https://aworkinglibrary.com/writing/storytelling-as-practice)\n",
+				"date_published": "2024-11-26T21:39:48-05:00",
+				"url": "https://www.jonathansick.blog/2024/11/26/you-cant-tell.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/11/23/watched-stay-the.html",
+				
+				"content_html": "<p>Watched <em>Stay the Night</em> with Andrea Bang. 🎬 We loved the thoughtful take on the rom com and coming of age genres. And perfect Toronto vibes.</p>\n",
+				"content_text": "Watched *Stay the Night* with Andrea Bang. 🎬 We loved the thoughtful take on the rom com and coming of age genres. And perfect Toronto vibes.\n",
+				"date_published": "2024-11-23T21:28:17-05:00",
+				"url": "https://www.jonathansick.blog/2024/11/23/watched-stay-the.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/11/10/my-old-ass.html",
+				
+				"content_html": "<p><a href=\"https://letterboxd.com/film/my-old-ass/\"><em>My Old Ass</em></a> 🎬 with Aubry Plaza and a Canadian cast surprised with the hard-hitting sentimentality of embracing the present and accepting the future (i.e. we all cried).</p>\n",
+				"content_text": "[*My Old Ass*](https://letterboxd.com/film/my-old-ass/) 🎬 with Aubry Plaza and a Canadian cast surprised with the hard-hitting sentimentality of embracing the present and accepting the future (i.e. we all cried).\n",
+				"date_published": "2024-11-10T19:50:58-05:00",
+				"url": "https://www.jonathansick.blog/2024/11/10/my-old-ass.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/11/08/started-reading-handmade.html",
+				
+				"content_html": "<p>Started reading <a href=\"https://micro.blog/books/9781610353144\">Handmade</a> by Gary Rogowski because, until yesterday, it was free on Audible. 📚 I struggled through the start where he proclaimed he mastery of woodworking for ten minutes and then the first several chapters recounting his college life, but eventually it settled into a memoir on the craft similar to Peter Korn’s or even Nick Offerman’s. Definitely reminiscent of <em>Zen and the Art of Motorcycle Maintenance</em> in the melding of philosophy and craft.</p>\n",
+				"content_text": "Started reading [Handmade](https://micro.blog/books/9781610353144) by Gary Rogowski because, until yesterday, it was free on Audible. 📚 I struggled through the start where he proclaimed he mastery of woodworking for ten minutes and then the first several chapters recounting his college life, but eventually it settled into a memoir on the craft similar to Peter Korn’s or even Nick Offerman’s. Definitely reminiscent of *Zen and the Art of Motorcycle Maintenance* in the melding of philosophy and craft.\n",
+				"date_published": "2024-11-08T17:45:41-05:00",
+				"url": "https://www.jonathansick.blog/2024/11/08/started-reading-handmade.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/10/16/breakfast-with-nikki.html",
+				
+				"content_html": "<p>Breakfast with Nikki</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Breakfast with Nikki\n\n<img src=\"uploads/2024/d5f338c2d6954c96877112e7b00ff95e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-16T15:46:49-05:00",
+				"url": "https://www.jonathansick.blog/2024/10/16/breakfast-with-nikki.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/10/06/with-great-excitement.html",
+				
+				"content_html": "<p>With great excitement we just started reading: <a href=\"https://micro.blog/books/9781035055234\">Somewhere Beyond the Sea</a> by Tj Klune 📚 It’s a prequel to the classic <em>The House in the Cerulean Sea.</em></p>\n",
+				"content_text": "With great excitement we just started reading: [Somewhere Beyond the Sea](https://micro.blog/books/9781035055234) by Tj Klune 📚 It’s a prequel to the classic *The House in the Cerulean Sea.*\n",
+				"date_published": "2024-10-06T10:39:08-05:00",
+				"url": "https://www.jonathansick.blog/2024/10/06/with-great-excitement.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/10/06/finished-reading-i.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781443470261\">I Hope This Finds You Well</a> by Natalie Sue 📚 A lovely office rom-com about finding empathy for yourself and others. Set in Calgary. ❤️</p>\n",
+				"content_text": "Finished reading: [I Hope This Finds You Well](https://micro.blog/books/9781443470261) by Natalie Sue 📚 A lovely office rom-com about finding empathy for yourself and others. Set in Calgary. ❤️\n",
+				"date_published": "2024-10-06T10:35:49-05:00",
+				"url": "https://www.jonathansick.blog/2024/10/06/finished-reading-i.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/10/01/161153.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2024/1632c52e03fe4c33a9bbcff46ebc2050.jpg\" width=\"450\" height=\"600\" alt=\"A rainbow over a lake, seen out a window and through a small forest of maple, birch and cedar trees. \">\n",
+				"date_published": "2024-10-01T15:11:53-05:00",
+				"url": "https://www.jonathansick.blog/2024/10/01/161153.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/10/01/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780593653425\">The Creative Act</a> by Rick Rubin 📚 🐈☕️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Currently reading: [The Creative Act](https://micro.blog/books/9780593653425) by Rick Rubin 📚 🐈☕️\n\n<img src=\"uploads/2024/203a247785594682ae1c0c7f9875a074.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-01T07:00:18-05:00",
+				"url": "https://www.jonathansick.blog/2024/10/01/currently-reading-the.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/09/26/finished-reading-cointelligence.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593716724\">Co-Intelligence</a> by Ethan Mollick 📚 I thought this was a great primer on where we’re at with AI and what it can do for us. For the last year I’ve been using AI as a super-charged code completion with GitHub Copilot and a web documentation librarian with my MDN subscription.  I’ve just scratched the surface of what I can do and I haven’t yet delved into the more conversational modes of AI. Mollick gave some interesting tips on prompt engineering — like giving the AI a persona for more insightful responses. Huh. Overall I like how Mollick encourages us to keep probing the frontiers of AI in our daily work and adopting it intentionally — much better than using it blindly or even ignoring it altogether.</p>\n",
+				"content_text": "Finished reading: [Co-Intelligence](https://micro.blog/books/9780593716724) by Ethan Mollick 📚 I thought this was a great primer on where we’re at with AI and what it can do for us. For the last year I’ve been using AI as a super-charged code completion with GitHub Copilot and a web documentation librarian with my MDN subscription.  I’ve just scratched the surface of what I can do and I haven’t yet delved into the more conversational modes of AI. Mollick gave some interesting tips on prompt engineering — like giving the AI a persona for more insightful responses. Huh. Overall I like how Mollick encourages us to keep probing the frontiers of AI in our daily work and adopting it intentionally — much better than using it blindly or even ignoring it altogether. \n",
+				"date_published": "2024-09-26T21:51:51-05:00",
+				"url": "https://www.jonathansick.blog/2024/09/26/finished-reading-cointelligence.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/09/26/jason-bent-has.html",
+				
+				"content_html": "<p>Jason Bent has <a href=\"https://youtube.com/watch?v=FzAThj87KEw\">a video tutorial on making a mortise and tenon with the Shaper Origin</a>. I’m starting to think that (money aside) this isn’t a terrible option for the home woodshop. It does lots of joinery plus lots of CNC-type work in a systainer-sized machine that doesn’t require making lots of jigs and having the waste of temporary templates. 🪚</p>\n",
+				"content_text": "Jason Bent has [a video tutorial on making a mortise and tenon with the Shaper Origin](https://youtube.com/watch?v=FzAThj87KEw). I’m starting to think that (money aside) this isn’t a terrible option for the home woodshop. It does lots of joinery plus lots of CNC-type work in a systainer-sized machine that doesn’t require making lots of jigs and having the waste of temporary templates. 🪚\n",
+				"date_published": "2024-09-26T11:29:03-05:00",
+				"url": "https://www.jonathansick.blog/2024/09/26/jason-bent-has.html",
+				"tags": ["Woodworking"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/09/25/im-loving-the.html",
+				
+				"content_html": "<p>I’m loving the upgrade from the 12 Pro camera to the iPhone 16 Pro. Portrait mode-ing all the things. I’ve been using the “Natural” photo styling a lot too.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’m loving the upgrade from the 12 Pro camera to the iPhone 16 Pro. Portrait mode-ing all the things. I’ve been using the “Natural” photo styling a lot too.\n\n<img src=\"uploads/2024/6da06152f0504db88b4c75d3fc8b66ac.jpg\" width=\"449\" height=\"600\" alt=\"A tabby cat sitting in profile, yawning with a wide open mouth in a sunbeam.\">\n",
+				"date_published": "2024-09-25T12:35:01-05:00",
+				"url": "https://www.jonathansick.blog/2024/09/25/im-loving-the.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/09/25/quick-update-on.html",
+				
+				"content_html": "<p>Quick update on the iPhone <a href=\"https://www.jonathansick.blog/2024/09/21/the-initial-upgrade.html\">transfer saga</a>. The iPhone 16 Pro still crashed and behaved oddly. I ended up doing a clean restore, this time transferring directly from the old iPhone 12. Everything seems super happy since. That the original\niCloud restore was buggy is concerning, but 🤷</p>\n",
+				"content_text": "Quick update on the iPhone [transfer saga](https://www.jonathansick.blog/2024/09/21/the-initial-upgrade.html). The iPhone 16 Pro still crashed and behaved oddly. I ended up doing a clean restore, this time transferring directly from the old iPhone 12. Everything seems super happy since. That the original\niCloud restore was buggy is concerning, but 🤷\n",
+				"date_published": "2024-09-25T12:31:12-05:00",
+				"url": "https://www.jonathansick.blog/2024/09/25/quick-update-on.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/09/21/the-camera-control.html",
+				
+				"content_html": "<p>The camera control “button” is interesting. I don’t feel at all fast using it yet, like I do with the physical controls on a Canon, so I assume I need to practice and build muscle memory for switching between settings.</p>\n",
+				"content_text": "The camera control “button” is interesting. I don’t feel at all fast using it yet, like I do with the physical controls on a Canon, so I assume I need to practice and build muscle memory for switching between settings.\n",
+				"date_published": "2024-09-21T14:00:19-05:00",
+				"url": "https://www.jonathansick.blog/2024/09/21/the-camera-control.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/09/21/the-initial-upgrade.html",
+				
+				"content_html": "<p>The initial upgrade process to the iPhone 16 was weirdly buggy. After iCloud transfer from the old phone, it’d freeze up randomly. It turns out there was an iOS 18 update specifically for the iPhones 16 and everything has been perfect since. It’s still labeled as iOS 18.0 though.</p>\n",
+				"content_text": "The initial upgrade process to the iPhone 16 was weirdly buggy. After iCloud transfer from the old phone, it’d freeze up randomly. It turns out there was an iOS 18 update specifically for the iPhones 16 and everything has been perfect since. It’s still labeled as iOS 18.0 though.\n",
+				"date_published": "2024-09-21T13:56:08-05:00",
+				"url": "https://www.jonathansick.blog/2024/09/21/the-initial-upgrade.html",
+				"tags": ["Computing"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/09/18/finished-reading-how.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593086612\">How Infrastructure Works</a> by Deb Chachra 📚 It starts out nerdy, but grows into a profound message about the social role of public infrastructure. Highly recommended.</p>\n",
+				"content_text": "Finished reading: [How Infrastructure Works](https://micro.blog/books/9780593086612) by Deb Chachra 📚 It starts out nerdy, but grows into a profound message about the social role of public infrastructure. Highly recommended.\n",
+				"date_published": "2024-09-18T12:14:49-05:00",
+				"url": "https://www.jonathansick.blog/2024/09/18/finished-reading-how.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/09/18/im-starting-to.html",
+				
+				"content_html": "<p>I&rsquo;m starting to dig in on the new OS features. One peculiarity of Sonoma is that my cursor won&rsquo;t be visible on wake or sometimes when switching spaces. But once I do something like an exposé gesture it&rsquo;ll show. 🤷‍♂️</p>\n",
+				"content_text": "I'm starting to dig in on the new OS features. One peculiarity of Sonoma is that my cursor won't be visible on wake or sometimes when switching spaces. But once I do something like an exposé gesture it'll show. 🤷‍♂️\n",
+				"date_published": "2024-09-18T11:00:00-05:00",
+				"url": "https://www.jonathansick.blog/2024/09/18/im-starting-to.html",
+				"tags": ["Computing"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/09/13/todays-a-very.html",
+				
+				"content_html": "<p>Today’s a very expensive day. iPhone preorder, then off to Hunter Douglas to get better and safer blinds for the nursery. Adulting.</p>\n",
+				"content_text": "Today’s a very expensive day. iPhone preorder, then off to Hunter Douglas to get better and safer blinds for the nursery. Adulting.\n",
+				"date_published": "2024-09-13T07:31:51-05:00",
+				"url": "https://www.jonathansick.blog/2024/09/13/todays-a-very.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/09/13/after-some-paper.html",
+				
+				"content_html": "<p>After some paper prototyping I chickened out and didn’t get the Max size <a href=\"https://www.jonathansick.blog/2024/09/12/i-think-ill.html\">as discussed</a>. The size of the 12 Pro I’m\nused to is too good. And there’s a ton of MagSafe power banks out there. So anyways, if all goes well, I’ll get pictures of our newborn with a 16 Pro!</p>\n",
+				"content_text": "After some paper prototyping I chickened out and didn’t get the Max size [as discussed](https://www.jonathansick.blog/2024/09/12/i-think-ill.html). The size of the 12 Pro I’m\nused to is too good. And there’s a ton of MagSafe power banks out there. So anyways, if all goes well, I’ll get pictures of our newborn with a 16 Pro!\n",
+				"date_published": "2024-09-13T07:29:49-05:00",
+				"url": "https://www.jonathansick.blog/2024/09/13/after-some-paper.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/09/12/i-think-ill.html",
+				
+				"content_html": "<p>I think I’ll order an iPhone 16 Pro <strong>Max</strong> oddly enough after realizing that my 12 Pro does most of what I want <strong>except</strong> for the battery life. Go all-in on battery and maybe another 3 or 4 year service life will be reasonable?</p>\n",
+				"content_text": "I think I’ll order an iPhone 16 Pro __Max__ oddly enough after realizing that my 12 Pro does most of what I want __except__ for the battery life. Go all-in on battery and maybe another 3 or 4 year service life will be reasonable?\n",
+				"date_published": "2024-09-12T13:21:31-05:00",
+				"url": "https://www.jonathansick.blog/2024/09/12/i-think-ill.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/09/09/im-kind-of.html",
+				
+				"content_html": "<p>I’m kind of relieved that there’s no Air Pod Pro 3 or Apple Watch Ultra 3 in today’s event. I love that Apple made my existing ones better in software without a yearly churn that makes us buy more physical goods.</p>\n",
+				"content_text": "I’m kind of relieved that there’s no Air Pod Pro 3 or Apple Watch Ultra 3 in today’s event. I love that Apple made my existing ones better in software without a yearly churn that makes us buy more physical goods.\n",
+				"date_published": "2024-09-09T16:57:18-05:00",
+				"url": "https://www.jonathansick.blog/2024/09/09/im-kind-of.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/09/09/with-a-kid.html",
+				
+				"content_html": "<p>With a kid on the way, iPhone 16’s dedicated camera control button is perfect timing.</p>\n",
+				"content_text": "With a kid on the way, iPhone 16’s dedicated camera control button is perfect timing.\n",
+				"date_published": "2024-09-09T16:53:29-05:00",
+				"url": "https://www.jonathansick.blog/2024/09/09/with-a-kid.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/09/07/i-just-wanted.html",
+				"title": "I just wanted to know about the new feature in Unread",
+				"content_html": "<p>It was a quiet overcast Saturday morning. As I sipped my coffee and perused the <em>Globe and Mail</em>, I noticed I had a weekly roundup email from <a href=\"https://macstories.net\">MacStories</a>. One of the items was a teaser about a new feature in Unread, an RSS reader app I like:</p>\n<blockquote>\n<p>Paul Stockton gave us a heads-up on a nice new feature coming to the RSS reader Unread .</p>\n</blockquote>\n<p>I was intrigued. I saw that Reeder had just made a big splash this week with a new app release, so I wondered what my beloved Unread was up to.</p>\n<ol>\n<li>I click on the link in the email, but it takes me to the MacStories+ paywall. I find the small button to login, below the larger calls-to-action to sign up.</li>\n<li>I put in my email and wait 10 seconds for the Memberful magic login code email to arrive. Thankfully Apple has a feature where codes from these emails would automatically pop-up to be auto-filled in. <em>It used to be that these “magic logins” required me to spelunk in my email app and find out which folder SaneBox sorted it in. I hate email-based magic logins. At least with this Apple feature to fill in the code for me they’re tolerable.</em></li>\n<li>I’m logged into MacStories+ on my iPhone, but I’m left at the homepage, no sign of my Unread content yet! I go back to the email and click the original link about the mysterious Unread feature again.</li>\n<li>Now I’m dumped at another MacStories+ club page, this time asking me whether I want to visit Discord via the web or via an app. The mention of Discord increases my pessimism about a speedy resolution, but I press the “web” button.</li>\n<li>I now have to log into Discord. In my first attempt I fumble because 1Password autofilled my Discord user name as my email. So I put in my email and try again.</li>\n<li>Discord is suspicious of this new login from someone who never really uses Discord. They have me check my email to approve the new login.</li>\n<li>Over in my Mail app, I find Discord’s email and approve it. I’m sent to a new Safari tab, which tell me I’m legitimate, but I need to find the original Safari tab to continue my journey into Discord.</li>\n<li>Over in Discord, where I’m now logged in, I try to find the MacStories channel. On the way, I’m shown a buch of bizzare views about Discord study clubs and exclusive themes. These views are a bit janky, likely because I’m viewing it on the web in mobile Safari and no one remembers to test Discord this way. At some point I realize I’m not a member of the MacStories Discord channel.</li>\n<li>I go back to the MacStories+ account pages and find the FAQ about Discord. There’s a link to join the Discord. I click it. I have to read a code of conduct and accept it, which I do. Then there’s directions to go into the Discord channel, find <code>#rules</code> and thumbs-up some message. Back in Discord on the mobile web and the layout continues to be broken with things overflowing and content unreadable. I give up and download the Discord app from the App store.</li>\n<li>I log into Discord on the Discord app. The 1Password login doesn’t initially show in the mobile keyboard, but once I enter my email it does. I hit sign in and confirm I’m a human. I’m told my login or password are invalid, which is odd because I’d just logged into Discord with those credentials. I realize it’s again because 1Password autofilled my username instead of my email address in the “login” field.</li>\n<li><em>A new login location detected! please check your email!</em> This rodeo is familiar. I wonder if this is because of iCloud’s secure VPN feature? Anyways, I find the email and then I’m dumped into a new Safari tab. I’m left on my own wits to find the Discord app again.</li>\n<li>Discord is excited to see me. It wants me to choose a custom app icon. It also really wants me to turn on notifications.</li>\n<li>Brushing those Discord pop-ups aside, I find the MacStories+ channel. Whew. I tap on that. I get some welcoming text and I’m let to fill out a three-part questionnaire. At last this brings me to the <code>#rules</code>. I read and accept all the community rules. Ok, I think we’re finally set up.</li>\n<li>I find that original email again and tap on the link about the new feature in Unread.</li>\n<li>At last, I’m linked to the exact message in Discord! It works!</li>\n<li>I find out the feature is related to an integration with an app I don’t use.</li>\n</ol>\n<p>Fair enough.</p>\n<p>In one light, this was annoying because the teaser in the MacStories email could have given me just a tiny bit more context to tell me whether the next 20 minutes of account wrangling would be worth it.</p>\n<p>It also don’t hold MacStories to blame for wasting my time. For them, and their readers who already have the Memberful login cookie in their browser and have already signed up for the Discord, that link really would have been a split-second content load rather than a hilarious quest.</p>\n<p>But it does serve as a good reminder for platform operators (of which I count myself through my <a href=\"https://www.rubinobservatory.org\">day job</a> that not all of your users are super fans and that if they just want to get a tiny thing done, making them do a lot of set up isn’t necessarily reasonable. Making account sign ups, logins, and set ups as seamless as possible is incredibly important. No one wants to think about choosing a custom Discord app icon when all they really wanted to do was follow a link in a newsletter.</p>\n",
+				"content_text": "It was a quiet overcast Saturday morning. As I sipped my coffee and perused the *Globe and Mail*, I noticed I had a weekly roundup email from [MacStories](https://macstories.net). One of the items was a teaser about a new feature in Unread, an RSS reader app I like:\n\n> Paul Stockton gave us a heads-up on a nice new feature coming to the RSS reader Unread .\n\nI was intrigued. I saw that Reeder had just made a big splash this week with a new app release, so I wondered what my beloved Unread was up to.\n\n1. I click on the link in the email, but it takes me to the MacStories+ paywall. I find the small button to login, below the larger calls-to-action to sign up.\n2. I put in my email and wait 10 seconds for the Memberful magic login code email to arrive. Thankfully Apple has a feature where codes from these emails would automatically pop-up to be auto-filled in. _It used to be that these “magic logins” required me to spelunk in my email app and find out which folder SaneBox sorted it in. I hate email-based magic logins. At least with this Apple feature to fill in the code for me they’re tolerable._\n3. I’m logged into MacStories+ on my iPhone, but I’m left at the homepage, no sign of my Unread content yet! I go back to the email and click the original link about the mysterious Unread feature again.\n4. Now I’m dumped at another MacStories+ club page, this time asking me whether I want to visit Discord via the web or via an app. The mention of Discord increases my pessimism about a speedy resolution, but I press the “web” button.\n5. I now have to log into Discord. In my first attempt I fumble because 1Password autofilled my Discord user name as my email. So I put in my email and try again.\n6. Discord is suspicious of this new login from someone who never really uses Discord. They have me check my email to approve the new login.\n7. Over in my Mail app, I find Discord’s email and approve it. I’m sent to a new Safari tab, which tell me I’m legitimate, but I need to find the original Safari tab to continue my journey into Discord.\n8. Over in Discord, where I’m now logged in, I try to find the MacStories channel. On the way, I’m shown a buch of bizzare views about Discord study clubs and exclusive themes. These views are a bit janky, likely because I’m viewing it on the web in mobile Safari and no one remembers to test Discord this way. At some point I realize I’m not a member of the MacStories Discord channel.\n9. I go back to the MacStories+ account pages and find the FAQ about Discord. There’s a link to join the Discord. I click it. I have to read a code of conduct and accept it, which I do. Then there’s directions to go into the Discord channel, find `#rules` and thumbs-up some message. Back in Discord on the mobile web and the layout continues to be broken with things overflowing and content unreadable. I give up and download the Discord app from the App store.\n10. I log into Discord on the Discord app. The 1Password login doesn’t initially show in the mobile keyboard, but once I enter my email it does. I hit sign in and confirm I’m a human. I’m told my login or password are invalid, which is odd because I’d just logged into Discord with those credentials. I realize it’s again because 1Password autofilled my username instead of my email address in the “login” field.\n11. _A new login location detected! please check your email!_ This rodeo is familiar. I wonder if this is because of iCloud’s secure VPN feature? Anyways, I find the email and then I’m dumped into a new Safari tab. I’m left on my own wits to find the Discord app again.\n12. Discord is excited to see me. It wants me to choose a custom app icon. It also really wants me to turn on notifications.\n13. Brushing those Discord pop-ups aside, I find the MacStories+ channel. Whew. I tap on that. I get some welcoming text and I’m let to fill out a three-part questionnaire. At last this brings me to the `#rules`. I read and accept all the community rules. Ok, I think we’re finally set up.\n14. I find that original email again and tap on the link about the new feature in Unread.\n15. At last, I’m linked to the exact message in Discord! It works!\n15. I find out the feature is related to an integration with an app I don’t use.\n\nFair enough.\n\nIn one light, this was annoying because the teaser in the MacStories email could have given me just a tiny bit more context to tell me whether the next 20 minutes of account wrangling would be worth it.\n\nIt also don’t hold MacStories to blame for wasting my time. For them, and their readers who already have the Memberful login cookie in their browser and have already signed up for the Discord, that link really would have been a split-second content load rather than a hilarious quest.\n\nBut it does serve as a good reminder for platform operators (of which I count myself through my [day job](https://www.rubinobservatory.org) that not all of your users are super fans and that if they just want to get a tiny thing done, making them do a lot of set up isn’t necessarily reasonable. Making account sign ups, logins, and set ups as seamless as possible is incredibly important. No one wants to think about choosing a custom Discord app icon when all they really wanted to do was follow a link in a newsletter.\n",
+				"date_published": "2024-09-07T09:33:33-05:00",
+				"url": "https://www.jonathansick.blog/2024/09/07/i-just-wanted.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/09/06/no-typing-allowed.html",
+				
+				"content_html": "<p>No typing allowed after noon on a Friday. 😻</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "No typing allowed after noon on a Friday. 😻\n\n<img src=\"uploads/2024/328048350c5241c786ed313f8545aa6e.jpg\" width=\"337\" height=\"600\" alt=\"A black and white cat is sitting with her paws on my arms at my computer desk.\">\n",
+				"date_published": "2024-09-06T11:55:19-05:00",
+				"url": "https://www.jonathansick.blog/2024/09/06/no-typing-allowed.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/09/06/we-finished-all.html",
+				
+				"content_html": "<p>We finished <a href=\"https://micro.blog/books/9780063278998\">All This and More</a> by Peng Shepherd the other night.📚 Doing a choose-your-own-adventure was an interesting device that definitely worked for the story line, although I found Audible was slightly inaccurate with chapter timestamps. Like her other books, Peng delivers at given a slightly weird story where the characters exist in and out of liminal spaces.</p>\n",
+				"content_text": "We finished [All This and More](https://micro.blog/books/9780063278998) by Peng Shepherd the other night.📚 Doing a choose-your-own-adventure was an interesting device that definitely worked for the story line, although I found Audible was slightly inaccurate with chapter timestamps. Like her other books, Peng delivers at given a slightly weird story where the characters exist in and out of liminal spaces.\n",
+				"date_published": "2024-09-06T07:06:58-05:00",
+				"url": "https://www.jonathansick.blog/2024/09/06/we-finished-all.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/08/23/githubs-keyboard-shortcut.html",
+				
+				"content_html": "<p><a href=\"https://docs.github.com/en/codespaces/the-githubdev-web-based-editor\">GitHub’s <code>.</code> keyboard shortcut</a> for launching into a web-based VS Code (with your own theme &amp; settings if you sync them) of any repo is such a delightful feature for exploring other codebases in detail without having to clone them.</p>\n",
+				"content_text": "[GitHub’s `.` keyboard shortcut](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor) for launching into a web-based VS Code (with your own theme & settings if you sync them) of any repo is such a delightful feature for exploring other codebases in detail without having to clone them.\n",
+				"date_published": "2024-08-23T13:37:24-05:00",
+				"url": "https://www.jonathansick.blog/2024/08/23/githubs-keyboard-shortcut.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/08/22/ive-been-kayaking.html",
+				
+				"content_html": "<p>I’ve been kayaking this summer and dreaming of building my own light and nimble skin-on-frame kayak. <a href=\"https://youtu.be/hSmqVsMsIF0\"><em>A thousand hands ago</em></a>, a lovely little documentary on YouTube, captures the whole vibe of it.</p>\n",
+				"content_text": "I’ve been kayaking this summer and dreaming of building my own light and nimble skin-on-frame kayak. [_A thousand hands ago_](https://youtu.be/hSmqVsMsIF0), a lovely little documentary on YouTube, captures the whole vibe of it.\n",
+				"date_published": "2024-08-22T18:55:51-05:00",
+				"url": "https://www.jonathansick.blog/2024/08/22/ive-been-kayaking.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/08/19/ben-strano-has.html",
+				
+				"content_html": "<p><a href=\"https://youtu.be/fbvXVW7KGZc\">Ben Strano has a great video</a> about <em>parametric modelling</em> in Fusion 360 and using a 3D printer to make mortise templates of different sizes. I’ve been only modelling with Sketchup so far, but this shows just how approachable adding a bit of algebra to a 3D model is. 🪚</p>\n",
+				"content_text": "[Ben Strano has a great video](https://youtu.be/fbvXVW7KGZc) about _parametric modelling_ in Fusion 360 and using a 3D printer to make mortise templates of different sizes. I’ve been only modelling with Sketchup so far, but this shows just how approachable adding a bit of algebra to a 3D model is. 🪚\n",
+				"date_published": "2024-08-19T11:53:24-05:00",
+				"url": "https://www.jonathansick.blog/2024/08/19/ben-strano-has.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/07/29/after-a-long.html",
+				
+				"content_html": "<p>After a long time away, I had my first kayak outing of 2024 in Georgian Bay this morning. First I spotted a little mink scurrying on the shore while checking out a patch of invasive glossy buckthorn. Then several turtles, followed by a bald eagle fly-over. So rewarding to be back on the water.</p>\n",
+				"content_text": "After a long time away, I had my first kayak outing of 2024 in Georgian Bay this morning. First I spotted a little mink scurrying on the shore while checking out a patch of invasive glossy buckthorn. Then several turtles, followed by a bald eagle fly-over. So rewarding to be back on the water.\n",
+				"date_published": "2024-07-29T17:22:25-05:00",
+				"url": "https://www.jonathansick.blog/2024/07/29/after-a-long.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2024/05/14/some-of-my.html",
+				
+				"content_html": "<p>Some of my shots of the weekend&rsquo;s Aurora display and how it played off trees and the Georgian Bay. I took these with my hand-me-down Canon 5D and a Sigma fisheye lens. I think it was either a 5 or 10 second exposure. I haven’t bumped up the brightness or saturation at all.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Some of my shots of the weekend's Aurora display and how it played off trees and the Georgian Bay. I took these with my hand-me-down Canon 5D and a Sigma fisheye lens. I think it was either a 5 or 10 second exposure. I haven’t bumped up the brightness or saturation at all.\n\n<img src=\"uploads/2024/927088e9edae42db9ebef807f6b53b94.jpg\" width=\"400\" height=\"600\" alt=\"The northern lights over Georgian Bay through the silhouette of trees.\"><img src=\"uploads/2024/31829f0cc4b6405487697b301ac9d93f.jpg\" width=\"400\" height=\"600\" alt=\"\"><img src=\"uploads/2024/a7884819ba784d899f7b7767b7c706d8.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2024-05-14T05:54:10-05:00",
+				"url": "https://www.jonathansick.blog/2024/05/14/some-of-my.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/11/06/im-thoroughly-impressed.html",
+				
+				"content_html": "<p>I&rsquo;m thoroughly impressed with the work at ESASky has done. Go to <a href=\"https://sky.esa.int/.\">sky.esa.int/.</a> Lots of smart features for getting data across multiple observatories and wavelength and built on Virtual Observatory standards. They even have an AI assistant to help you find data. At #adass2023.</p>\n",
+				"content_text": "I'm thoroughly impressed with the work at ESASky has done. Go to [sky.esa.int/.](https://sky.esa.int/.) Lots of smart features for getting data across multiple observatories and wavelength and built on Virtual Observatory standards. They even have an AI assistant to help you find data. At #adass2023.\n",
+				"date_published": "2023-11-06T11:31:33-05:00",
+				"url": "https://www.jonathansick.blog/2023/11/06/im-thoroughly-impressed.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/11/03/at-rubin-observatory.html",
+				
+				"content_html": "<p>At Rubin Observatory, I’ve been building a documentation platform that has enabled hundreds of scientists and engineers to communicate their knowledge. I’m pleased to get the opportunity at <a href=\"https://adass2023.lpl.arizona.edu\">ADASS 2023</a> to show how our docs-like-code platform works.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "At Rubin Observatory, I’ve been building a documentation platform that has enabled hundreds of scientists and engineers to communicate their knowledge. I’m pleased to get the opportunity at [ADASS 2023](https://adass2023.lpl.arizona.edu) to show how our docs-like-code platform works.\n\n<img src=\"uploads/2023/2023-11-07-adass-jsick.001.jpeg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2023-11-03T08:50:20-05:00",
+				"url": "https://www.jonathansick.blog/2023/11/03/at-rubin-observatory.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/09/13/heres-a-great.html",
+				
+				"content_html": "<p>Here’s a great video primer on heat pumps. Using CO2 as a refrigerant and integrating a heat pump with a water heater as a thermal battery is brilliant.</p>\n<p><a href=\"https://youtu.be/npqzHpeIvhM?si=TdJGNK4IfSNYz9z8\">youtu.be/npqzHpeIv&hellip;</a></p>\n",
+				"content_text": "Here’s a great video primer on heat pumps. Using CO2 as a refrigerant and integrating a heat pump with a water heater as a thermal battery is brilliant.\n\n[youtu.be/npqzHpeIv...](https://youtu.be/npqzHpeIvhM?si=TdJGNK4IfSNYz9z8)\n",
+				"date_published": "2023-09-13T07:01:43-05:00",
+				"url": "https://www.jonathansick.blog/2023/09/13/heres-a-great.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/09/01/my-neighbours-are.html",
+				
+				"content_html": "<p>My neighbours are about to imminently tear down and rebuild their house. Today I noticed that several big, beautiful, and healthy trees are marked for removal. I don’t get why people move to a natural area just be make it look more like a Victorian garden. I’m gutted for those trees.</p>\n",
+				"content_text": "My neighbours are about to imminently tear down and rebuild their house. Today I noticed that several big, beautiful, and healthy trees are marked for removal. I don’t get why people move to a natural area just be make it look more like a Victorian garden. I’m gutted for those trees.\n",
+				"date_published": "2023-09-01T13:19:36-05:00",
+				"url": "https://www.jonathansick.blog/2023/09/01/my-neighbours-are.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/07/22/this-is-my.html",
+				
+				"content_html": "<p>This is my life now.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This is my life now.\n\n<img src=\"uploads/2023/5c3f4ce634b44321b4d968b0e05868a8.jpg\" width=\"450\" height=\"600\" alt=\"Looking down in cedar deck boards, half sanded back to fresh wood. Festool sander.\">\n",
+				"date_published": "2023-07-22T12:33:02-05:00",
+				"url": "https://www.jonathansick.blog/2023/07/22/this-is-my.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/07/22/so-happy-for.html",
+				
+				"content_html": "<p>So happy for Lewis Hamilton to snag that pole position today. Never give up!</p>\n",
+				"content_text": "So happy for Lewis Hamilton to snag that pole position today. Never give up!\n",
+				"date_published": "2023-07-22T12:31:09-05:00",
+				"url": "https://www.jonathansick.blog/2023/07/22/so-happy-for.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/07/09/based-on-in.html",
+				
+				"content_html": "<p>Based on <a href=\"https://micro.blog/books/9781250217424\">In the Lives of Puppets</a> I named my Mac Studio “Rambo.”</p>\n",
+				"content_text": "Based on [In the Lives of Puppets](https://micro.blog/books/9781250217424) I named my Mac Studio “Rambo.”\n",
+				"date_published": "2023-07-09T20:49:45-05:00",
+				"url": "https://www.jonathansick.blog/2023/07/09/based-on-in.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/07/09/finished-reading-in.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250217424\">In the Lives of Puppets</a> by TJ Klune 📚 TJ is a master of creating deeply moving stories that have adorable quirky characters.</p>\n",
+				"content_text": "Finished reading: [In the Lives of Puppets](https://micro.blog/books/9781250217424) by TJ Klune 📚 TJ is a master of creating deeply moving stories that have adorable quirky characters.\n",
+				"date_published": "2023-07-09T20:48:43-05:00",
+				"url": "https://www.jonathansick.blog/2023/07/09/finished-reading-in.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/07/07/no-smoke-suns.html",
+				
+				"content_html": "<p>No smoke; Sun’s out; light breeze and 22 degrees. It’s a miracle.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "No smoke; Sun’s out; light breeze and 22 degrees. It’s a miracle.\n\n<img src=\"uploads/2023/2e605806cb60423cba28e11d88fd4771.jpg\" width=\"337\" height=\"600\" alt=\"Selfie of my feet in loud green wool shoes over the green and blue water of Georgian Bay. Blue sky and boats in the distance.\">\n",
+				"date_published": "2023-07-07T16:03:22-05:00",
+				"url": "https://www.jonathansick.blog/2023/07/07/no-smoke-suns.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/07/04/never-in-my.html",
+				
+				"content_html": "<p>Never in my life would I imagine a Star Trek episode that involves shoplifting from a Roots in Eaton Centre, Toronto. ❤️🍁🖖 S2E3 <em>Star Trek: Strange New Worlds</em> 📺</p>\n",
+				"content_text": "Never in my life would I imagine a Star Trek episode that involves shoplifting from a Roots in Eaton Centre, Toronto. ❤️🍁🖖 S2E3 _Star Trek: Strange New Worlds_ 📺\n",
+				"date_published": "2023-07-04T17:52:08-05:00",
+				"url": "https://www.jonathansick.blog/2023/07/04/never-in-my.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/06/29/this-is-what.html",
+				
+				"content_html": "<p>This is what a snow day looks like if you&rsquo;re a developer.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This is what a snow day looks like if you're a developer.\n\n<img src=\"uploads/2023/cleanshot-2023-06-29-at-14.21.272x.png\" alt=\"GitHub Status page saying &quot;We are currently experiencing an outage of GitHub products and are investigating.&quot;\" title=\"CleanShot 2023-06-29 at 14.21.27@2x.png\" border=\"0\" width=\"599\" height=\"375\" />\n",
+				"date_published": "2023-06-29T13:24:41-05:00",
+				"url": "https://www.jonathansick.blog/2023/06/29/this-is-what.html",
+				"tags": ["Developer"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/06/23/this-is-a.html",
+				
+				"content_html": "<p>This is a cool dotfiles repo for Mac. I keep dotfiles for unix-y stuff, but hadn&rsquo;t considered it for macOS settings and even a homebrew install list. <a href=\"https://syntax.fm/show/ull/supper-club-why-netlify-bought-gatsby-graphql-data-layer-and-headless-cms-with-dustin-schau\">Via Syntax.fm</a></p>\n<p><a href=\"https://github.com/DSchau/dotfiles/blob/main/.macos\">github.com/DSchau/do&hellip;</a></p>\n",
+				"content_text": "This is a cool dotfiles repo for Mac. I keep dotfiles for unix-y stuff, but hadn't considered it for macOS settings and even a homebrew install list. [Via Syntax.fm](https://syntax.fm/show/ull/supper-club-why-netlify-bought-gatsby-graphql-data-layer-and-headless-cms-with-dustin-schau)\n\n[github.com/DSchau/do...](https://github.com/DSchau/dotfiles/blob/main/.macos)\n",
+				"date_published": "2023-06-23T14:09:40-05:00",
+				"url": "https://www.jonathansick.blog/2023/06/23/this-is-a.html",
+				"tags": ["Computing"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/06/22/my-new-mac.html",
+				
+				"content_html": "<p>My new Mac Studio arrived! This is my first desktop computer since the 2008-era Mac Pro I had in grad school. It&rsquo;ll also be my second M-series device, alongside my beloved iPad.</p>\n<p>Now, what to name it?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My new Mac Studio arrived! This is my first desktop computer since the 2008-era Mac Pro I had in grad school. It'll also be my second M-series device, alongside my beloved iPad.\n\nNow, what to name it?\n\n<img src=\"uploads/2023/img-4767.jpeg\" alt=\"A messy desktop with a brand new Mac Studio box beside a 2009 Mac Book Pro and a 32 inch display showing code in the background.\" title=\"IMG_4767.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n",
+				"date_published": "2023-06-22T18:29:03-05:00",
+				"url": "https://www.jonathansick.blog/2023/06/22/my-new-mac.html",
+				"tags": ["Computing"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/06/22/hacking-push-notifications.html",
+				"title": "Hacking push notifications for deliveries on the iPhone",
+				"content_html": "<p>My Mac Studio is arriving soon 🎉 and I need to sign for it. The problem is I&rsquo;m usually working in the basement with headphones. My house didn&rsquo;t have a door bell either. The result is I never hear when a delivery person knocks. So I solved it:</p>\n<ol>\n<li>I got a cheap (CA$25) bluetooth doorbell chime and plugged the receiver in at my office.</li>\n<li>Turned on Settings → Accessibility → Sound Recognition → Sounds → Doorbell on my iPhone.</li>\n</ol>\n<p>Now when the door bell rings I get a time-sensitive push notification on my phone.</p>\n<p>As the saying goes, accessibility technology is for everyone.</p>\n",
+				"content_text": "My Mac Studio is arriving soon 🎉 and I need to sign for it. The problem is I'm usually working in the basement with headphones. My house didn't have a door bell either. The result is I never hear when a delivery person knocks. So I solved it:\n\n1. I got a cheap (CA$25) bluetooth doorbell chime and plugged the receiver in at my office.\n2. Turned on Settings → Accessibility → Sound Recognition → Sounds → Doorbell on my iPhone.\n\nNow when the door bell rings I get a time-sensitive push notification on my phone.\n\nAs the saying goes, accessibility technology is for everyone.\n",
+				"date_published": "2023-06-22T11:16:00-05:00",
+				"url": "https://www.jonathansick.blog/2023/06/22/hacking-push-notifications.html",
+				"tags": ["Computing"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/06/20/treenathanfriendio-is-a.html",
+				
+				"content_html": "<p><a href=\"https://tree.nathanfriend.io\">tree.nathanfriend.io</a> is a little website/app that generates an ASCII file tree from indented text (like a mock of the <code>tree</code> CLI). I make these diagrams all the time for docs, and this tool will speed that up a bunch. Via <a href=\"https://blog.codepen.io/2023/06/19/chris-corner-little-useful-websites/\">Chris Coyier</a>.</p>\n",
+				"content_text": "[tree.nathanfriend.io](https://tree.nathanfriend.io) is a little website/app that generates an ASCII file tree from indented text (like a mock of the `tree` CLI). I make these diagrams all the time for docs, and this tool will speed that up a bunch. Via [Chris Coyier](https://blog.codepen.io/2023/06/19/chris-corner-little-useful-websites/).\n",
+				"date_published": "2023-06-20T12:13:44-05:00",
+				"url": "https://www.jonathansick.blog/2023/06/20/treenathanfriendio-is-a.html",
+				"tags": ["Developer"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/06/19/i-ordered-a.html",
+				
+				"content_html": "<p>I ordered a shed today from a website. It’ll be built to my specifications and installed by skilled humans in a few weeks. We truly live in an age of wonder!</p>\n",
+				"content_text": "I ordered a shed today from a website. It’ll be built to my specifications and installed by skilled humans in a few weeks. We truly live in an age of wonder!\n",
+				"date_published": "2023-06-19T18:40:51-05:00",
+				"url": "https://www.jonathansick.blog/2023/06/19/i-ordered-a.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/06/19/the-rainbow-pride.html",
+				
+				"content_html": "<p>The rainbow pride waffles from Planted in Hamilton Ontario are pretty awesome 🌈</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The rainbow pride waffles from Planted in Hamilton Ontario are pretty awesome 🌈\n\n<img src=\"uploads/2023/6a50b0e27ec74e93a90b031b0078726d.jpg\" width=\"450\" height=\"600\" alt=\"Two big waffles in take our containers that are coloured in a rainbow of red, yellow, green, and purple like a pride flag. Drizzled with delicious maple syrup.\">\n",
+				"date_published": "2023-06-19T18:32:12-05:00",
+				"url": "https://www.jonathansick.blog/2023/06/19/the-rainbow-pride.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/06/14/a-consistent-problem.html",
+				
+				"content_html": "<p>A consistent problem I have with my development workflow is knowing that I did something before, but not exactly where. <em>What repo did I do that in? What GitHub org even?</em> Perhaps the answer is &ldquo;Zettelkasten&rdquo; but where do I find the time for that?</p>\n",
+				"content_text": "A consistent problem I have with my development workflow is knowing that I did something before, but not exactly where. *What repo did I do that in? What GitHub org even?* Perhaps the answer is \"Zettelkasten\" but where do I find the time for that?\n",
+				"date_published": "2023-06-14T11:40:55-05:00",
+				"url": "https://www.jonathansick.blog/2023/06/14/a-consistent-problem.html",
+				"tags": ["Developer"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/06/13/heres-what-im.html",
+				
+				"content_html": "<p>Here&rsquo;s what I&rsquo;m going with: Mac Studio M2 Max (12 core, 38 core GPU) with 2TB storage and 96GB RAM. I hate closing windows and quitting apps for anything remotely in-flight, so 96GB it is. Overkill? Maybe? Will it last four more years? Hopefully. 🤞</p>\n",
+				"content_text": "Here's what I'm going with: Mac Studio M2 Max (12 core, 38 core GPU) with 2TB storage and 96GB RAM. I hate closing windows and quitting apps for anything remotely in-flight, so 96GB it is. Overkill? Maybe? Will it last four more years? Hopefully. 🤞\n",
+				"date_published": "2023-06-13T09:56:42-05:00",
+				"url": "https://www.jonathansick.blog/2023/06/13/heres-what-im.html",
+				"tags": ["Computing"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/06/12/between-going-fulltime.html",
+				
+				"content_html": "<p>Between going 100% indie with my software company, my MacBook Pro 2019&rsquo;s fan&rsquo;s screaming incessantly, and Apple dropping the M2 Mac Studio, it looks like I&rsquo;m in the computer market again. Oh, and <a href=\"https://youtu.be/XK7cIgCYskE\">Chris Lawley says they fixed the fan noise</a>. The question is, what spec?</p>\n",
+				"content_text": "Between going 100% indie with my software company, my MacBook Pro 2019's fan's screaming incessantly, and Apple dropping the M2 Mac Studio, it looks like I'm in the computer market again. Oh, and [Chris Lawley says they fixed the fan noise](https://youtu.be/XK7cIgCYskE). The question is, what spec?\n",
+				"date_published": "2023-06-12T14:08:23-05:00",
+				"url": "https://www.jonathansick.blog/2023/06/12/between-going-fulltime.html",
+				"tags": ["Computing","Developer"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/06/05/i-have-visions.html",
+				
+				"content_html": "<p>I have visions of coding and taking Zoom calls from the lakeside. Sign me up!</p>\n",
+				"content_text": "I have visions of coding and taking Zoom calls from the lakeside. Sign me up!\n",
+				"date_published": "2023-06-05T14:06:40-05:00",
+				"url": "https://www.jonathansick.blog/2023/06/05/i-have-visions.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/06/02/did-anyone-else.html",
+				
+				"content_html": "<p>Did anyone else get the <a href=\"https://ulysses.app\">Ulysses app</a> newsletter on May 31st? I hope it&rsquo;s a prank because yuck! gross! In the meantime, I&rsquo;ve pulled my App Store renewal for it. If you care, maybe let your friends know about this too. [Update: apparently it was a &ldquo;joke,&rdquo; but I&rsquo;m still moving away from Ulysses]</p>\n<p>&lt;img src=&ldquo;uploads/2023/dd75de23d5.png&rdquo; width=&ldquo;600&rdquo; height=&ldquo;467&rdquo; alt=&ldquo;Email screenshot from Marcus, Ulysses app co-founder saying &ldquo;I love Elon Musk. [..] He’s a great innovator, probably a fantastic lover and an overall nice guy.&rdquo;&quot;&gt;</p>\n",
+				"content_text": "Did anyone else get the [Ulysses app](https://ulysses.app) newsletter on May 31st? I hope it's a prank because yuck! gross! In the meantime, I've pulled my App Store renewal for it. If you care, maybe let your friends know about this too. \\[Update: apparently it was a \"joke,\" but I'm still moving away from Ulysses\\]\n\n<img src=\"uploads/2023/dd75de23d5.png\" width=\"600\" height=\"467\" alt=\"Email screenshot from Marcus, Ulysses app co-founder saying \"I love Elon Musk. [..] He’s a great innovator, probably a fantastic lover and an overall nice guy.\"\">\n",
+				"date_published": "2023-06-02T09:57:31-05:00",
+				"url": "https://www.jonathansick.blog/2023/06/02/did-anyone-else.html",
+				"tags": ["Computing"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/03/28/im-writing-a.html",
+				
+				"content_html": "<p>I&rsquo;m writing a technical note with GitHub Copilot enabled for the first time and it&rsquo;ll suggest a fact about something and I&rsquo;m like &ldquo;wait, is that true?&rdquo; It&rsquo;s a fascinating interaction. Like pair coding with a teammate that seems confident but you don&rsquo;t 100% trust yet.</p>\n",
+				"content_text": "I'm writing a technical note with GitHub Copilot enabled for the first time and it'll suggest a fact about something and I'm like \"wait, is that true?\" It's a fascinating interaction. Like pair coding with a teammate that seems confident but you don't 100% trust yet.\n",
+				"date_published": "2023-03-28T14:57:20-05:00",
+				"url": "https://www.jonathansick.blog/2023/03/28/im-writing-a.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/03/05/thank-goodness-for.html",
+				
+				"content_html": "<p>Thank goodness for Fernando Alonso who might just distract the Formula 1 2023 season from the monotony of another Verstappen / Red Bull sweep.</p>\n",
+				"content_text": "Thank goodness for Fernando Alonso who might just distract the Formula 1 2023 season from the monotony of another Verstappen / Red Bull sweep.\n",
+				"date_published": "2023-03-05T11:45:11-05:00",
+				"url": "https://www.jonathansick.blog/2023/03/05/thank-goodness-for.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/03/01/github-is-killing.html",
+				
+				"content_html": "<p>GitHub is killing it with the new new code view and search. The confluence of GitHub and VS Code is amazing. Colour me surprised, but Microsoft buying GitHub was such a good thing.</p>\n<p><a href=\"https://docs.github.com/en/repositories/working-with-files/managing-files/navigating-files-with-the-new-code-view\">https://docs.github.com/en/repositories/working-with-files/managing-files/navigating-files-with-the-new-code-view</a></p>\n",
+				"content_text": "GitHub is killing it with the new new code view and search. The confluence of GitHub and VS Code is amazing. Colour me surprised, but Microsoft buying GitHub was such a good thing.\n\n[https://docs.github.com/en/repositories/working-with-files/managing-files/navigating-files-with-the-new-code-view](https://docs.github.com/en/repositories/working-with-files/managing-files/navigating-files-with-the-new-code-view)\n\n",
+				"date_published": "2023-03-01T10:32:18-05:00",
+				"url": "https://www.jonathansick.blog/2023/03/01/github-is-killing.html",
+				"tags": ["Developer"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/01/23/i-finally-used.html",
+				
+				"content_html": "<p>I <em>finally</em> used Python’s Walrus := operator to clean up a hacky situation. Maybe I could be more proactively finding uses, but it was fun to have an obvious one appear finally!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I _finally_ used Python’s Walrus := operator to clean up a hacky situation. Maybe I could be more proactively finding uses, but it was fun to have an obvious one appear finally!\n\n<img src=\"uploads/2023/9a09cb9edf.png\" width=\"600\" height=\"185\" alt=\"\">\n",
+				"date_published": "2023-01-23T17:59:48-05:00",
+				"url": "https://www.jonathansick.blog/2023/01/23/i-finally-used.html",
+				"tags": ["Developer"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/01/06/last-eggnog-of.html",
+				
+				"content_html": "<p>Last eggnog of the season 😢</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Last eggnog of the season 😢\n\n<img src=\"uploads/2023/8444ffabac.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"date_published": "2023-01-06T21:17:43-05:00",
+				"url": "https://www.jonathansick.blog/2023/01/06/last-eggnog-of.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/01/06/finished-reading-crucible.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780345522870\">Crucible of Gold</a> by Naomi Novik 📚It’s kind of an old-school adventure novel. But with dragons that have the temperament of cats.</p>\n",
+				"content_text": "Finished reading: [Crucible of Gold](https://micro.blog/books/9780345522870) by Naomi Novik 📚It’s kind of an old-school adventure novel. But with dragons that have the temperament of cats.\n",
+				"date_published": "2023-01-06T20:53:04-05:00",
+				"url": "https://www.jonathansick.blog/2023/01/06/finished-reading-crucible.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2023/01/06/we-finished-watching.html",
+				
+				"content_html": "<p>We finished watching Orphan Black 📺 last week and I just gotta proclaim: wow. Tatiana Maslany played <em>14</em> different characters, sometimes in the same scene (!), and I never felt out of it. Even the way she acted as one character acting as an another character — chef’s kiss.</p>\n",
+				"content_text": "We finished watching Orphan Black 📺 last week and I just gotta proclaim: wow. Tatiana Maslany played *14* different characters, sometimes in the same scene (!), and I never felt out of it. Even the way she acted as one character acting as an another character — chef’s kiss.\n",
+				"date_published": "2023-01-06T20:44:42-05:00",
+				"url": "https://www.jonathansick.blog/2023/01/06/we-finished-watching.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/12/20/apparently-storm-chips.html",
+				
+				"content_html": "<p>Apparently storm chips are a Newfie thing but they work great for Ontario snow storms too.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Apparently storm chips are a Newfie thing but they work great for Ontario snow storms too.\n\n<img src=\"uploads/2022/5c625c1b65.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-20T18:13:59-05:00",
+				"url": "https://www.jonathansick.blog/2022/12/20/apparently-storm-chips.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/12/20/heres-a-maple.html",
+				
+				"content_html": "<p>Here&rsquo;s a maple plywood feature wall I made for my workshop. 🪚 This will be the future home of my tool chest, some shelves for things like saws and (on the nerdier side) a network cabinet. I shiplapped the panels together by cutting rabbets with my router. As a fun highlight, I painted the rabbets green. To get the reveal between the panels just right, I used 5 mm plastic shims. This was also an opportunity to update the plugs and switches from the grimy &rsquo;70s hardware we had before.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Here's a maple plywood feature wall I made for my workshop. 🪚 This will be the future home of my tool chest, some shelves for things like saws and (on the nerdier side) a network cabinet. I shiplapped the panels together by cutting rabbets with my router. As a fun highlight, I painted the rabbets green. To get the reveal between the panels just right, I used 5 mm plastic shims. This was also an opportunity to update the plugs and switches from the grimy '70s hardware we had before.\n\n<img src=\"uploads/2022/59b9894b62.jpg\" width=\"599\" height=\"600\" alt=\"\"><img src=\"uploads/2022/c094889b6e.jpg\" width=\"599\" height=\"600\" alt=\"\"><img src=\"uploads/2022/65646fe774.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-20T12:11:50-05:00",
+				"url": "https://www.jonathansick.blog/2022/12/20/heres-a-maple.html",
+				"tags": ["Woodworking"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/12/15/124834.html",
+				
+				"content_html": "<p>I created a widget with Up Ahead for the latest Rubin Observatory milestones. It’s happening folks!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I created a widget with Up Ahead for the latest Rubin Observatory milestones. It’s happening folks!\n\n<img src=\"uploads/2022/898e6ecbbd.png\" width=\"600\" height=\"299\" alt=\"\">\n",
+				"date_published": "2022-12-15T12:48:34-05:00",
+				"url": "https://www.jonathansick.blog/2022/12/15/124834.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/12/13/i-just-got.html",
+				
+				"content_html": "<p>I just got into the beta for Reader by the <a href=\"https://readwise.io\">Readwise</a> folks and just a few minutes in I&rsquo;m already astounded. It&rsquo;s your read-later, but also your web research notebook, and your RSS feed and newsletter inbox. I also hear they&rsquo;re thinking about a YouTube &ldquo;highlighting&rdquo; feature. 😍</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I just got into the beta for Reader by the [Readwise](https://readwise.io) folks and just a few minutes in I'm already astounded. It's your read-later, but also your web research notebook, and your RSS feed and newsletter inbox. I also hear they're thinking about a YouTube \"highlighting\" feature. 😍\n\n<img src=\"uploads/2022/dc3d1722ad.jpg\" width=\"600\" height=\"391\" alt=\"\">\n",
+				"date_published": "2022-12-13T21:27:21-05:00",
+				"url": "https://www.jonathansick.blog/2022/12/13/i-just-got.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/12/08/the-timeline-isntsettled.html",
+				
+				"content_html": "<blockquote>\n<p>The timeline isn’t settled. The @-mention isn’t settled. Nothing is settled. It’s 2003 again!</p>\n</blockquote>\n<p><a href=\"https://www.robinsloan.com/lab/new-avenues/\" title=\"A Year of New Avenues\">Robin Sloan&rsquo;s <em>A Year of New Avenues</em></a> speaks to the renewed excitement I have about the web, and working on the web.</p>\n",
+				"content_text": "> The timeline isn’t settled. The @-mention isn’t settled. Nothing is settled. It’s 2003 again!\n\n[Robin Sloan's *A Year of New Avenues*](https://www.robinsloan.com/lab/new-avenues/ \"A Year of New Avenues\") speaks to the renewed excitement I have about the web, and working on the web.\n\n",
+				"date_published": "2022-12-08T17:00:00-05:00",
+				"url": "https://www.jonathansick.blog/2022/12/08/the-timeline-isntsettled.html",
+				"tags": ["Computing"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/12/08/inspired-by-rosemaryorchard.html",
+				
+				"content_html": "<p>Inspired by <a href=\"https://micro.blog/rosemaryorchard\">@rosemaryorchard</a> and <a href=\"https://micro.blog/heyscottyj\">@heyscottyj</a> on <a href=\"https://nestedfolderspodcast.com/podcast/episode-90-rainy-days-and-mondays/\">Unnested Folders #90</a>, I figured out how to create a “Personal Automation” in the Shortcuts app that starts playing Apple’s Indie Christmas playlist once I tap my alarm off. Delightful for the winter blahs!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Inspired by [@rosemaryorchard](https://micro.blog/rosemaryorchard) and [@heyscottyj](https://micro.blog/heyscottyj) on [Unnested Folders #90](https://nestedfolderspodcast.com/podcast/episode-90-rainy-days-and-mondays/), I figured out how to create a “Personal Automation” in the Shortcuts app that starts playing Apple’s Indie Christmas playlist once I tap my alarm off. Delightful for the winter blahs!\n\n<img src=\"uploads/2022/caa4116eb9.png\" width=\"398\" height=\"600\" alt=\"Screenshot of the shortcuts app showing an automation triggered by waking up that starts a music action.\"><img src=\"uploads/2022/039c061c7f.png\" width=\"600\" height=\"286\" alt=\"screenshot of the details of the music action: play infie christmas playlist on shuffle.\">\n",
+				"date_published": "2022-12-08T09:06:35-05:00",
+				"url": "https://www.jonathansick.blog/2022/12/08/inspired-by-rosemaryorchard.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/12/07/im-kind-of.html",
+				
+				"content_html": "<p>I’m kind of surprised about Amazon Prime’s redesign with black on blue. I’m <em>sure</em> they ran a contrast checker but I feel a white on blue is the friendlier and clearer choice. Even iOS’s notifications automatically choose white text for the brand of blue!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’m kind of surprised about Amazon Prime’s redesign with black on blue. I’m *sure* they ran a contrast checker but I feel a white on blue is the friendlier and clearer choice. Even iOS’s notifications automatically choose white text for the brand of blue!\n\n<img src=\"uploads/2022/eab055ff96.png\" width=\"600\" height=\"559\" alt=\"\">\n",
+				"date_published": "2022-12-07T17:42:44-05:00",
+				"url": "https://www.jonathansick.blog/2022/12/07/im-kind-of.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/12/05/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593158364\">The Golden Enclaves: A Novel (The Scholomance Book 3)</a> by Naomi Novik 📚 We really enjoyed the series, and I loved how the third book veered into an allegory for human suffering inflicted by the greed and environmental destruction of an elite class.</p>\n",
+				"content_text": "Finished reading: [The Golden Enclaves: A Novel (The Scholomance Book 3)](https://micro.blog/books/9780593158364) by Naomi Novik 📚 We really enjoyed the series, and I loved how the third book veered into an allegory for human suffering inflicted by the greed and environmental destruction of an elite class.\n\n",
+				"date_published": "2022-12-05T22:02:14-05:00",
+				"url": "https://www.jonathansick.blog/2022/12/05/finished-reading-the.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/12/01/via-mac-power.html",
+				
+				"content_html": "<p>Via <a href=\"https://www.relay.fm/mpu/668\">Mac Power Users #668</a> I found out you can follow YouTube channels in most RSS services. I’ve always wanted a distraction-free way to follow channels and sort them into categories and I think this is it.</p>\n",
+				"content_text": "Via [Mac Power Users #668](https://www.relay.fm/mpu/668) I found out you can follow YouTube channels in most RSS services. I’ve always wanted a distraction-free way to follow channels and sort them into categories and I think this is it.\n",
+				"date_published": "2022-12-01T22:19:18-05:00",
+				"url": "https://www.jonathansick.blog/2022/12/01/via-mac-power.html",
+				"tags": ["Computing"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/12/01/november-in-review.html",
+				"title": "November 2022 in review",
+				"content_html": "<p>I missed the review for October, but I&rsquo;m getting back on track. I&rsquo;m finding these reviews, even if I&rsquo;m the only person who interacts with them, are a useful for gauging progress. <a href=\"https://www.jonathansick.blog/categories/reviews/\" title=\"Reviews category\">You can find my past monthly reviews here on the micro blog.</a></p>\n<h2 id=\"doing-the-work\">Doing the work</h2>\n<h3 id=\"documentation-engineering-for-phalanx\">Documentation engineering for Phalanx</h3>\n<p>My highlight for October at <a href=\"https://www.lsst.org\">Rubin Observatory</a> was overhauling the <a href=\"https://phalanx.lsst.io\">documentation for Phalanx</a>. Phalanx is how we deploy the Rubin Science Platform across different environments, whether it&rsquo;s in Google Cloud or at institutional data facilities. The first phase of that work was to re-organize (and in many cases, edit and augment) the content into core categories (Overview, Application Developers, and Environment Administrators). I think the <a href=\"https://documenteer.lsst.io/guides/index.html\">new theme</a> is really working well for this purpose, with the top-level sections clearly defining different domains in the documentation.</p>\n<p>On top of that narrative documentation, I built out two reference categories for applications and environments. These pages are intended to provide quick access to information about apps and environments. You can get a link to an application in an environment&rsquo;s Argo CD, or see what environments an application runs in, or see what groups are configured with different authorization scopes, and so on. All of this information is already embedded within the Phalanx repository (an Argo CD GitOps repo, <a href=\"https://github.com/lsst-sqre/phalanx\">lsst-sqre/phalanx</a>), so I engineered the Sphinx documentation build to pull the necessary information automatically. Essentially, in the Sphinx <code>conf.py</code> file I fire off a Python service that crawls the Phalanx repository&rsquo;s Helm charts to collect datasets for each app and service. These get loaded in Jinja templating environments for <a href=\"https://pypi.org/project/sphinx-jinja/\">sphinx-jinja</a>, which I use to render out templated reStructuredText content, such as tables, just in time for the Sphinx documentation build. These are the things I really love about docs-like-code and a system like Sphinx — there are lots of entry points for creating very custom documentation tooling that enable us to document things accurately and efficiently.</p>\n<h3 id=\"technote\">Technote</h3>\n<p>In November, I started working on a brand-new project called <em>Technote</em>. It&rsquo;s on GitHub at <a href=\"https://github.com/lsst-sqre/technote\">lsst-sqre/technote</a>. At Rubin, we&rsquo;ve been using technical notes or &ldquo;technotes&rdquo; since 2015 when we introduced them. You can read in <a href=\"https://sqr-000.lsst.io\">SQR-000</a> why we created the technote format, and how we use it. The gist is that technotes are a lightweight documentation format for communicating within and across teams that is built on GitHub as the core platform for collaboration, and static web servers as the presentation platform (in our case, <a href=\"https://sqr-006.lsst.io\"><em>LSST the Docs</em></a>, but you could use GitHub Pages or Read the Docs effectively too).</p>\n<p>Initially, we created technotes just for ourselves in SQuaRE, but over time the format was organically adopted by more and more teams throughout the observatory. There are several hundred technotes already at Rubin (you can find them at <a href=\"https://www.lsst.io\">www.lsst.io</a>). Although the format took off, the Rubin technote platform stayed on the original Sphinx prototype theme I created in 2015 — a hacked version of the Read the Docs theme. And yes, you can now write technotes in LaTeX, but HTML-native technotes are still at the heart of the platform.</p>\n<p>This month, at last, I carved out work time to start properly engineering the technote document format. At its core, the <a href=\"https://github.com/lsst-sqre/technote\">Technote</a> package provides a Sphinx theme that&rsquo;s geared towards single page articles (i.e., technotes) that have a title, document identifier, abstract, and other metadata like author lists and versioning information. <a href=\"https://github.com/lsst-sqre/technote\">Technote</a> is a base layer, so organizations like Rubin and others can customize the branding and design of their documents. The long-term goal is to enable team members to write technotes in reStructuredText, Markdown, or Jupyter Notebooks, and render technotes in HTML, EPUB, and PDF (for archives). It&rsquo;s early days, but I think there&rsquo;s considerable potential in enabling teams to write documents on GitHub that are shared on the web.</p>\n<h2 id=\"pursuits\">Pursuits</h2>\n<p>It doesn&rsquo;t feel like I&rsquo;ve been making a lot of progress down in the woodshop, but my current goal is to organize the shop space into something that&rsquo;s functional for both woodworking / making and also home storage.</p>\n<p>Currently, I&rsquo;m panelling a small section of wall under the stairs in maple plywood. I&rsquo;ve ship lapped the panels and painted the rabbets with a splash of mint green. That wall will become the future home for my tool chest and a network cabinet.</p>\n<h2 id=\"reading\">Reading</h2>\n<p>Amanda and I have been reading <em>The Golden Enclaves</em>, the third book in Naomi Novak&rsquo;s Scholomance series. They&rsquo;ve made it out of the Scholomance — now they&rsquo;re facing the &ldquo;real&rdquo; world of wizards.</p>\n<p>I&rsquo;ve also been on a personal knowledge management kick, trying to figure out how to build a system for gathering information and making it accessible to me. I read Tiago Forte&rsquo;s <em>Building a Second Brain</em>, which I think is a system that has a lot of good ideas. I&rsquo;ve also been re-reading <em>How to take smart notes</em> by Sonke Ahrens, who teaches the <a href=\"https://en.wikipedia.org/wiki/Zettelkasten\">Zettlekasten</a> system of literature notes and atomic permanent notes — and leaves project management aside. In some ways Ahrens&rsquo; approach is more appealing because I can see it scaling more easily than Forte&rsquo;s approach of literally moving notes from one bucket to another. I&rsquo;m working out how all of these ideas can become a personal knowledge management system for myself, centred around DEVONthink.</p>\n<h2 id=\"heavy-rotation\">Heavy rotation</h2>\n<p>Carly Rae Jepson and Taylor Swift both released albums on the same day, so apologies to other artists but these are all I&rsquo;ve been listening to lately.</p>\n<p>I&rsquo;m in love with CRJ&rsquo;s <em>The Loneliest Time</em>, and the title track with Rufus Wainright is my personal hit for the year. I also especially love <em>Surrender My Heart</em>, <em>So Nice</em>, and <em>Shooting Star</em>. Actually, every song is a banger. Full stop.</p>\n<h2 id=\"on-screen\">On screen</h2>\n<p>Season 6 of the <em>Great Canadian Baking Show</em> was a fantastic display of diversity. Don&rsquo;t pay any attention to the dribble that the <em>Walrus</em> publishes about it.</p>\n<p><em>Sort of</em> season 2 on CBC Gem started and it&rsquo;s a brilliant masterpiece.</p>\n<p>We&rsquo;ve also started watching <em>Orphan Black</em>, which I missed out on when it originally aired. Tatiana Maslany&rsquo;s acting is astonishing.</p>\n",
+				"content_text": "I missed the review for October, but I'm getting back on track. I'm finding these reviews, even if I'm the only person who interacts with them, are a useful for gauging progress. [You can find my past monthly reviews here on the micro blog.](https://www.jonathansick.blog/categories/reviews/ \"Reviews category\")\n\n## Doing the work\n### Documentation engineering for Phalanx\nMy highlight for October at [Rubin Observatory](https://www.lsst.org) was overhauling the [documentation for Phalanx](https://phalanx.lsst.io). Phalanx is how we deploy the Rubin Science Platform across different environments, whether it's in Google Cloud or at institutional data facilities. The first phase of that work was to re-organize (and in many cases, edit and augment) the content into core categories (Overview, Application Developers, and Environment Administrators). I think the [new theme](https://documenteer.lsst.io/guides/index.html) is really working well for this purpose, with the top-level sections clearly defining different domains in the documentation.\n\nOn top of that narrative documentation, I built out two reference categories for applications and environments. These pages are intended to provide quick access to information about apps and environments. You can get a link to an application in an environment's Argo CD, or see what environments an application runs in, or see what groups are configured with different authorization scopes, and so on. All of this information is already embedded within the Phalanx repository (an Argo CD GitOps repo, [lsst-sqre/phalanx](https://github.com/lsst-sqre/phalanx)), so I engineered the Sphinx documentation build to pull the necessary information automatically. Essentially, in the Sphinx `conf.py` file I fire off a Python service that crawls the Phalanx repository's Helm charts to collect datasets for each app and service. These get loaded in Jinja templating environments for [sphinx-jinja](https://pypi.org/project/sphinx-jinja/), which I use to render out templated reStructuredText content, such as tables, just in time for the Sphinx documentation build. These are the things I really love about docs-like-code and a system like Sphinx — there are lots of entry points for creating very custom documentation tooling that enable us to document things accurately and efficiently.\n\n### Technote\nIn November, I started working on a brand-new project called *Technote*. It's on GitHub at [lsst-sqre/technote](https://github.com/lsst-sqre/technote). At Rubin, we've been using technical notes or \"technotes\" since 2015 when we introduced them. You can read in [SQR-000](https://sqr-000.lsst.io) why we created the technote format, and how we use it. The gist is that technotes are a lightweight documentation format for communicating within and across teams that is built on GitHub as the core platform for collaboration, and static web servers as the presentation platform (in our case, [*LSST the Docs*](https://sqr-006.lsst.io), but you could use GitHub Pages or Read the Docs effectively too).\n\nInitially, we created technotes just for ourselves in SQuaRE, but over time the format was organically adopted by more and more teams throughout the observatory. There are several hundred technotes already at Rubin (you can find them at [www.lsst.io](https://www.lsst.io)). Although the format took off, the Rubin technote platform stayed on the original Sphinx prototype theme I created in 2015 — a hacked version of the Read the Docs theme. And yes, you can now write technotes in LaTeX, but HTML-native technotes are still at the heart of the platform.\n\nThis month, at last, I carved out work time to start properly engineering the technote document format. At its core, the [Technote](https://github.com/lsst-sqre/technote) package provides a Sphinx theme that's geared towards single page articles (i.e., technotes) that have a title, document identifier, abstract, and other metadata like author lists and versioning information. [Technote](https://github.com/lsst-sqre/technote) is a base layer, so organizations like Rubin and others can customize the branding and design of their documents. The long-term goal is to enable team members to write technotes in reStructuredText, Markdown, or Jupyter Notebooks, and render technotes in HTML, EPUB, and PDF (for archives). It's early days, but I think there's considerable potential in enabling teams to write documents on GitHub that are shared on the web.\n\n## Pursuits\nIt doesn't feel like I've been making a lot of progress down in the woodshop, but my current goal is to organize the shop space into something that's functional for both woodworking / making and also home storage.\n\nCurrently, I'm panelling a small section of wall under the stairs in maple plywood. I've ship lapped the panels and painted the rabbets with a splash of mint green. That wall will become the future home for my tool chest and a network cabinet. \n\n## Reading\nAmanda and I have been reading *The Golden Enclaves*, the third book in Naomi Novak's Scholomance series. They've made it out of the Scholomance — now they're facing the \"real\" world of wizards.\n\nI've also been on a personal knowledge management kick, trying to figure out how to build a system for gathering information and making it accessible to me. I read Tiago Forte's *Building a Second Brain*, which I think is a system that has a lot of good ideas. I've also been re-reading *How to take smart notes* by Sonke Ahrens, who teaches the [Zettlekasten](https://en.wikipedia.org/wiki/Zettelkasten) system of literature notes and atomic permanent notes — and leaves project management aside. In some ways Ahrens' approach is more appealing because I can see it scaling more easily than Forte's approach of literally moving notes from one bucket to another. I'm working out how all of these ideas can become a personal knowledge management system for myself, centred around DEVONthink.\n\n## Heavy rotation\nCarly Rae Jepson and Taylor Swift both released albums on the same day, so apologies to other artists but these are all I've been listening to lately.\n\nI'm in love with CRJ's *The Loneliest Time*, and the title track with Rufus Wainright is my personal hit for the year. I also especially love *Surrender My Heart*, *So Nice*, and *Shooting Star*. Actually, every song is a banger. Full stop.\n\n## On screen\nSeason 6 of the *Great Canadian Baking Show* was a fantastic display of diversity. Don't pay any attention to the dribble that the *Walrus* publishes about it.\n\n*Sort of* season 2 on CBC Gem started and it's a brilliant masterpiece.\n\nWe've also started watching *Orphan Black*, which I missed out on when it originally aired. Tatiana Maslany's acting is astonishing.\n\n",
+				"date_published": "2022-12-01T12:00:00-05:00",
+				"url": "https://www.jonathansick.blog/2022/12/01/november-in-review.html",
+				"tags": ["Reviews"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/11/30/so-why-do.html",
+				
+				"content_html": "<p>So why do my colleagues often pray whenever I answer their question on Slack? 🙏</p>\n",
+				"content_text": "So why do my colleagues often pray whenever I answer their question on Slack? 🙏\n",
+				"date_published": "2022-11-30T18:30:32-05:00",
+				"url": "https://www.jonathansick.blog/2022/11/30/so-why-do.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/11/27/people-who-write.html",
+				
+				"content_html": "<blockquote>\n<p>People who write extensively about note-writing rarely have a serious context of use</p>\n</blockquote>\n<p>— <a href=\"https://notes.andymatuschak.org/zUMFE66dxeweppDvgbNAb5hukXzXQu8ErVNv\">Andy Matuschak</a> via <a href=\"https://maggieappleton.com/basb\">Maggie Appleton</a>. 💬</p>\n<p>i.e. what works for productivity writers probably needs to be re-engineered for a software developer or woodworker.</p>\n",
+				"content_text": "> People who write extensively about note-writing rarely have a serious context of use\n\n— [Andy Matuschak](https://notes.andymatuschak.org/zUMFE66dxeweppDvgbNAb5hukXzXQu8ErVNv) via [Maggie Appleton](https://maggieappleton.com/basb). 💬\n\ni.e. what works for productivity writers probably needs to be re-engineered for a software developer or woodworker.\n",
+				"date_published": "2022-11-27T08:32:47-05:00",
+				"url": "https://www.jonathansick.blog/2022/11/27/people-who-write.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/11/26/on-the-pkm.html",
+				
+				"content_html": "<p>On the PKM beat, it seems like Apple Books in iOS 16 doesn’t permit exporting a book’s notes and highlights anymore (you can only share one highlight/note at a time). And on top of that, the delightful page turn effect is gone. Time to go to Kindle? 🤷‍♂️</p>\n",
+				"content_text": "On the PKM beat, it seems like Apple Books in iOS 16 doesn’t permit exporting a book’s notes and highlights anymore (you can only share one highlight/note at a time). And on top of that, the delightful page turn effect is gone. Time to go to Kindle? 🤷‍♂️\n",
+				"date_published": "2022-11-26T20:10:40-05:00",
+				"url": "https://www.jonathansick.blog/2022/11/26/on-the-pkm.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/11/25/this-new-interactive.html",
+				
+				"content_html": "<p>This new <a href=\"https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/\">Interactive guide to flexbox</a> by Josh Comeau is so good. Hopefully it&rsquo;ll click in my head now&hellip; I&rsquo;ve been using flexbox for <em>years</em> and I still look up CSS Tricks&rsquo; <a href=\"https://css-tricks.com/snippets/css/a-guide-to-flexbox/\">guide</a> every time.</p>\n",
+				"content_text": "This new [Interactive guide to flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) by Josh Comeau is so good. Hopefully it'll click in my head now... I've been using flexbox for *years* and I still look up CSS Tricks' [guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) every time.\n",
+				"date_published": "2022-11-25T16:49:30-05:00",
+				"url": "https://www.jonathansick.blog/2022/11/25/this-new-interactive.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/11/24/currently-reading-building.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781982167400\">Building a Second Brain</a> by Tiago Forte 📚 I’ve slowly been adopting DEVONthink for project notes and reference material for work, home, and even woodworking. I’m hoping to refine my system with Tiago’s book.</p>\n",
+				"content_text": "Currently reading: [Building a Second Brain](https://micro.blog/books/9781982167400) by Tiago Forte 📚 I’ve slowly been adopting DEVONthink for project notes and reference material for work, home, and even woodworking. I’m hoping to refine my system with Tiago’s book.\n",
+				"date_published": "2022-11-24T18:51:33-05:00",
+				"url": "https://www.jonathansick.blog/2022/11/24/currently-reading-building.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/11/09/its-really-cool.html",
+				
+				"content_html": "<p>It&rsquo;s really cool to see how GitHub Codespaces and science platforms like Rubin&rsquo;s are all working towards the same goals of reducing set up time and eliminating computing resource bottlenecks by providing cloud-based containerized environments.</p>\n",
+				"content_text": "It's really cool to see how GitHub Codespaces and science platforms like Rubin's are all working towards the same goals of reducing set up time and eliminating computing resource bottlenecks by providing cloud-based containerized environments.\n",
+				"date_published": "2022-11-09T14:44:40-05:00",
+				"url": "https://www.jonathansick.blog/2022/11/09/its-really-cool.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/11/07/one-of-the.html",
+				
+				"content_html": "<p>One of the surprising things I&rsquo;ve learned after moving back to Canada is brokerage fees when buying things online from the US. The brokerage fees that UPS changes are about 220% of the taxes.</p>\n",
+				"content_text": "One of the surprising things I've learned after moving back to Canada is brokerage fees when buying things online from the US. The brokerage fees that UPS changes are about 220% of the taxes.\n",
+				"date_published": "2022-11-07T15:23:43-05:00",
+				"url": "https://www.jonathansick.blog/2022/11/07/one-of-the.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/11/04/another-newish-gem.html",
+				
+				"content_html": "<p>Another new-ish gem in the Sphinx ecosystem, <a href=\"https://github.com/mgaitan/sphinxcontrib-mermaid\">sphinxcontrib-mermaid</a> makes it easy to drop Mermaid diagrams-as-code into docs, even Python docstrings.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Another new-ish gem in the Sphinx ecosystem, [sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid) makes it easy to drop Mermaid diagrams-as-code into docs, even Python docstrings.\n\n<img src=\"uploads/2022/d217a7fc91.jpg\" width=\"600\" height=\"268\" alt=\"\">\n",
+				"date_published": "2022-11-04T11:58:02-05:00",
+				"url": "https://www.jonathansick.blog/2022/11/04/another-newish-gem.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/11/04/the-sphinx-documentation.html",
+				
+				"content_html": "<p>The Sphinx documentation ecosystem is getting better and better. Latest example: <a href=\"https://autodoc-pydantic.readthedocs.io/en/stable/\">autodoc_pydantic</a> drops in for documenting Pydantic schemas. 🥳</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The Sphinx documentation ecosystem is getting better and better. Latest example: [autodoc_pydantic](https://autodoc-pydantic.readthedocs.io/en/stable/) drops in for documenting Pydantic schemas. 🥳\n\n\n\n<img src=\"uploads/2022/b86778fde2.jpg\" width=\"600\" height=\"516\" alt=\"\">\n",
+				"date_published": "2022-11-04T11:44:44-05:00",
+				"url": "https://www.jonathansick.blog/2022/11/04/the-sphinx-documentation.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/10/27/can-i-admit.html",
+				
+				"content_html": "<p>Can I admit something? I haven’t yet given Taylor Swift <em>Midnights</em> a proper spin yet. The whole week has been Carly Rae Jepsen <em>The Loneliest Time</em> on repeat. What a gem.</p>\n",
+				"content_text": "Can I admit something? I haven’t yet given Taylor Swift *Midnights* a proper spin yet. The whole week has been Carly Rae Jepsen *The Loneliest Time* on repeat. What a gem.\n",
+				"date_published": "2022-10-27T20:18:06-05:00",
+				"url": "https://www.jonathansick.blog/2022/10/27/can-i-admit.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/10/05/september-in-review.html",
+				"title": "September 2022 in review",
+				"content_html": "<h2 id=\"doing-the-work\">Doing the work</h2>\n<p>September was all about shipping the new system for <a href=\"https://www.lsst.org\">Rubin Observatory</a> user guides in <a href=\"https://documenteer.lsst.io\">Documenteer</a>. When I first started working on documentation for Rubin back in 2015, I always struggled with getting <a href=\"https://www.sphinx-doc.org/en/master/\">Sphinx</a> documentation themes to do exactly what we wanted. For years I told my colleagues we&rsquo;d fix all the issues — from typography to navigation to branding and more&hellip; eventually. Now I think we&rsquo;ve finally got to a point where we are shipping polished documentation sites we can really be proud of. And the best part is I didn&rsquo;t have to do the ground-up production of a custom Sphinx theme. Instead, we used the new and awesome <a href=\"https://pydata-sphinx-theme.readthedocs.io/en/stable/\">PyData Sphinx Theme</a> as an open source foundation. I really appreciate how the PyData folks have thought through the customization and branding use cases. For example, CSS custom properties make it a snap to apply Rubin&rsquo;s brand colours in both light and dark themes. In the past this would have been a fraught task that yielded rather fragile CSS overrides.</p>\n<p>What I spend most of the month though was <em>productizing</em> the user guide theme and configuration for the Rubin organization. Sphinx documentation projects use a Python module, called <code>conf.py</code> for configuration. To help Rubin projects use the same core configuration (and therefore benefit from consistent features and branding), we provide a configuration module in Documenteer that each project can import into its <code>conf.py</code> file:</p>\n<pre><code>from documenteer.conf.guide import *\n</code></pre>\n<p>Each project still needs to customize its Sphinx configuration in many ways. The technically simple way to do this is to have each project extend the core configuration in its <code>conf.py</code> file. But in some cases this is tricky because you need to customize existing lists and dictionary provided by the core configuration. It&rsquo;s just awkward and error prone.</p>\n<p>What we&rsquo;ve done instead is introduced a file, called <code>documenteer.toml</code>, where a user can configure their project. The <code>documenteer.conf.guide</code> configuration merges this information with the Sphinx <code>conf.py</code> file for you. This lets us also do smart and semi-automated configuration. For instance, if a project is a Python package, the configuration can automatically pull out the project&rsquo;s name, version, and repository URL.</p>\n<pre><code>[project]\ntitle = &quot;Documenteer&quot;\ncopyright = &quot;2015-2022 Association of Universities for Research in Astronomy, Inc. (AURA)&quot;\n\n[project.python]\npackage = &quot;documenteer&quot;\n</code></pre>\n<p>Overall, the <code>documenteer.toml</code> file means we can document and support a well defined set of configuration that each Rubin documentation project can manipulate.</p>\n<p>Within Rubin Observatory, this is the sort or work that I find both satisfying and also really powerful from an organizational perspective. We&rsquo;re able to take together elements of the open source ecosystem, edit and mix them together, and then provide and document a simple interface that other members and teams in the observatory can use in their own work. Rather than personally running all the documentation sites for the entire observatory, I can help the entire observatory create their own documentation. That&rsquo;s how a small team like ours can have an outsized influence on an organization.</p>\n<h2 id=\"pursuits\">Pursuits</h2>\n<p>Amanda and I joined our friend couple on a hike to McCrae Lake Conservation Reserve, a popular site just north of us that&rsquo;s the beginning of the Canadian shield country. The purpose of the trip was to take some wedding anniversary shots for our friends, and they turned out adorably cute. I also flew the drone and managed to capture a glimpse of a beaver near it&rsquo;s lodge. <a href=\"https://youtu.be/SmSpYLl2q8U\" title=\"The Beaver Pond at McCrae Lake\">I put the video up on YouTube.</a></p>\n<!-- raw HTML omitted -->\n<p>I&rsquo;m getting the hang of Lumafusion and even had some fun mixing some nature sounds and atmospheric sound tracks from the Audiio library. Video editing gets easier the more you do it, and I could see this being something I want to keep doing more.</p>\n<p>Down in the workshop I&rsquo;ve been slowly getting the sliding trays for the tool chest project. I got the tray slides in (made from white oak) and milled the pine stock for the trays themselves.</p>\n<h2 id=\"reading\">Reading</h2>\n<p>Finished reading <em>The Thursday Murder Club</em> by Richard Osman, <em>After Dark</em> by Haruki Murakami, and <em>Make Time</em> by Jake Knapp and John Zeratsky. <em>Make Time</em> is a quick book with loads of strategies to experiment with for getting better at focusing. Amanda and I started reading <em>Husband Material</em> by Alexis Hall together, which is the sequel to <em>Boyfriend Material.</em></p>\n<h2 id=\"heavy-rotation\">Heavy rotation</h2>\n<p>Amanda and I went to see Carly Rae Jepson play in Ontario Park in Toronto for her <em>So Good</em> tour. And it was <em>so good.</em> Every song of hers is a hit and she sounded amazing with her band. Bleachers opened for her and it was really cool to see Jack Antonoff for the first time.</p>\n<h2 id=\"on-screen\">On screen</h2>\n<p>We&rsquo;ve been watching <em>Only Murders in the Building</em>, a hilarious take on the true crime podcast phenomenon with Steve Martin, Martin Short, and Selena Gomez. Enough said!</p>\n",
+				"content_text": "## Doing the work\nSeptember was all about shipping the new system for [Rubin Observatory](https://www.lsst.org) user guides in [Documenteer](https://documenteer.lsst.io). When I first started working on documentation for Rubin back in 2015, I always struggled with getting [Sphinx](https://www.sphinx-doc.org/en/master/) documentation themes to do exactly what we wanted. For years I told my colleagues we'd fix all the issues — from typography to navigation to branding and more... eventually. Now I think we've finally got to a point where we are shipping polished documentation sites we can really be proud of. And the best part is I didn't have to do the ground-up production of a custom Sphinx theme. Instead, we used the new and awesome [PyData Sphinx Theme](https://pydata-sphinx-theme.readthedocs.io/en/stable/) as an open source foundation. I really appreciate how the PyData folks have thought through the customization and branding use cases. For example, CSS custom properties make it a snap to apply Rubin's brand colours in both light and dark themes. In the past this would have been a fraught task that yielded rather fragile CSS overrides.\n\nWhat I spend most of the month though was *productizing* the user guide theme and configuration for the Rubin organization. Sphinx documentation projects use a Python module, called `conf.py` for configuration. To help Rubin projects use the same core configuration (and therefore benefit from consistent features and branding), we provide a configuration module in Documenteer that each project can import into its `conf.py` file:\n\n\tfrom documenteer.conf.guide import *\n\nEach project still needs to customize its Sphinx configuration in many ways. The technically simple way to do this is to have each project extend the core configuration in its `conf.py` file. But in some cases this is tricky because you need to customize existing lists and dictionary provided by the core configuration. It's just awkward and error prone.\n\nWhat we've done instead is introduced a file, called `documenteer.toml`, where a user can configure their project. The `documenteer.conf.guide` configuration merges this information with the Sphinx `conf.py` file for you. This lets us also do smart and semi-automated configuration. For instance, if a project is a Python package, the configuration can automatically pull out the project's name, version, and repository URL.\n\n\t[project]\n\ttitle = \"Documenteer\"\n\tcopyright = \"2015-2022 Association of Universities for Research in Astronomy, Inc. (AURA)\"\n\t\n\t[project.python]\n\tpackage = \"documenteer\"\n\nOverall, the `documenteer.toml` file means we can document and support a well defined set of configuration that each Rubin documentation project can manipulate.\n\nWithin Rubin Observatory, this is the sort or work that I find both satisfying and also really powerful from an organizational perspective. We're able to take together elements of the open source ecosystem, edit and mix them together, and then provide and document a simple interface that other members and teams in the observatory can use in their own work. Rather than personally running all the documentation sites for the entire observatory, I can help the entire observatory create their own documentation. That's how a small team like ours can have an outsized influence on an organization.\n\n## Pursuits\nAmanda and I joined our friend couple on a hike to McCrae Lake Conservation Reserve, a popular site just north of us that's the beginning of the Canadian shield country. The purpose of the trip was to take some wedding anniversary shots for our friends, and they turned out adorably cute. I also flew the drone and managed to capture a glimpse of a beaver near it's lodge. [I put the video up on YouTube.](https://youtu.be/SmSpYLl2q8U \"The Beaver Pond at McCrae Lake\")\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/hFYrgfIc66Y\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nI'm getting the hang of Lumafusion and even had some fun mixing some nature sounds and atmospheric sound tracks from the Audiio library. Video editing gets easier the more you do it, and I could see this being something I want to keep doing more.\n\nDown in the workshop I've been slowly getting the sliding trays for the tool chest project. I got the tray slides in (made from white oak) and milled the pine stock for the trays themselves.\n\n## Reading\nFinished reading *The Thursday Murder Club* by Richard Osman, *After Dark* by Haruki Murakami, and *Make Time* by Jake Knapp and John Zeratsky. *Make Time* is a quick book with loads of strategies to experiment with for getting better at focusing. Amanda and I started reading *Husband Material* by Alexis Hall together, which is the sequel to *Boyfriend Material.*\n\n## Heavy rotation\nAmanda and I went to see Carly Rae Jepson play in Ontario Park in Toronto for her *So Good* tour. And it was *so good.* Every song of hers is a hit and she sounded amazing with her band. Bleachers opened for her and it was really cool to see Jack Antonoff for the first time.\n\n## On screen\nWe've been watching *Only Murders in the Building*, a hilarious take on the true crime podcast phenomenon with Steve Martin, Martin Short, and Selena Gomez. Enough said!\n\n",
+				"date_published": "2022-10-05T19:47:13-05:00",
+				"url": "https://www.jonathansick.blog/2022/10/05/september-in-review.html",
+				"tags": ["Reviews"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/09/30/embracing-the-last.html",
+				
+				"content_html": "<p>Embracing the last bits of summer up here.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Embracing the last bits of summer up here.\n\n<img src=\"uploads/2022/f0a6a69a15.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-09-30T15:02:14-05:00",
+				"url": "https://www.jonathansick.blog/2022/09/30/embracing-the-last.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/09/28/ive-been-working.html",
+				
+				"content_html": "<p>I’ve been working on my tool chest this week and installed these two tier tray runners in white oak.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I’ve been working on my tool chest this week and installed these two tier tray runners in white oak.\n\n<img src=\"uploads/2022/55197a7b21.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/4c11a02a10.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2022-09-28T20:47:07-05:00",
+				"url": "https://www.jonathansick.blog/2022/09/28/ive-been-working.html",
+				"tags": ["Woodworking"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/09/08/203547.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2022/87ff0fc52f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-09-08T19:35:47-05:00",
+				"url": "https://www.jonathansick.blog/2022/09/08/203547.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/09/02/in-retrospect-i.html",
+				
+				"content_html": "<p>In retrospect I should have paid more attention to knots when I was roughing out the feet for these saw horses 🙃 The Wood Owl bits didn’t care though, but paring the mortise with a chisel was a little tricky. 🪚</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "In retrospect I should have paid more attention to knots when I was roughing out the feet for these saw horses 🙃 The Wood Owl bits didn’t care though, but paring the mortise with a chisel was a little tricky. 🪚\n\n<img src=\"uploads/2022/ae89e2fe70.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-09-02T12:29:59-05:00",
+				"url": "https://www.jonathansick.blog/2022/09/02/in-retrospect-i.html",
+				"tags": ["Woodworking"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/09/01/ive-started-to.html",
+				
+				"content_html": "<p>I&rsquo;ve started to use the <a href=\"https://pydata-sphinx-theme.readthedocs.io/en/stable/\">pydata-sphinx-theme</a> for our next generation of <a href=\"https://www.lsst.org\">Rubin Observatory</a> documentation sites. Still needs more tweaks, but it&rsquo;s a great foundation 😍</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I've started to use the [pydata-sphinx-theme](https://pydata-sphinx-theme.readthedocs.io/en/stable/) for our next generation of [Rubin Observatory](https://www.lsst.org) documentation sites. Still needs more tweaks, but it's a great foundation 😍\n\n<img src=\"uploads/2022/a606aa9a4c.jpg\" width=\"600\" height=\"410\" alt=\"Screenshot of the Rubin Observatory Documenteer documentation website using the &quot;light&quot; version of the pydata-sphinx-theme.\" /><img src=\"uploads/2022/31fbdf28bd.jpg\" width=\"600\" height=\"415\" alt=\"\" />\n",
+				"date_published": "2022-09-01T10:21:49-05:00",
+				"url": "https://www.jonathansick.blog/2022/09/01/ive-started-to.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/09/01/august-in-review.html",
+				"title": "August 2022 in review",
+				"content_html": "<p>August is an odd month. It&rsquo;s both the height of summer while also feeling like the end of summer up here.</p>\n<h2 id=\"doing-the-work\">Doing the work</h2>\n<p>This month, I got back into the user interface for <a href=\"https://github.com/lsst-sqre/times-square\">Times Square</a> on the Rubin Science Platform (<a href=\"https://github.com/lsst-sqre/squareone\">Squareone</a>). Now when you pull request changes to a notebook repository, Times Square will not only verify that notebooks execute cleanly, but it will also give you a link to view the rendered notebooks (<a href=\"https://github.com/lsst-sqre/squareone/pull/84\" title=\"Add page for viewing PR-preview pages\">lsst-sqre/squareone#84</a>. I think this feature will make publishing notebooks to the Times Square platform easier for Rubin staff, and will promote a pull request-based workflow.</p>\n<p>On YouTube, I stumbled upon a video by Chantastic (of React podcast fame) about <a href=\"https://youtu.be/i5tvZ9f7gJw\">setting up Storybook with Next.js</a>. <a href=\"https://storybook.js.org\">Storybook</a> is an app for developing and documenting components (such as React components) in isolated contexts. I&rsquo;ve known of Storybook for a while in the context of learning about design systems (hat tip to <a href=\"https://atomicdesign.bradfrost.com\"><em>Atomic Design</em> by Brad Frost</a>), but I&rsquo;d always considered it to be something for big teams that had the resources to set up design documentation infrastructures for their web projects. Well, it turns out that not only is Storybook amazingly easy to drop into an existing React application, but it also solves some glaring problems in my web development workflow. React components can have behaviours that depend on state. Working with state while developing components can be, quite frankly, a pain. With Storybook, I can now inject state into &ldquo;stories&rdquo; about my components, and even adjust that state in real time to see how the component adapts. You can see this initial Storybook related work in <a href=\"https://github.com/lsst-sqre/squareone/pull/87\" title=\"Initial integration with Storybook\">lsst-sqre/squareone#87</a> and <a href=\"https://github.com/lsst-sqre/squareone/pull/93\" title=\"Develop Times Square UI with storybook\">lsst-sqre/squareone#93</a>.</p>\n<p>Towards the end of the month, I moved on to another Rubin web project: theming Rubin&rsquo;s Sphinx documentation sites. We&rsquo;re trying out <a href=\"https://pydata-sphinx-theme.readthedocs.io/en/stable/\">pydata-sphinx-theme</a>, which features a three column design (navigation — content — content headers) and a novel top navigation bar. Because that top navigation bar is populated from the root-level <code>toctree</code> elements of a Sphinx site, adopting <a href=\"https://pydata-sphinx-theme.readthedocs.io/en/stable/\">pydata-sphinx-theme</a> can take some content re-organization. I&rsquo;ve implemented the theme in <a href=\"https://documenteer.lsst.io\">Documenteer</a>, and I really like the result. My pull request to set up a Rubin configuration for Sphinx documentation is <a href=\"https://github.com/lsst-sqre/documenteer/pull/129\" title=\"Adopt pydata-sphinx-theme\">lsst-sqre/documenteer#129</a></p>\n<h2 id=\"pursuits\">Pursuits</h2>\n<p>Down in the wood shop (I can&rsquo;t decide whether I want to call it a <em>wood shop</em> or <em>workshop</em> or even a <em>studio</em>) I made solid progress on my tool chest, based on the boarded chest in the <a href=\"https://lostartpress.com/products/the-anarchists-design-book\"><em>Anarchist&rsquo;s Design Book</em></a> by Schwarz. I used my combination plane to make rabbets and nailed the chest walls together with fantastically-strong 2&quot; cut nails. Then I used the combination plane to make tongue-and-groove joints for the bottom boards and nailed each board on, again with the 2&quot; cut nails. I slightly mis-aligned one board while nailing it, and after failing to pull out the nails, realized that these cut nails have fantastic holding strength. I&rsquo;m not worried about the chest bottom falling out. Now I&rsquo;ve pivoted to making a set of low Krenovian saw horses to temporarily hold the chest at a workable height before I make a permanent stand (which could be months, years, or decades down the road).</p>\n<p>Amanda and I got out for a bit more kayaking, and I shot and edited together <a href=\"https://youtu.be/vSK9JYTC_Mc\">a short video of us paddling around</a>. It&rsquo;s kind of dorky, but it&rsquo;s also astonishing to think that we now have consumer-grade flying cameras that can follow people around perfectly.</p>\n<h2 id=\"reading\">Reading</h2>\n<p>Finished reading <em>Hard-Boiled Wonderland and the End of the World</em> by Haruki Murakami, <em>The Book of M</em> by Peng Shepard, and <em>Boyfriend Material</em> by Alexis Hall. Resumed the Gabriel Allon series with Amanda: we&rsquo;re on <em>The Rembrandt Affair</em> by Daniel Silva.</p>\n<h2 id=\"heavy-rotation\">Heavy rotation</h2>\n<p>The tracking on my U-Turn Orbit turntable went for a (literal) loop this month. Something about the anti-skip being a bit too strong, I think? But I really enjoyed listening to records of She &amp; Him&rsquo;s <em>Melt Away: A Tribute to Brian Wilson</em> and Lizzo&rsquo;s <em>Special.</em> I must have had Sylvan Esso&rsquo;s <em>No Rules Sandy</em> on repeat through most work days. And after watching Dua Lipa&rsquo;s episode on <em>Song Exploder,</em> I dug a bit into her <em>Future Nostalgia</em> album.</p>\n",
+				"content_text": "August is an odd month. It's both the height of summer while also feeling like the end of summer up here.\n\n## Doing the work\nThis month, I got back into the user interface for [Times Square](https://github.com/lsst-sqre/times-square) on the Rubin Science Platform ([Squareone](https://github.com/lsst-sqre/squareone)). Now when you pull request changes to a notebook repository, Times Square will not only verify that notebooks execute cleanly, but it will also give you a link to view the rendered notebooks ([lsst-sqre/squareone#84](https://github.com/lsst-sqre/squareone/pull/84 \"Add page for viewing PR-preview pages\"). I think this feature will make publishing notebooks to the Times Square platform easier for Rubin staff, and will promote a pull request-based workflow.\n\nOn YouTube, I stumbled upon a video by Chantastic (of React podcast fame) about [setting up Storybook with Next.js](https://youtu.be/i5tvZ9f7gJw). [Storybook](https://storybook.js.org) is an app for developing and documenting components (such as React components) in isolated contexts. I've known of Storybook for a while in the context of learning about design systems (hat tip to [*Atomic Design* by Brad Frost](https://atomicdesign.bradfrost.com)), but I'd always considered it to be something for big teams that had the resources to set up design documentation infrastructures for their web projects. Well, it turns out that not only is Storybook amazingly easy to drop into an existing React application, but it also solves some glaring problems in my web development workflow. React components can have behaviours that depend on state. Working with state while developing components can be, quite frankly, a pain. With Storybook, I can now inject state into \"stories\" about my components, and even adjust that state in real time to see how the component adapts. You can see this initial Storybook related work in [lsst-sqre/squareone#87](https://github.com/lsst-sqre/squareone/pull/87 \"Initial integration with Storybook\") and [lsst-sqre/squareone#93](https://github.com/lsst-sqre/squareone/pull/93 \"Develop Times Square UI with storybook\").\n\nTowards the end of the month, I moved on to another Rubin web project: theming Rubin's Sphinx documentation sites. We're trying out [pydata-sphinx-theme](https://pydata-sphinx-theme.readthedocs.io/en/stable/), which features a three column design (navigation — content — content headers) and a novel top navigation bar. Because that top navigation bar is populated from the root-level `toctree` elements of a Sphinx site, adopting [pydata-sphinx-theme](https://pydata-sphinx-theme.readthedocs.io/en/stable/) can take some content re-organization. I've implemented the theme in [Documenteer](https://documenteer.lsst.io), and I really like the result. My pull request to set up a Rubin configuration for Sphinx documentation is [lsst-sqre/documenteer#129](https://github.com/lsst-sqre/documenteer/pull/129 \"Adopt pydata-sphinx-theme\")\n\n## Pursuits\nDown in the wood shop (I can't decide whether I want to call it a *wood shop* or *workshop* or even a *studio*) I made solid progress on my tool chest, based on the boarded chest in the [*Anarchist's Design Book*](https://lostartpress.com/products/the-anarchists-design-book) by Schwarz. I used my combination plane to make rabbets and nailed the chest walls together with fantastically-strong 2\" cut nails. Then I used the combination plane to make tongue-and-groove joints for the bottom boards and nailed each board on, again with the 2\" cut nails. I slightly mis-aligned one board while nailing it, and after failing to pull out the nails, realized that these cut nails have fantastic holding strength. I'm not worried about the chest bottom falling out. Now I've pivoted to making a set of low Krenovian saw horses to temporarily hold the chest at a workable height before I make a permanent stand (which could be months, years, or decades down the road).\n\nAmanda and I got out for a bit more kayaking, and I shot and edited together [a short video of us paddling around](https://youtu.be/vSK9JYTC_Mc). It's kind of dorky, but it's also astonishing to think that we now have consumer-grade flying cameras that can follow people around perfectly.\n\n## Reading\nFinished reading *Hard-Boiled Wonderland and the End of the World* by Haruki Murakami, *The Book of M* by Peng Shepard, and *Boyfriend Material* by Alexis Hall. Resumed the Gabriel Allon series with Amanda: we're on *The Rembrandt Affair* by Daniel Silva.\n\n## Heavy rotation\nThe tracking on my U-Turn Orbit turntable went for a (literal) loop this month. Something about the anti-skip being a bit too strong, I think? But I really enjoyed listening to records of She & Him's *Melt Away: A Tribute to Brian Wilson* and Lizzo's *Special.* I must have had Sylvan Esso's *No Rules Sandy* on repeat through most work days. And after watching Dua Lipa's episode on *Song Exploder,* I dug a bit into her *Future Nostalgia* album.\n\n",
+				"date_published": "2022-09-01T09:02:28-05:00",
+				"url": "https://www.jonathansick.blog/2022/09/01/august-in-review.html",
+				"tags": ["Reviews"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/08/26/seven-bees-in.html",
+				
+				"content_html": "<p>Seven bees in this one sneeze weed. Our rewilding is working!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Seven bees in this one sneeze weed. Our rewilding is working!\n\n<img src=\"uploads/2022/7090ed6e0e.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-26T19:36:24-05:00",
+				"url": "https://www.jonathansick.blog/2022/08/26/seven-bees-in.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/08/23/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780008225629\">The Book Of M</a> by Peng Shepherd 📚 It felt coincidental to read this right after <a href=\"https://micro.blog/books/9780140154351\">The Hard-boiled Wonderland and the End of the World</a>, with both speculating on the ideas of one’s shadow holding one’s soul/memories. A really lovely book with a similar slow slide into magic as Peng’s other book, <a href=\"https://micro.blog/books/9780062910691\">The Cartographers</a>.</p>\n",
+				"content_text": "Finished reading: [The Book Of M](https://micro.blog/books/9780008225629) by Peng Shepherd 📚 It felt coincidental to read this right after [The Hard-boiled Wonderland and the End of the World](https://micro.blog/books/9780140154351), with both speculating on the ideas of one’s shadow holding one’s soul/memories. A really lovely book with a similar slow slide into magic as Peng’s other book, [The Cartographers](https://micro.blog/books/9780062910691).\n",
+				"date_published": "2022-08-23T11:41:07-05:00",
+				"url": "https://www.jonathansick.blog/2022/08/23/finished-reading-the.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/08/16/a-sunrise-from.html",
+				
+				"content_html": "<p>A sunrise from a couple weeks ago that I got around to HDR stacking.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A sunrise from a couple weeks ago that I got around to HDR stacking.\n\n<img src=\"uploads/2022/bba6897575.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-08-16T08:18:01-05:00",
+				"url": "https://www.jonathansick.blog/2022/08/16/a-sunrise-from.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/08/15/im-kicking-the.html",
+				
+				"content_html": "<p>I&rsquo;m kicking the tires on VS Code for web dev (vim+tmux user since&hellip; gosh, when did TextMate start to fall apart?). This tip for navigating splits with the keyboard is clutch → <a href=\"https://www.ryanchapin.com/vscode-keyboard-shortcut-to-navigate-between-split-panes/\">www.ryanchapin.com/vscode-ke&hellip;</a></p>\n",
+				"content_text": "I'm kicking the tires on VS Code for web dev (vim+tmux user since... gosh, when did TextMate start to fall apart?). This tip for navigating splits with the keyboard is clutch → [www.ryanchapin.com/vscode-ke...](https://www.ryanchapin.com/vscode-keyboard-shortcut-to-navigate-between-split-panes/)\n",
+				"date_published": "2022-08-15T10:13:22-05:00",
+				"url": "https://www.jonathansick.blog/2022/08/15/im-kicking-the.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/08/14/penetanguishene.html",
+				
+				"content_html": "<p>Penetanguishene</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Penetanguishene\n\n<img src=\"uploads/2022/386891e867.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-08-14T19:50:19-05:00",
+				"url": "https://www.jonathansick.blog/2022/08/14/penetanguishene.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/08/11/i-nailed-together.html",
+				
+				"content_html": "<p>I nailed together the sides of my tool chest. Used 6d (2 inch) cut nails with 2 mm pilot holes. Lots of clamping helped keep things aligned and prevented the nails from splitting the boards. 🪚</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I nailed together the sides of my tool chest. Used 6d (2 inch) cut nails with 2 mm pilot holes. Lots of clamping helped keep things aligned and prevented the nails from splitting the boards. 🪚\n\n<img src=\"uploads/2022/82f3079c15.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/832e290591.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-11T18:30:45-05:00",
+				"url": "https://www.jonathansick.blog/2022/08/11/i-nailed-together.html",
+				"tags": ["Woodworking"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/08/09/finished-reading-boyfriend.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781728206141\">Boyfriend Material</a> by Alexis Hall 📚 I sped-read this over the weekend on Amanda&rsquo;s recommendation. Devestatingly adorable and full of good feels. Looking forward to the sequel!</p>\n",
+				"content_text": "Finished reading: [Boyfriend Material](https://micro.blog/books/9781728206141) by Alexis Hall 📚 I sped-read this over the weekend on Amanda's recommendation. Devestatingly adorable and full of good feels. Looking forward to the sequel!\n",
+				"date_published": "2022-08-09T17:18:33-05:00",
+				"url": "https://www.jonathansick.blog/2022/08/09/finished-reading-boyfriend.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/08/06/amandas-purple-coneflowers.html",
+				
+				"content_html": "<p>Amanda’s purple coneflowers are a hit with the bees.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Amanda’s purple coneflowers are a hit with the bees.\n\n<img src=\"uploads/2022/f674c10bbf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-06T21:10:51-05:00",
+				"url": "https://www.jonathansick.blog/2022/08/06/amandas-purple-coneflowers.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/08/05/shopping-in-the.html",
+				
+				"content_html": "<p>Shopping in the lettuce aisle.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Shopping in the lettuce aisle.\n\n<img src=\"uploads/2022/ea5f4c2037.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-05T17:47:09-05:00",
+				"url": "https://www.jonathansick.blog/2022/08/05/shopping-in-the.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/08/05/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780140154351\">The Hard-boiled Wonderland and the End of the World (Penguin International Writers)</a> by Haruki Murakami. Found this book from a Carly Rae Jepson insta post (yes!) and glad I dove in to this sci-fi mediation on the mind. 📚</p>\n",
+				"content_text": "Finished reading: [The Hard-boiled Wonderland and the End of the World (Penguin International Writers)](https://micro.blog/books/9780140154351) by Haruki Murakami. Found this book from a Carly Rae Jepson insta post (yes!) and glad I dove in to this sci-fi mediation on the mind. 📚\n",
+				"date_published": "2022-08-05T17:36:11-05:00",
+				"url": "https://www.jonathansick.blog/2022/08/05/finished-reading-the.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/08/01/july-in-review.html",
+				"title": "July 2022 in review",
+				"content_html": "<p>This is the first edition of what I intend to be a monthly round-up of the month. I&rsquo;m doing this a bit for you — to keep tabs on what I&rsquo;m up to — and also a bit for me to reflect on where my focus and effort are.<a href=\"The%20idea%20of%20a%20weekly%20review%20comes%20from%20David%20Sparks,%20who%20talks%20about%20it%20frequently%20on%20his%20%5BMacSparky%20blog%5D(https://www.macsparky.com)%20and%20in%20training%20courses.%20Reviews%20are%20also%20a%20bit%20part%20of%20productivity%20methodolgies%20taught%20by%20%5BThe%20Focus%20Course%5D(https://thefocuscourse.com)%20and%20%5BGetting%20Things%20done%5D(https://gettingthingsdone.com).\">FN</a></p>\n<h2 id=\"doing-the-work\">Doing the work</h2>\n<p>I started the month wrapping up basic <a href=\"https://github.com/lsst-sqre/times-square/pull/41\">GitHub Checks integration</a> for Times Square, a dynamic Jupyter notebook publishing service for the Rubin Science Platform. Times Square is in semi-stealth mode (they&rsquo;re both currently public open source), but I can&rsquo;t wait to see how they get used by Rubin teams.</p>\n<p>Next, I spent some time working on a new Cookiecutter template for <a href=\"https://github.com/lsst/templates/tree/main/project_templates/square_pypi_package\">&ldquo;SQuaRE-style&rdquo; Python packages that are published to PyPI</a>. We&rsquo;ve been informally copying the same patterns between our major libraries like <a href=\"https://github.com/lsst-sqre/safir\">Safir</a> and <a href=\"https://github.com/lsst-sqre/documenteer\">Documenteer</a>, but this template formalizes the basic structure for a SQuaRE package. It also provided us a chance to update our best practices. For instance, we&rsquo;ve <a href=\"https://www.jonathansick.blog\">switched to pyproject.toml entirely for project metadata, as I wrote about on this blog.</a> Second, I wanted to find a way to make our common GitHub Actions workflows more maintainable. It turns out that composite GitHub Actions are a low-overhead way of grouping sequences of actions together. The result is that the &ldquo;user&rdquo; workflows are both shorter and have less code to maintain since all the logic is now maintained in centralized actions. So far I&rsquo;ve made three composite actions: <a href=\"https://github.com/lsst-sqre/run-tox\">lsst-sqre/run-tox</a>, <a href=\"https://github.com/lsst-sqre/ltd-upload\">lsst-sqre/ltd-upload</a>, and <a href=\"https://github.com/lsst-sqre/build-and-publish-to-pypi\">lsst-sqre/build-and-publish-to-pypi</a>.</p>\n<p>I refreshed some of the Kafka infrastructure that SQuaRE uses internally and provides to the rest of Rubin Observatory. First, I updated the packaging for <a href=\"https://kafkit.lsst.io\">Kafkit</a>, our Python package for encoding Kafka messages in conjunction with the Confluent Schema Registry. Kafkit is also available on conda-forge now at <a href=\"https://github.com/conda-forge/kafkit-feedstock\">conda-forge/kafkit-feedstock</a>. I also overhauled Strimzi Registry Operator, our Kubernetes operator for deploying the Confluence Schema Registry on a Strimzi-deployed Kafka cluster. One bit of that refresh I&rsquo;m really happy with is <a href=\"https://github.com/lsst-sqre/strimzi-registry-operator/pull/57\">a PR that deploys Kafka, the operator, and a Schema Registry in minikube within GitHub Actions</a>. This technique for building an application within minikube has a lot of potential as way of running integration tests for a lot of our microservices.</p>\n<p>Lastly, I&rsquo;ve also been thinking more about my online presence, including the viability of Instagram and my years-long absence from Twitter. I&rsquo;ve started to invest effort into <a href=\"https://micro.blog\">Micro.blog</a> as a way of owning my content and cross-posting to Twitter and Instagram where it makes sense. Social media was really important for launching my career, but while working Rubin I&rsquo;ve let it all drop off. It feel like it&rsquo;s time to re-emerge, but on my own terms. I feel like we&rsquo;re doing a lot of cool stuff at Rubin, and it&rsquo;s time to share it with the world now that we&rsquo;re getting closer to first light.</p>\n<h2 id=\"pursuits\">Pursuits</h2>\n<p>I got a DJI Mini 3 micro drone. The technology is astounding. I&rsquo;ve been steadily learning its flying functionality and just barely digging into its camera functionality. I&rsquo;m also playing around with editing the drone footage on my iPad with LumaFusion. It really feels like the future.</p>\n<h2 id=\"reading\">Reading</h2>\n<p>Finished <em>The Cartographers</em> by Peng Shepherd and <em>Tongues of Serpents</em> by Naomi Novik (with Amanda). Started reading <em>Hard-Boiled Wonderland and the End of the World</em> by Haruki Murakami.</p>\n<h2 id=\"heavy-rotation\">Heavy rotation</h2>\n<p><em>The Garden</em> by Basia Bulat (we&rsquo;ve been playing this on vinyl at dinner), <em>Formentera</em> by Metric, and <em>graves</em> by Purity Ring.</p>\n",
+				"content_text": "This is the first edition of what I intend to be a monthly round-up of the month. I'm doing this a bit for you — to keep tabs on what I'm up to — and also a bit for me to reflect on where my focus and effort are.[FN](The%20idea%20of%20a%20weekly%20review%20comes%20from%20David%20Sparks,%20who%20talks%20about%20it%20frequently%20on%20his%20[MacSparky%20blog](https://www.macsparky.com)%20and%20in%20training%20courses.%20Reviews%20are%20also%20a%20bit%20part%20of%20productivity%20methodolgies%20taught%20by%20[The%20Focus%20Course](https://thefocuscourse.com)%20and%20[Getting%20Things%20done](https://gettingthingsdone.com).)\n\n## Doing the work\nI started the month wrapping up basic [GitHub Checks integration](https://github.com/lsst-sqre/times-square/pull/41) for Times Square, a dynamic Jupyter notebook publishing service for the Rubin Science Platform. Times Square is in semi-stealth mode (they're both currently public open source), but I can't wait to see how they get used by Rubin teams.\n\nNext, I spent some time working on a new Cookiecutter template for [\"SQuaRE-style\" Python packages that are published to PyPI](https://github.com/lsst/templates/tree/main/project_templates/square_pypi_package). We've been informally copying the same patterns between our major libraries like [Safir](https://github.com/lsst-sqre/safir) and [Documenteer](https://github.com/lsst-sqre/documenteer), but this template formalizes the basic structure for a SQuaRE package. It also provided us a chance to update our best practices. For instance, we've [switched to pyproject.toml entirely for project metadata, as I wrote about on this blog.](https://www.jonathansick.blog) Second, I wanted to find a way to make our common GitHub Actions workflows more maintainable. It turns out that composite GitHub Actions are a low-overhead way of grouping sequences of actions together. The result is that the \"user\" workflows are both shorter and have less code to maintain since all the logic is now maintained in centralized actions. So far I've made three composite actions: [lsst-sqre/run-tox](https://github.com/lsst-sqre/run-tox), [lsst-sqre/ltd-upload](https://github.com/lsst-sqre/ltd-upload), and [lsst-sqre/build-and-publish-to-pypi](https://github.com/lsst-sqre/build-and-publish-to-pypi).\n\nI refreshed some of the Kafka infrastructure that SQuaRE uses internally and provides to the rest of Rubin Observatory. First, I updated the packaging for [Kafkit](https://kafkit.lsst.io), our Python package for encoding Kafka messages in conjunction with the Confluent Schema Registry. Kafkit is also available on conda-forge now at [conda-forge/kafkit-feedstock](https://github.com/conda-forge/kafkit-feedstock). I also overhauled Strimzi Registry Operator, our Kubernetes operator for deploying the Confluence Schema Registry on a Strimzi-deployed Kafka cluster. One bit of that refresh I'm really happy with is [a PR that deploys Kafka, the operator, and a Schema Registry in minikube within GitHub Actions](https://github.com/lsst-sqre/strimzi-registry-operator/pull/57). This technique for building an application within minikube has a lot of potential as way of running integration tests for a lot of our microservices.\n\nLastly, I've also been thinking more about my online presence, including the viability of Instagram and my years-long absence from Twitter. I've started to invest effort into [Micro.blog](https://micro.blog) as a way of owning my content and cross-posting to Twitter and Instagram where it makes sense. Social media was really important for launching my career, but while working Rubin I've let it all drop off. It feel like it's time to re-emerge, but on my own terms. I feel like we're doing a lot of cool stuff at Rubin, and it's time to share it with the world now that we're getting closer to first light.\n\n## Pursuits\nI got a DJI Mini 3 micro drone. The technology is astounding. I've been steadily learning its flying functionality and just barely digging into its camera functionality. I'm also playing around with editing the drone footage on my iPad with LumaFusion. It really feels like the future.\n\n## Reading\nFinished *The Cartographers* by Peng Shepherd and *Tongues of Serpents* by Naomi Novik (with Amanda). Started reading *Hard-Boiled Wonderland and the End of the World* by Haruki Murakami.\n\n## Heavy rotation\n*The Garden* by Basia Bulat (we've been playing this on vinyl at dinner), *Formentera* by Metric, and *graves* by Purity Ring.\n\n",
+				"date_published": "2022-08-01T06:33:01-05:00",
+				"url": "https://www.jonathansick.blog/2022/08/01/july-in-review.html",
+				"tags": ["Reviews"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/07/29/strimzi-registry-operator.html",
+				"title": "Strimzi Registry Operator 0.5.0 released for Kafka",
+				"content_html": "<p>We just released version 0.5.0 of the <a href=\"https://github.com/lsst-sqre/strimzi-registry-operator\">Strimzi Registry Operator</a> (see <a href=\"https://github.com/lsst-sqre/strimzi-registry-operator/releases/tag/0.5.0\">release notes</a>). Strimzi Registry Operator helps you run a <a href=\"https://docs.confluent.io/platform/current/schema-registry/index.html\">Confluent Schema Registry</a> for a <a href=\"https://kafka.apache.org/\">Kafka</a> cluster that&rsquo;s managed by the fabulous <a href=\"https://strimzi.io\">Strimzi operator</a> for Kubernetes. The Schema Registry allows you to efficiently encode your Kafka messages in <a href=\"https://avro.apache.org\">Avro</a>, while centrally managing their schemas in the registry.</p>\n<p>With the Strimzi Registry Operator, you deploy a Kubernetes resources like this:</p>\n<pre><code>apiVersion: roundtable.lsst.codes/v1beta1\nkind: StrimziSchemaRegistry\nmetadata:\n  name: confluent-schema-registry\nspec:\n  listener: tls\n  securityProtocol: tls\n  compatibilityLevel: forward\n</code></pre>\n<p>The operator deploys a Schema Registry server based on that <code>StrimziSchemaRegistry</code> resource and takes care of details like mapping the Kafka listener and converting the mutual TLS certificates into the JKS formatted keystore and truststore required by the Schema Registry.</p>\n<p>We at Rubin Observatory&rsquo;s <a href=\"https://github.com/lsst-sqre\">SQuaRE</a> team created the Strimzi Registry Operator back in 2019 to help us deploy an internal Kafka to power our ChatOps. Since then, this technology has become critical for other Rubin applications like the alert broker and the engineering facilities database (telemetry from the telescope facility). We&rsquo;ve also gotten hints that the operator has been adopted by other Strimzi users, which we&rsquo;re thrilled to hear of. Open source in action! ✨</p>\n<p>To learn more, take a look at the <a href=\"https://github.com/lsst-sqre/strimzi-registry-operator\">Strimzi Registry Operator repository on GitHub</a>.</p>\n",
+				"content_text": "We just released version 0.5.0 of the [Strimzi Registry Operator](https://github.com/lsst-sqre/strimzi-registry-operator) (see [release notes](https://github.com/lsst-sqre/strimzi-registry-operator/releases/tag/0.5.0)). Strimzi Registry Operator helps you run a [Confluent Schema Registry](https://docs.confluent.io/platform/current/schema-registry/index.html) for a [Kafka](https://kafka.apache.org/) cluster that's managed by the fabulous [Strimzi operator](https://strimzi.io) for Kubernetes. The Schema Registry allows you to efficiently encode your Kafka messages in [Avro](https://avro.apache.org), while centrally managing their schemas in the registry.\n\nWith the Strimzi Registry Operator, you deploy a Kubernetes resources like this:\n\n\tapiVersion: roundtable.lsst.codes/v1beta1\n\tkind: StrimziSchemaRegistry\n\tmetadata:\n\t  name: confluent-schema-registry\n\tspec:\n\t  listener: tls\n\t  securityProtocol: tls\n\t  compatibilityLevel: forward\n\nThe operator deploys a Schema Registry server based on that `StrimziSchemaRegistry` resource and takes care of details like mapping the Kafka listener and converting the mutual TLS certificates into the JKS formatted keystore and truststore required by the Schema Registry.\n\nWe at Rubin Observatory's [SQuaRE](https://github.com/lsst-sqre) team created the Strimzi Registry Operator back in 2019 to help us deploy an internal Kafka to power our ChatOps. Since then, this technology has become critical for other Rubin applications like the alert broker and the engineering facilities database (telemetry from the telescope facility). We've also gotten hints that the operator has been adopted by other Strimzi users, which we're thrilled to hear of. Open source in action! ✨\n\nTo learn more, take a look at the [Strimzi Registry Operator repository on GitHub](https://github.com/lsst-sqre/strimzi-registry-operator).\n",
+				"date_published": "2022-07-29T11:51:35-05:00",
+				"url": "https://www.jonathansick.blog/2022/07/29/strimzi-registry-operator.html",
+				"tags": ["Computing"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/07/27/a-little-fatherdaughter.html",
+				
+				"content_html": "<p>A little father-daughter woodworking moment. 🐱🪚 Emma likes shavings&hellip; especially the long stringy ones from rounding off edges.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A little father-daughter woodworking moment. 🐱🪚 Emma likes shavings... especially the long stringy ones from rounding off edges.\n\n<img src=\"uploads/2022/f2b0aeaa4d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-27T08:36:43-05:00",
+				"url": "https://www.jonathansick.blog/2022/07/27/a-little-fatherdaughter.html",
+				"tags": ["Woodworking"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/07/26/til-you-can.html",
+				
+				"content_html": "<p>TIL you can create Note and warning admonitions in GitHub Flavored Markdown</p>\n<p><a href=\"https://github.com/community/community/discussions/16925\">github.com/community&hellip;</a></p>\n",
+				"content_text": "TIL you can create Note and warning admonitions in GitHub Flavored Markdown\n\n[github.com/community...](https://github.com/community/community/discussions/16925)\n",
+				"date_published": "2022-07-26T13:25:44-05:00",
+				"url": "https://www.jonathansick.blog/2022/07/26/til-you-can.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/07/25/httpie-and-github.html",
+				"title": "httpie and GitHub Actions",
+				"content_html": "<p>I love <a href=\"https://httpie.io\">httpie</a> as an alternative to <code>curl</code>. It feels fresher, and is built for working with today&rsquo;s HTTP APIs.</p>\n<p>Anyways, I was using httpie&rsquo;s <code>@=</code> <a href=\"https://httpie.io/docs/cli/non-string-json-fields\">feature for embedding file content in a JSON field</a> within a GitHub Actions workflow and got an error:</p>\n<blockquote>\n<p>Request body (from stdin, &ndash;raw or a file) and request data (key=value) cannot be mixed. Pass &ndash;ignore-stdin to let key/value take priority. See <a href=\"https://httpie.io/docs#scripting\">https://httpie.io/docs#scripting</a> for details.</p>\n</blockquote>\n<p>I didn&rsquo;t <em>think</em> I was doing anything with passing standard input, and the command was running just fine locally, so I spent a good while finding possible solutions. Turns out I should have taken the error at face value. Somehow GitHub Actions runs commands in a way that triggers this stdin behaviour and need <code>--ignore-stdin</code>:</p>\n<pre><code>http --ignore-stdin --json post $REGISTRY_URL/subjects/testsubject/versions \\\n    schema=@testsubject.json \\\n    Accept:application/vnd.schemaregistry.v1+json\n</code></pre>\n",
+				"content_text": "I love [httpie](https://httpie.io) as an alternative to `curl`. It feels fresher, and is built for working with today's HTTP APIs.\n\nAnyways, I was using httpie's `@=` [feature for embedding file content in a JSON field](https://httpie.io/docs/cli/non-string-json-fields) within a GitHub Actions workflow and got an error:\n\n> Request body (from stdin, --raw or a file) and request data (key=value) cannot be mixed. Pass --ignore-stdin to let key/value take priority. See https://httpie.io/docs#scripting for details.\n\nI didn't *think* I was doing anything with passing standard input, and the command was running just fine locally, so I spent a good while finding possible solutions. Turns out I should have taken the error at face value. Somehow GitHub Actions runs commands in a way that triggers this stdin behaviour and need `--ignore-stdin`:\n\n\thttp --ignore-stdin --json post $REGISTRY_URL/subjects/testsubject/versions \\\n\t    schema=@testsubject.json \\\n\t    Accept:application/vnd.schemaregistry.v1+json\n\n\n",
+				"date_published": "2022-07-25T14:29:20-05:00",
+				"url": "https://www.jonathansick.blog/2022/07/25/httpie-and-github.html",
+				"tags": ["Computing"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/07/19/the-fact-is.html",
+				
+				"content_html": "<blockquote>\n<p>The fact is that one of America’s two major political parties appears to be viscerally opposed to any policy that seems to serve the public good.</p>\n</blockquote>\n<p><a href=\"https://www.nytimes.com/2022/07/18/opinion/climate-politics-manchin.html\">Paul Krugman</a></p>\n",
+				"content_text": "> The fact is that one of America’s two major political parties appears to be viscerally opposed to any policy that seems to serve the public good.\n\n[Paul Krugman](https://www.nytimes.com/2022/07/18/opinion/climate-politics-manchin.html)\n",
+				"date_published": "2022-07-19T06:32:08-05:00",
+				"url": "https://www.jonathansick.blog/2022/07/19/the-fact-is.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/07/18/embracing-the-pyprojecttoml.html",
+				"title": "Embracing the pyproject.toml future of packaging Python projects with setuptools",
+				"content_html": "<p>Last week I worked on <a href=\"https://github.com/lsst/templates/tree/main/project_templates/square_pypi_package\">a new template for PyPI python projects</a> for SQuaRE, my team at Rubin Observatory.<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> One of the banner features in this new template is that we did away with <code>setup.cfg</code> and went all-in with <code>pyproject.toml</code> for defining our projects&rsquo; packaging.</p>\n<h2 id=\"peps-517-518-and-621\">PEPs 517, 518 and 621</h2>\n<p>First, a reminder of what&rsquo;s going on with Python packaging. <a href=\"https://peps.python.org/pep-0517/\">PEP 517</a> and <a href=\"https://peps.python.org/pep-0518/\">PEP 518</a> introduced the idea of a &ldquo;build-system independent format for source trees.&rdquo; Up to that point, the assumption was that all Python projects would be built with setuptools.<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup> A build-system independent format lets you specify an alternative build backend, but in a standardized way, so that a front-end like <code>pip</code> can build and install the package regardless. In the SQuaRE team, though we use setuptools, we embraced PEP 517 and added <code>pyroject.toml</code> files containing a <code>[build-system]</code> table. However, our project metadata remained in <code>setup.cfg</code>, where setuptools expects it.</p>\n<p>Then in <a href=\"https://peps.python.org/pep-0621/\">PEP 621</a>, Python introduced a standardized schema for storing a project&rsquo;s metadata (everything from its name to its dependencies) in a <code>[project]</code> table of <code>project.toml</code> files. At this point, it seemed as if we could finally drop <code>setup.cfg</code> files from our projects entirely.</p>\n<p>Well, almost. The last straw was for setuptools itself to support <code>pyproject.toml</code> configurations for aspects of the build that are specific to setuptools, like package discovery. Currently, the support for a <code>[tool.setuptools]</code> table in pyproject.toml is in beta, but it exists and that was good enough for our team to start supporting it.</p>\n<p>And with that, we can now package our Python projects with only a <code>pyproject.toml</code> file, dropping <code>setup.cfg</code> and (almost) <code>setup.py</code> (more on this later).</p>\n<h2 id=\"our-template-pyprojecttoml\">Our template pyproject.toml</h2>\n<p>This is the example pyproject.toml from our template (and here&rsquo;s the related <a href=\"https://github.com/lsst/templates/blob/main/project_templates/square_pypi_package/%7B%7Bcookiecutter.pypi_name%7D%7D/pyproject.toml\">Jinja2/cookiecutter template</a> for it). You can also <a href=\"https://github.com/lsst-sqre/kafkit/blob/main/pyproject.toml\">see it in action with Kafkit</a>, one of our Python packages for Kafka.</p>\n<pre><code>[project]\n# https://packaging.python.org/en/latest/specifications/declaring-project-metadata/\nname = &quot;example&quot;\ndescription = &quot;Short one-sentence description of the package&quot;\nlicense = {file = &quot;LICENSE&quot;}\nreadme= &quot;README.md&quot;\nkeywords = [\n    &quot;rubin&quot;,\n    &quot;lsst&quot;,\n]\n# https://pypi.org/classifiers/\nclassifiers = [\n    &quot;Development Status :: 4 - Beta&quot;,\n    &quot;License :: OSI Approved :: MIT License&quot;,\n    &quot;Programming Language :: Python&quot;,\n    &quot;Programming Language :: Python :: 3&quot;,\n    &quot;Programming Language :: Python :: 3.8&quot;,\n    &quot;Programming Language :: Python :: 3.9&quot;,\n    &quot;Programming Language :: Python :: 3.10&quot;,\n    &quot;Intended Audience :: Developers&quot;,\n    &quot;Natural Language :: English&quot;,\n    &quot;Operating System :: POSIX&quot;,\n    &quot;Typing :: Typed&quot;,\n]\nrequires-python = &quot;&gt;=3.8&quot;\ndependencies = []\ndynamic = [&quot;version&quot;]\n\n[project.optional-dependencies]\ndev = [\n    # Testing\n    &quot;coverage[toml]&quot;,\n    &quot;pytest&quot;,\n    &quot;pytest-asyncio&quot;,\n    &quot;pre-commit&quot;,\n    &quot;mypy&quot;,\n    # Documentation\n    &quot;sphinx&quot;,\n    &quot;documenteer&quot;,\n    &quot;lsst-sphinx-bootstrap-theme&quot;,\n    &quot;sphinx-prompt&quot;,\n    &quot;sphinx-automodapi&quot;,\n    &quot;myst-parser&quot;,\n    &quot;markdown-it-py[linkify]&quot;,\n]\n\n[project.urls]\n# Homepage = &quot;https://example.lsst.io&quot;\nSource = &quot;https://github.com/lsst-sqre/example&quot;\n\n[build-system]\nrequires = [\n    &quot;setuptools&gt;=61&quot;,\n    &quot;wheel&quot;,\n    &quot;setuptools_scm[toml]&gt;=6.2&quot;\n]\nbuild-backend = &quot;setuptools.build_meta&quot;\n\n[tool.setuptools_scm]\n\n[tool.setuptools.packages.find]\n# https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html\nwhere = [&quot;src&quot;]\ninclude = [&quot;example*&quot;]\n\n[tool.coverage.run]\nparallel = true\nbranch = true\nsource = [&quot;example&quot;]\n\n[tool.coverage.paths]\nsource = [&quot;src&quot;, &quot;.tox/*/site-packages&quot;]\n\n[tool.coverage.report]\nshow_missing = true\nexclude_lines = [\n    &quot;pragma: no cover&quot;,\n    &quot;def __repr__&quot;,\n    &quot;if self.debug:&quot;,\n    &quot;if settings.DEBUG&quot;,\n    &quot;raise AssertionError&quot;,\n    &quot;raise NotImplementedError&quot;,\n    &quot;if 0:&quot;,\n    &quot;if __name__ == .__main__.:&quot;,\n    &quot;if TYPE_CHECKING:&quot;\n]\n\n[tool.black]\nline-length = 79\ntarget-version = [&quot;py38&quot;]\nexclude = '''\n/(\n    \\.eggs\n  | \\.git\n  | \\.mypy_cache\n  | \\.tox\n  | \\.venv\n  | _build\n  | build\n  | dist\n)/\n'\n# Use single-quoted strings so TOML treats the string like a Python r-string\n#  Multi-line strings are implicitly treated by black as regular expressions\n\n[tool.pydocstyle]\n# Reference: http://www.pydocstyle.org/en/stable/error_codes.html\nconvention = &quot;numpy&quot;\nadd_select = [\n    &quot;D212&quot; # Multi-line docstring summary should start at the first line\n]\nadd-ignore = [\n    &quot;D105&quot;, # Missing docstring in magic method\n    &quot;D102&quot;, # Missing docstring in public method (needed for docstring inheritance)\n    &quot;D100&quot;, # Missing docstring in public module\n    # Below are required to allow multi-line summaries.\n    &quot;D200&quot;, # One-line docstring should fit on one line with quotes\n    &quot;D205&quot;, # 1 blank line required between summary line and description\n    &quot;D400&quot;, # First line should end with a period\n    # Properties shouldn't be written in imperative mode. This will be fixed\n    # post 6.1.1, see https://github.com/PyCQA/pydocstyle/pull/546\n    &quot;D401&quot;,\n]\n\n[tool.isort]\nprofile = &quot;black&quot;\nline_length = 79\nknown_first_party = [&quot;example&quot;, &quot;tests&quot;]\nskip = [&quot;docs/conf.py&quot;]\n\n[tool.pytest.ini_options]\nasyncio_mode = &quot;strict&quot;\npython_files = [\n    &quot;tests/*.py&quot;,\n    &quot;tests/*/*.py&quot;\n]\n\n[tool.mypy]\ndisallow_untyped_defs = true\ndisallow_incomplete_defs = true\nignore_missing_imports = true\nstrict_equality = true\nwarn_redundant_casts = true\nwarn_unreachable = true\nwarn_unused_ignores = true\n# plugins =\n</code></pre>\n<p>This <code>pyproject.toml</code> is built for a &ldquo;src/&rdquo; Python package layout. The <code>[tool.setuptools.packages.find]</code> table is where we configure this.</p>\n<h2 id=\"setuppy-is-still-necessary-for-now\">setup.py is still necessary, for now</h2>\n<p>Our original goal with this new template was to do away with the &ldquo;legacy&rdquo; packaging files: <code>setup.cfg</code> and <code>setup.py</code>. We did succeed in doing away with <code>setup.cfg</code> since not only has <code>setuptools</code> moved to <code>pyproject.toml</code>, but nearly every other tool using <code>setup.cfg</code> has moved their configurations as well.<sup id=\"fnref:3\"><a href=\"#fn:3\" class=\"footnote-ref\" role=\"doc-noteref\">3</a></sup></p>\n<p>It might seem like <code>setup.py</code> is also obsolete. However, in our experience, some projects still require it for editable installs <code>pip install -e .</code>. We often use editable installs during development to rapidly test and prototype, so this is a useful feature for us. For that reason, we&rsquo;ve had to re-add a basic <code>setup.py</code> file to our projects:</p>\n<pre><code>from setuptools import setup\n\nsetup()\n</code></pre>\n<p>What&rsquo;s surprising is that, anecdotally, not all setuptools-based projects seem to need a <code>setup.py</code> for their editable installs.</p>\n<p>Regardless, <a href=\"https://github.com/pypa/setuptools/issues/2816\">setuptools issue 2816</a> is worth a subscription to learn when this has changed.</p>\n<h2 id=\"concatenated-readmes-with-markdown-may-not-work\">Concatenated READMEs with Markdown may not work</h2>\n<p>With the new <code>[project]</code> table in <code>pyproject.toml</code>, you can set a <code>readme</code> field that links to your project&rsquo;s README file. This effectively replaces the old &ldquo;long description&rdquo; field, where, back in the <code>setup.py</code> days, we&rsquo;d write a small function to open and insert text from the README file. This is a nice, clean way of standardizing that practice.</p>\n<p>Something I liked to do in our <code>setup.cfg</code> files was to actually concatenated multiple files into the long description:</p>\n<pre><code>[metadata]\nname = documenteer\nlong_description = file: README.rst, CHANGELOG.rst, LICENSE\nlong_description_content_type = text/x-rst\n</code></pre>\n<p>This way, the project&rsquo;s page on PyPI would include not only the README but also the change log, followed by the license. Nice.</p>\n<p>In <code>pyproject.toml</code>, the same can be accomplished by making the README <em>dynamic</em>:</p>\n<pre><code>[project]\ndynamic = [&quot;readme&quot;]\n\n[tool.setuptools.dynamic]\nreadme = {file = [&quot;README.rst&quot;, &quot;CHANGELOG.rst&quot;]}\n</code></pre>\n<p>And this works. Where things went wrong for me is using Markdown for the README and CHANGELOG:</p>\n<pre><code>[project]\ndynamic = [&quot;readme&quot;]\n\n[tool.setuptools.dynamic]\nreadme = {file = [&quot;README.md&quot;, &quot;CHANGELOG.md&quot;]}\n</code></pre>\n<p>When I looked inside the built wheel&rsquo;s <code>METADATA</code> file, the <code>Description-Content-Type</code> would be <code>text/re-structured-text</code> instead of <code>text/markdown</code>. Normally, the tooling successfully detects the content type for the description, but this may not be working for dynamic READMEs. Something to be aware of, as setuptools&rsquo; <code>pyproject.toml</code> support is being developed.</p>\n<h2 id=\"further-reading\">Further reading</h2>\n<ul>\n<li><a href=\"https://packaging.python.org/en/latest/specifications/declaring-project-metadata/\">PyPA&rsquo;s documentation for declaring project metadata in pyproject.toml</a></li>\n<li><a href=\"https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html\">setuptools&rsquo; documentation for pyproject.toml configuration</a></li>\n</ul>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p><a href=\"https://github.com/lsst/templates\">We love to create templates</a> because they enable us to standardize on technologies and workflows. Even though we have tens/hundreds of GitHub repositories at Rubin (depending on the organizational scope), working in these projects is familiar because they all share the same structure and technologies.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>Like distutils and packaging — remember thee?&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:3\">\n<p>Except flake8 — so we&rsquo;ve booted flake8 to its own <code>.flake8</code> configuration file.&#160;<a href=\"#fnref:3\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "Last week I worked on [a new template for PyPI python projects](https://github.com/lsst/templates/tree/main/project_templates/square_pypi_package) for SQuaRE, my team at Rubin Observatory.[^1] One of the banner features in this new template is that we did away with `setup.cfg` and went all-in with `pyproject.toml` for defining our projects' packaging.\n\n## PEPs 517, 518 and 621\nFirst, a reminder of what's going on with Python packaging. [PEP 517](https://peps.python.org/pep-0517/) and [PEP 518](https://peps.python.org/pep-0518/) introduced the idea of a \"build-system independent format for source trees.\" Up to that point, the assumption was that all Python projects would be built with setuptools.[^2] A build-system independent format lets you specify an alternative build backend, but in a standardized way, so that a front-end like `pip` can build and install the package regardless. In the SQuaRE team, though we use setuptools, we embraced PEP 517 and added `pyroject.toml` files containing a `[build-system]` table. However, our project metadata remained in `setup.cfg`, where setuptools expects it.\n\nThen in [PEP 621](https://peps.python.org/pep-0621/), Python introduced a standardized schema for storing a project's metadata (everything from its name to its dependencies) in a `[project]` table of `project.toml` files. At this point, it seemed as if we could finally drop `setup.cfg` files from our projects entirely.\n\nWell, almost. The last straw was for setuptools itself to support `pyproject.toml` configurations for aspects of the build that are specific to setuptools, like package discovery. Currently, the support for a `[tool.setuptools]` table in pyproject.toml is in beta, but it exists and that was good enough for our team to start supporting it.\n\nAnd with that, we can now package our Python projects with only a `pyproject.toml` file, dropping `setup.cfg` and (almost) `setup.py` (more on this later).\n\n## Our template pyproject.toml\nThis is the example pyproject.toml from our template (and here's the related [Jinja2/cookiecutter template](https://github.com/lsst/templates/blob/main/project_templates/square_pypi_package/%7B%7Bcookiecutter.pypi_name%7D%7D/pyproject.toml) for it). You can also [see it in action with Kafkit](https://github.com/lsst-sqre/kafkit/blob/main/pyproject.toml), one of our Python packages for Kafka.\n\n\t[project]\n\t# https://packaging.python.org/en/latest/specifications/declaring-project-metadata/\n\tname = \"example\"\n\tdescription = \"Short one-sentence description of the package\"\n\tlicense = {file = \"LICENSE\"}\n\treadme= \"README.md\"\n\tkeywords = [\n\t    \"rubin\",\n\t    \"lsst\",\n\t]\n\t# https://pypi.org/classifiers/\n\tclassifiers = [\n\t    \"Development Status :: 4 - Beta\",\n\t    \"License :: OSI Approved :: MIT License\",\n\t    \"Programming Language :: Python\",\n\t    \"Programming Language :: Python :: 3\",\n\t    \"Programming Language :: Python :: 3.8\",\n\t    \"Programming Language :: Python :: 3.9\",\n\t    \"Programming Language :: Python :: 3.10\",\n\t    \"Intended Audience :: Developers\",\n\t    \"Natural Language :: English\",\n\t    \"Operating System :: POSIX\",\n\t    \"Typing :: Typed\",\n\t]\n\trequires-python = \">=3.8\"\n\tdependencies = []\n\tdynamic = [\"version\"]\n\t\n\t[project.optional-dependencies]\n\tdev = [\n\t    # Testing\n\t    \"coverage[toml]\",\n\t    \"pytest\",\n\t    \"pytest-asyncio\",\n\t    \"pre-commit\",\n\t    \"mypy\",\n\t    # Documentation\n\t    \"sphinx\",\n\t    \"documenteer\",\n\t    \"lsst-sphinx-bootstrap-theme\",\n\t    \"sphinx-prompt\",\n\t    \"sphinx-automodapi\",\n\t    \"myst-parser\",\n\t    \"markdown-it-py[linkify]\",\n\t]\n\t\n\t[project.urls]\n\t# Homepage = \"https://example.lsst.io\"\n\tSource = \"https://github.com/lsst-sqre/example\"\n\t\n\t[build-system]\n\trequires = [\n\t    \"setuptools>=61\",\n\t    \"wheel\",\n\t    \"setuptools_scm[toml]>=6.2\"\n\t]\n\tbuild-backend = \"setuptools.build_meta\"\n\t\n\t[tool.setuptools_scm]\n\t\n\t[tool.setuptools.packages.find]\n\t# https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html\n\twhere = [\"src\"]\n\tinclude = [\"example*\"]\n\t\n\t[tool.coverage.run]\n\tparallel = true\n\tbranch = true\n\tsource = [\"example\"]\n\t\n\t[tool.coverage.paths]\n\tsource = [\"src\", \".tox/*/site-packages\"]\n\t\n\t[tool.coverage.report]\n\tshow_missing = true\n\texclude_lines = [\n\t    \"pragma: no cover\",\n\t    \"def __repr__\",\n\t    \"if self.debug:\",\n\t    \"if settings.DEBUG\",\n\t    \"raise AssertionError\",\n\t    \"raise NotImplementedError\",\n\t    \"if 0:\",\n\t    \"if __name__ == .__main__.:\",\n\t    \"if TYPE_CHECKING:\"\n\t]\n\t\n\t[tool.black]\n\tline-length = 79\n\ttarget-version = [\"py38\"]\n\texclude = '''\n\t/(\n\t    \\.eggs\n\t  | \\.git\n\t  | \\.mypy_cache\n\t  | \\.tox\n\t  | \\.venv\n\t  | _build\n\t  | build\n\t  | dist\n\t)/\n\t'\n\t# Use single-quoted strings so TOML treats the string like a Python r-string\n\t#  Multi-line strings are implicitly treated by black as regular expressions\n\t\n\t[tool.pydocstyle]\n\t# Reference: http://www.pydocstyle.org/en/stable/error_codes.html\n\tconvention = \"numpy\"\n\tadd_select = [\n\t    \"D212\" # Multi-line docstring summary should start at the first line\n\t]\n\tadd-ignore = [\n\t    \"D105\", # Missing docstring in magic method\n\t    \"D102\", # Missing docstring in public method (needed for docstring inheritance)\n\t    \"D100\", # Missing docstring in public module\n\t    # Below are required to allow multi-line summaries.\n\t    \"D200\", # One-line docstring should fit on one line with quotes\n\t    \"D205\", # 1 blank line required between summary line and description\n\t    \"D400\", # First line should end with a period\n\t    # Properties shouldn't be written in imperative mode. This will be fixed\n\t    # post 6.1.1, see https://github.com/PyCQA/pydocstyle/pull/546\n\t    \"D401\",\n\t]\n\t\n\t[tool.isort]\n\tprofile = \"black\"\n\tline_length = 79\n\tknown_first_party = [\"example\", \"tests\"]\n\tskip = [\"docs/conf.py\"]\n\t\n\t[tool.pytest.ini_options]\n\tasyncio_mode = \"strict\"\n\tpython_files = [\n\t    \"tests/*.py\",\n\t    \"tests/*/*.py\"\n\t]\n\t\n\t[tool.mypy]\n\tdisallow_untyped_defs = true\n\tdisallow_incomplete_defs = true\n\tignore_missing_imports = true\n\tstrict_equality = true\n\twarn_redundant_casts = true\n\twarn_unreachable = true\n\twarn_unused_ignores = true\n\t# plugins =\n\nThis `pyproject.toml` is built for a \"src/\" Python package layout. The `[tool.setuptools.packages.find]` table is where we configure this.\n\n## setup.py is still necessary, for now\nOur original goal with this new template was to do away with the \"legacy\" packaging files: `setup.cfg` and `setup.py`. We did succeed in doing away with `setup.cfg` since not only has `setuptools` moved to `pyproject.toml`, but nearly every other tool using `setup.cfg` has moved their configurations as well.[^3]\n\nIt might seem like `setup.py` is also obsolete. However, in our experience, some projects still require it for editable installs `pip install -e .`. We often use editable installs during development to rapidly test and prototype, so this is a useful feature for us. For that reason, we've had to re-add a basic `setup.py` file to our projects:\n\n\tfrom setuptools import setup\n\t\n\tsetup()\n\nWhat's surprising is that, anecdotally, not all setuptools-based projects seem to need a `setup.py` for their editable installs.\n\nRegardless, [setuptools issue 2816](https://github.com/pypa/setuptools/issues/2816) is worth a subscription to learn when this has changed.\n\n## Concatenated READMEs with Markdown may not work\nWith the new `[project]` table in `pyproject.toml`, you can set a `readme` field that links to your project's README file. This effectively replaces the old \"long description\" field, where, back in the `setup.py` days, we'd write a small function to open and insert text from the README file. This is a nice, clean way of standardizing that practice.\n\nSomething I liked to do in our `setup.cfg` files was to actually concatenated multiple files into the long description:\n\n\t[metadata]\n\tname = documenteer\n\tlong_description = file: README.rst, CHANGELOG.rst, LICENSE\n\tlong_description_content_type = text/x-rst\n\nThis way, the project's page on PyPI would include not only the README but also the change log, followed by the license. Nice.\n\nIn `pyproject.toml`, the same can be accomplished by making the README *dynamic*:\n\n\t[project]\n\tdynamic = [\"readme\"]\n\t\n\t[tool.setuptools.dynamic]\n\treadme = {file = [\"README.rst\", \"CHANGELOG.rst\"]}\n\nAnd this works. Where things went wrong for me is using Markdown for the README and CHANGELOG:\n\n\t[project]\n\tdynamic = [\"readme\"]\n\t\n\t[tool.setuptools.dynamic]\n\treadme = {file = [\"README.md\", \"CHANGELOG.md\"]}\n\nWhen I looked inside the built wheel's `METADATA` file, the `Description-Content-Type` would be `text/re-structured-text` instead of `text/markdown`. Normally, the tooling successfully detects the content type for the description, but this may not be working for dynamic READMEs. Something to be aware of, as setuptools' `pyproject.toml` support is being developed.\n\n## Further reading\n\n- [PyPA's documentation for declaring project metadata in pyproject.toml](https://packaging.python.org/en/latest/specifications/declaring-project-metadata/)\n- [setuptools' documentation for pyproject.toml configuration](https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html)\n\n[^1]:\t[We love to create templates](https://github.com/lsst/templates) because they enable us to standardize on technologies and workflows. Even though we have tens/hundreds of GitHub repositories at Rubin (depending on the organizational scope), working in these projects is familiar because they all share the same structure and technologies.\n\n[^2]:\tLike distutils and packaging — remember thee?\n\n[^3]:\tExcept flake8 — so we've booted flake8 to its own `.flake8` configuration file.\n",
+				"date_published": "2022-07-18T09:15:01-05:00",
+				"url": "https://www.jonathansick.blog/2022/07/18/embracing-the-pyprojecttoml.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/07/18/the-penetanguishene-outer.html",
+				
+				"content_html": "<p>The Penetanguishene outer harbour last night, dressed up in the setting light.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The Penetanguishene outer harbour last night, dressed up in the setting light.\n\n<img src=\"uploads/2022/0209ca2e9b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-07-18T07:12:16-05:00",
+				"url": "https://www.jonathansick.blog/2022/07/18/the-penetanguishene-outer.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/07/14/onboarding-into-a.html",
+				
+				"content_html": "<p>Onboarding into a public cloud project: enter your email and credit card info (or have your team lead click an invite button).</p>\n<p>Onboarding into a gov &ldquo;cloud&rdquo; project: send us your detailed CV, passport scan, visa, and other personal info.</p>\n",
+				"content_text": "Onboarding into a public cloud project: enter your email and credit card info (or have your team lead click an invite button).\r\n\r\nOnboarding into a gov \"cloud\" project: send us your detailed CV, passport scan, visa, and other personal info.\n",
+				"date_published": "2022-07-14T11:05:38-05:00",
+				"url": "https://www.jonathansick.blog/2022/07/14/onboarding-into-a.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/07/13/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062910691\">The Cartographers: A Novel</a> by Peng Shepherd 📚</p>\n<p>I loved this book so much, and am glad I learned about it by chance from <a href=\"https://micro.blog/manton\">@manton</a>&rsquo;s feed. It&rsquo;s an academic thriller — what can I say! I won&rsquo;t think about maps the same again.</p>\n",
+				"content_text": "Finished reading: [The Cartographers: A Novel](https://micro.blog/books/9780062910691) by Peng Shepherd 📚\n\nI loved this book so much, and am glad I learned about it by chance from [@manton](https://micro.blog/manton)'s feed. It's an academic thriller — what can I say! I won't think about maps the same again.\n",
+				"date_published": "2022-07-13T20:17:06-05:00",
+				"url": "https://www.jonathansick.blog/2022/07/13/finished-reading-the.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2022/07/05/jira-can-be.html",
+				
+				"content_html": "<p>Jira can be rough compared to GitHub issues; but it’s the backbone of Rubin work tracking. I’ve discovered how to use @draftsapp for Mac/iPad/iOS to submit issues for me: it converts Markdown to Jira, creates the issue in my current epic, and then prepends a link to my draft 🥳</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Jira can be rough compared to GitHub issues; but it’s the backbone of Rubin work tracking. I’ve discovered how to use @draftsapp for Mac/iPad/iOS to submit issues for me: it converts Markdown to Jira, creates the issue in my current epic, and then prepends a link to my draft 🥳\n\n<img src=\"uploads/2022/1514705550.png\" width=\"600\" height=\"447\" alt=\"\" />\n",
+				"date_published": "2022-07-05T09:58:20-05:00",
+				"url": "https://www.jonathansick.blog/2022/07/05/jira-can-be.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2021/08/02/ive-been-reading.html",
+				
+				"content_html": "<p>I’ve been reading <a href=\"https://www.cosmicpython.com\">Architecture Patterns with Python</a>. Every chapter they introduce a new issue, and I’m like “yes, that’s an architectural problem I’ve had in my code” and then they show to solve it. Highly approachable. I recommend it to anyone building applications or services.</p>\n",
+				"content_text": "I’ve been reading [Architecture Patterns with Python](https://www.cosmicpython.com). Every chapter they introduce a new issue, and I’m like “yes, that’s an architectural problem I’ve had in my code” and then they show to solve it. Highly approachable. I recommend it to anyone building applications or services.\n",
+				"date_published": "2021-08-02T12:42:43-05:00",
+				"url": "https://www.jonathansick.blog/2021/08/02/ive-been-reading.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2021/07/22/ive-been-using.html",
+				
+				"content_html": "<p>I&rsquo;ve been using Pydantic and FastAPI a lot lately and I&rsquo;m struck at their lack of API docs (compared to most Python package docs). Its as if these modern libraries are built for the era of IntelleSense and autocomplete to bring docs into the editor.</p>\n",
+				"content_text": "I've been using Pydantic and FastAPI a lot lately and I'm struck at their lack of API docs (compared to most Python package docs). Its as if these modern libraries are built for the era of IntelleSense and autocomplete to bring docs into the editor.\n",
+				"date_published": "2021-07-22T09:38:59-05:00",
+				"url": "https://www.jonathansick.blog/2021/07/22/ive-been-using.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2021/07/20/rethinking-the-social.html",
+				"title": "Rethinking the social web in 2021",
+				"content_html": "<p>Facebook was fantastic as a college kid: it was just an exclusive club for your an your dorm mates. Then everyone got on Facebook and the content became less and less relevant. Twitter was fantastic as a way to connect with techy astronomy colleagues. It felt like our own little back channel. Then Twitter became a political battle ground, and although the conversations were powerful, they were also overwhelming. Instagram was an oasis where there was no politics, just photos of your day. A way to connect with faraway friends. Now <a href=\"https://debugger.medium.com/instagram-has-become-skymall-68b9f2fbbc30\">Instagram has become Skymall</a>. Does the utility of all social media platforms self-implode at some point under the weight of growth and ad sales?</p>\n<p>I feel like I&rsquo;ve lost the tune with social media. I haven&rsquo;t used Facebook or kept up with my Twitter timeline in years. I keep feeling bad whenever I open Instagram. And that&rsquo;s fine. I have more time for meaningful work. But I also feel like I&rsquo;m disappearing off the face of the internet by no longer engaging with social media.</p>\n<p>So here we are in 2021. What should my social existence on the web look like?</p>\n<p>I&rsquo;m going to try going back to the basics. I&rsquo;m going to resolve to own my own corner of the web with <a href=\"https://jonathansick.ca\">jonathansick.ca</a> and no longer rent space from social media companies. I&rsquo;m also going to see how this micro.blog site fits in. I initially signed up in 2017. The concept of the indie web didn&rsquo;t fully connect with me back then, but now its clear that building my own site and paying directly for services and apps is the way that I want to exist on the web going forward.</p>\n",
+				"content_text": "Facebook was fantastic as a college kid: it was just an exclusive club for your an your dorm mates. Then everyone got on Facebook and the content became less and less relevant. Twitter was fantastic as a way to connect with techy astronomy colleagues. It felt like our own little back channel. Then Twitter became a political battle ground, and although the conversations were powerful, they were also overwhelming. Instagram was an oasis where there was no politics, just photos of your day. A way to connect with faraway friends. Now [Instagram has become Skymall](https://debugger.medium.com/instagram-has-become-skymall-68b9f2fbbc30). Does the utility of all social media platforms self-implode at some point under the weight of growth and ad sales?\r\n\r\nI feel like I've lost the tune with social media. I haven't used Facebook or kept up with my Twitter timeline in years. I keep feeling bad whenever I open Instagram. And that's fine. I have more time for meaningful work. But I also feel like I'm disappearing off the face of the internet by no longer engaging with social media.\r\n\r\nSo here we are in 2021. What should my social existence on the web look like?\r\n\r\nI'm going to try going back to the basics. I'm going to resolve to own my own corner of the web with [jonathansick.ca](https://jonathansick.ca) and no longer rent space from social media companies. I'm also going to see how this micro.blog site fits in. I initially signed up in 2017. The concept of the indie web didn't fully connect with me back then, but now its clear that building my own site and paying directly for services and apps is the way that I want to exist on the web going forward.\n",
+				"date_published": "2021-07-20T17:51:11-05:00",
+				"url": "https://www.jonathansick.blog/2021/07/20/rethinking-the-social.html"
 			}
 	]
 }
