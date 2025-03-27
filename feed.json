@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jonathansick.micro.blog/2025/03/27/yesterday-a-red-coast-guard.html",
+				
+				"content_html": "<p>Yesterday a red Coast Guard helicopter was flying low over Georgian Bay and even landed to talk to some folks ice fishing near Beausoleil. I couldn’t quite understand it until a couple hours later I saw a Coast Guard icebreaker was making its way out of Midland harbour.</p>\n",
+				"content_text": "Yesterday a red Coast Guard helicopter was flying low over Georgian Bay and even landed to talk to some folks ice fishing near Beausoleil. I couldn’t quite understand it until a couple hours later I saw a Coast Guard icebreaker was making its way out of Midland harbour.\n",
+				"date_published": "2025-03-27T09:02:42-04:00",
+				"url": "https://www.jonathansick.blog/2025/03/27/yesterday-a-red-coast-guard.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2025/03/20/til-you-can-concatenate-highlights.html",
+				
+				"content_html": "<p>TIL <a href=\"https://docs.readwise.io/readwise/guides/action-tags?ref=wiseup.readwise.io#concatenation\">you can concatenate highlights with Readwise.</a>. What a clever feature for capturing the heart of a paragraph or two.</p>\n",
+				"content_text": "TIL [you can concatenate highlights with Readwise.](https://docs.readwise.io/readwise/guides/action-tags?ref=wiseup.readwise.io#concatenation). What a clever feature for capturing the heart of a paragraph or two.\n",
+				"date_published": "2025-03-20T09:05:47-04:00",
+				"url": "https://www.jonathansick.blog/2025/03/20/til-you-can-concatenate-highlights.html"
+			},
+			{
 				"id": "http://jonathansick.micro.blog/2025/03/17/todays-playlist-brought-to-me.html",
 				
 				"content_html": "<p>Today&rsquo;s playlist brought to me by The Shins, The Constantines, The Weakerthans, John K. Sampson, Controller.Controller, and The Stills. The oughts. What a time for music.</p>\n",
