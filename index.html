@@ -24,6 +24,63 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://www.jonathansick.blog/2025/04/24/password-in-the-shell.html">1Password in the shell</a></h1>
+		
+
+		<a href="https://www.jonathansick.blog/2025/04/24/password-in-the-shell.html" class="u-url"><time class="dt-published" datetime="2025-04-24 12:47:50 -0400">Apr 24, 2025</time></a>
+
+		<div class="e-content">
+			 <p>I&rsquo;ve been digging into <a href="https://developer.1password.com/docs/cli">1Password&rsquo;s command-line client, <code>op</code></a>, lately. Back in the day, I&rsquo;d have private shell configuration files where I&rsquo;d export API tokens or export tokens into my shell as needed. This wasn&rsquo;t a great situation. First, it was a security risk — if someone got access to my Macs or malicious code started scanning my environment. Second, it created security token management and provenance issues.</p>
+<p>But now, by prefixing my shell commands with <code>op run</code>, I can run those commands with exactly the credentials that they need, with credentials that are stored and managed in 1Password.</p>
+<h2 id="securing-access-for-github-mcp">Securing access for GitHub MCP</h2>
+<p>Today, I was trying out the <a href="https://github.com/github/github-mcp-server?tab=readme-ov-file">GitHub MCP server</a> in VS Code. The server needs a GitHub Personal Access Token, which is added to the server&rsquo;s container through an environment variable. This is my VS Code configuration that sources the Personal Access Token through a field called <code>GitHub MCP</code> in my GitHub item in 1Password:</p>
+<pre tabindex="0"><code>&#34;mcp&#34;: {
+  &#34;servers&#34;: {
+    &#34;github&#34;: {
+      &#34;command&#34;: &#34;op&#34;,
+      &#34;args&#34;: [
+        &#34;--account&#34;,
+        &#34;my.1password.com&#34;,
+        &#34;run&#34;,
+        &#34;--&#34;,
+        &#34;docker&#34;,
+        &#34;run&#34;,
+        &#34;-i&#34;,
+        &#34;--rm&#34;,
+        &#34;-e&#34;,
+        &#34;GITHUB_PERSONAL_ACCESS_TOKEN&#34;,
+        &#34;ghcr.io/github/github-mcp-server&#34;
+      ],
+      &#34;env&#34;: {
+        &#34;GITHUB_PERSONAL_ACCESS_TOKEN&#34;: &#34;op://Private/GitHub/GitHub MCP&#34;
+      }
+    }
+  }
+}
+</code></pre><h2 id="using-env-files">Using .env files</h2>
+<p>In our software repos, I&rsquo;ve also started leaving <code>.env</code> files referencing passwords in our team&rsquo;s vaults. Here&rsquo;s an <a href="https://github.com/lsst-sqre/phalanx/tree/main/op">example in our Kubernetes deployment repository</a>. With those <code>.env</code> files, which are shareable on GitHub because they only reference secrets, we can now streamline commands that need secrets, like:</p>
+<pre tabindex="0"><code>op run --env-file=&#34;op/idfprod.env&#34; -- phalanx secrets audit idfprod
+</code></pre><p>These sorts of <code>.env</code> files are also helpful for setting up local development servers to use real credentials, like for the <a href="https://github.com/lsst-sqre/ook/blob/main/square.env">Ook application</a>. Now I can spin up an Ook service for local development using secrets like this:</p>
+<pre tabindex="0"><code>op run --env-file=&#34;./square.env&#34; -- nox -s run
+</code></pre><h2 id="1password-is-still-worth-it-for-me">1Password is still worth it for me</h2>
+<p>For over a year, there&rsquo;s been a lot of talk in the Apple community about dropping 1Password in favour of Keychain, especially now that Apple has spun it out into its own app. And for a lot of people, that&rsquo;s probably the best choice. However, for a developer, 1Password&rsquo;s CLI can make life much easier and more secure. Besides secret insertion in the environment, I also use 1Password&rsquo;s SSH agent for things like signing my Git commits and authenticating with GitHub.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://www.jonathansick.blog/2025/03/27/im-not-a-vibe-coder.html" class="u-url"><time class="dt-published" datetime="2025-03-27 11:30:00 -0400">Mar 27, 2025</time></a>
+
+		<div class="e-content">
+			 <p>I’m not a vibe coder, but LLMs absolutely have changed my work for the better. Like yesterday I pointed Copilot/Claude 3.7 at my app’s SQLAlchemy models and asked for a Mermaid.js diagram I could drop into my technote. <a href="https://sqr-086.lsst.io/#ooks-database-model">Absolute magic.</a></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 
 		<a href="https://www.jonathansick.blog/2025/03/27/yesterday-a-red-coast-guard.html" class="u-url"><time class="dt-published" datetime="2025-03-27 09:02:42 -0400">Mar 27, 2025</time></a>
 
