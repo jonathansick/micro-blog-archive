@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://jonathansick.micro.blog/2025/06/19/heres-a-nyt-profile-of.html",
+				
+				"content_html": "<p>Here&rsquo;s a <a href=\"https://www.nytimes.com/2025/06/19/science/telescope-vera-rubin-dark-matter.html?unlocked_article_code=1.QE8.pt8p.jWq0obgsYzq0&amp;smid=url-share\">NYT profile of Rubin Observatory</a> on the eve of our first light press release next Monday. A decade in the making for me (and more, for others!), it&rsquo;s exciting to share our story with the world.</p>\n",
+				"content_text": "Here's a [NYT profile of Rubin Observatory](https://www.nytimes.com/2025/06/19/science/telescope-vera-rubin-dark-matter.html?unlocked_article_code=1.QE8.pt8p.jWq0obgsYzq0&smid=url-share) on the eve of our first light press release next Monday. A decade in the making for me (and more, for others!), it's exciting to share our story with the world.\n",
+				"date_published": "2025-06-19T11:08:57-04:00",
+				"url": "https://www.jonathansick.blog/2025/06/19/heres-a-nyt-profile-of.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2025/06/09/bringing-macoslike-windowing-and-a.html",
+				
+				"content_html": "<p>Bringing macOS-like windowing and a menu bar to iPadOS?! Yes please.</p>\n",
+				"content_text": "Bringing macOS-like windowing and a menu bar to iPadOS?! Yes please.\n",
+				"date_published": "2025-06-09T14:21:24-04:00",
+				"url": "https://www.jonathansick.blog/2025/06/09/bringing-macoslike-windowing-and-a.html"
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2025/06/06/freezegun-is-a-nifty-python.html",
+				
+				"content_html": "<p><a href=\"https://github.com/spulec/freezegun\">freezegun</a> is a nifty Python package that takes the pain out of mocking things like <code>datetime.now</code> in tests. I just gave it a go yesterday and it seems to work well.</p>\n",
+				"content_text": "[freezegun](https://github.com/spulec/freezegun) is a nifty Python package that takes the pain out of mocking things like `datetime.now` in tests. I just gave it a go yesterday and it seems to work well.\n",
+				"date_published": "2025-06-06T09:15:47-04:00",
+				"url": "https://www.jonathansick.blog/2025/06/06/freezegun-is-a-nifty-python.html",
+				"tags": ["Developer"]
+			},
+			{
+				"id": "http://jonathansick.micro.blog/2025/06/05/im-saddened-to-hear-of.html",
+				
+				"content_html": "<p>I&rsquo;m saddened to hear of Marc Garneau&rsquo;s passing. As Canada&rsquo;s first astronaut, he inspired my interest in space.</p>\n",
+				"content_text": "I'm saddened to hear of Marc Garneau's passing. As Canada's first astronaut, he inspired my interest in space.\n",
+				"date_published": "2025-06-05T17:00:00-04:00",
+				"url": "https://www.jonathansick.blog/2025/06/05/im-saddened-to-hear-of.html"
+			},
+			{
 				"id": "http://jonathansick.micro.blog/2025/05/29/this-sky-thing-for-mac.html",
 				
 				"content_html": "<p>This <a href=\"https://www.macstories.net/stories/sky-for-mac-preview/\">Sky</a> thing for Mac looks pretty neat. It could create a whole new platform for Mac automation without all the fiddly bits of Shortcuts and the like.</p>\n",
