@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jonathansick.micro.blog/2025/07/09/i-think-a-freestyling-doc.html",
+				
+				"content_html": "<blockquote>\n<p>I think a freestyling doc bot undermines the effort and care of the folks at Shopify taking the time to write documentation that is thorough and accurate. — <a href=\"https://www.robinsloan.com/lab/what-are-we-even-doing-here/\">Robin Sloan</a></p>\n</blockquote>\n<p>💯 RAG LLMs aren&rsquo;t a shortcut around creating great docs, and when they are deployed you better validate them thoroughly.</p>\n",
+				"content_text": "> I think a freestyling doc bot undermines the effort and care of the folks at Shopify taking the time to write documentation that is thorough and accurate. — [Robin Sloan](https://www.robinsloan.com/lab/what-are-we-even-doing-here/)\n\n💯 RAG LLMs aren't a shortcut around creating great docs, and when they are deployed you better validate them thoroughly.\n",
+				"date_published": "2025-07-09T08:12:42-04:00",
+				"url": "https://www.jonathansick.blog/2025/07/09/i-think-a-freestyling-doc.html"
+			},
+			{
 				"id": "http://jonathansick.micro.blog/2025/07/02/cotton-blog-via-pycoders-points.html",
 				
 				"content_html": "<p><a href=\"https://pycoders.com/link/14721/rhlknbppkr\">Cotton Blog via Pycoders</a> points out the easiest way to run a script under uvx:</p>\n<blockquote>\n<p>Note the shebang line: #!/usr/bin/env -S uv run &ndash;script. It is important to specify uv run with the &ndash;script flag when used on the shebang line.</p>\n</blockquote>\n",
